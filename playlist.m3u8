@@ -18,30 +18,6 @@ https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 #EXTINF:-1 tvg-name="9Rush Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png" tvg-id="9Rush.au" group-title="Australia",9Rush Ⓖ
 https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
-#EXTINF:-1 tvg-name="ORF 1 Ⓖ" tvg-logo="https://i.imgur.com/ft2LuRl.jpg" tvg-id="ORF1.at" group-title="Austria",ORF 1 Ⓖ
-https://orf1.mdn.ors.at/out/u/orf1/q8c/manifest.m3u8
-#EXTINF:-1 tvg-name="ORF 2 Ⓖ" tvg-logo="https://i.imgur.com/yPVDaXv.png" tvg-id="ORF2.at" group-title="Austria",ORF 2 Ⓖ
-https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
-#EXTINF:-1 tvg-name="ORF III Ⓖ" tvg-logo="https://i.imgur.com/6BuiUE7.png" tvg-id="ORFIII.at" group-title="Austria",ORF III Ⓖ
-https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
-#EXTINF:-1 tvg-name="ORF Sport + Ⓖ" tvg-logo="https://i.imgur.com/MVNZ4gf.png" tvg-id="ORFSportPlus.at" group-title="Austria",ORF Sport + Ⓖ
-https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
-#EXTINF:-1 tvg-name="Servus TV Ⓖ" tvg-logo="https://i.imgur.com/zDWhSxq.png" tvg-id="ServusTVOsterreich.at" group-title="Austria",Servus TV Ⓖ
-https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master.m3u8
-#EXTINF:-1 tvg-name="oe24" tvg-logo="https://i.imgur.com/8UTkcPn.png" tvg-id="Oe24TV.at" group-title="Austria",oe24
-https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist_b1900000.m3u8
-#EXTINF:-1 tvg-name="W24" tvg-logo="https://i.imgur.com/PGb4wYw.png" tvg-id="W24.at" group-title="Austria",W24
-https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="P3TV" tvg-logo="https://i.imgur.com/1sPhZ57.png" tvg-id="P3tv.at" group-title="Austria",P3TV
-http://p3-6.mov.at:1935/live/weekstream/playlist.m3u8
-#EXTINF:-1 tvg-name="RTV" tvg-logo="https://i.imgur.com/oD7GQxT.png" tvg-id="RTV.at" group-title="Austria",RTV
-http://iptv.rtv-ooe.at/stream.m3u8
-#EXTINF:-1 tvg-name="RTS Ⓖ" tvg-logo="https://i.imgur.com/Bhv7lvy.png" tvg-id="TVTV.at" group-title="Austria",RTS Ⓖ
-https://58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8
-#EXTINF:-1 tvg-name="Tirol TV Ⓖ" tvg-logo="https://i.imgur.com/1E7Nflo.jpg" tvg-id="TirolTV.at" group-title="Austria",Tirol TV Ⓖ
-http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
-#EXTINF:-1 tvg-name="R9" tvg-logo="https://i.imgur.com/2fxVYsL.jpg" tvg-id="R9.at" group-title="Austria",R9
-https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CBC Toronto" tvg-logo="https://i.imgur.com/H5yEbxf.png" tvg-id="CBCTDT.ca" group-title="Canada",CBC Toronto
 https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8
@@ -158,60 +134,7 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
 #EXTINF:-1 tvg-name="88 Stereo" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" tvg-id="88stereo.cr" group-title="Costa Rica",88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 tvg-name="HRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png" tvg-id="HRT1.hr" group-title="Croatia",HRT 1
-https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8
-#EXTINF:-1 tvg-name="HRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png" tvg-id="HRT2.hr" group-title="Croatia",HRT 2
-https://webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8
-#EXTINF:-1 tvg-name="RTL" tvg-logo="https://i.imgur.com/zAjr6pO.png" tvg-id="RTLCroatia.hr" group-title="Croatia",RTL
-https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-#EXTINF:-1 tvg-name="HRT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png" tvg-id="HRT3.hr" group-title="Croatia",HRT 3
-https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8
-#EXTINF:-1 tvg-name="RTL 2" tvg-logo="https://i.imgur.com/dQLaylJ.png" tvg-id="RTL2Croatia.hr" group-title="Croatia",RTL 2
-https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
-#EXTINF:-1 tvg-name="Sportska televizija Ⓖ" tvg-logo="https://i.imgur.com/xdxjcVh.png" tvg-id="SportskaTV.hr" group-title="Croatia",Sportska televizija Ⓖ
-https://stream.agatin.hr:3087/live/sptvlive.m3u8
-#EXTINF:-1 tvg-name="RTL Kockica" tvg-logo="https://i.imgur.com/BiSVmRa.png" tvg-id="RTLKockica.hr" group-title="Croatia",RTL Kockica
-https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
-#EXTINF:-1 tvg-name="CMC TV" tvg-logo="https://i.imgur.com/Fh2vawT.png" tvg-id="CMCTV.hr" group-title="Croatia",CMC TV
-https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 tvg-name="Plava Vinkovačka" tvg-logo="https://i.imgur.com/WJJNtQ3.jpg" tvg-id="PlavaVinkovacka.hr" group-title="Croatia",Plava Vinkovačka
-https://player-api.new.livestream.com/accounts/26611954/events/7977299/broadcasts/237205435.secure.m3u8
-#EXTINF:-1 tvg-name="Televizija Slavonije i Baranje (STV)" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/0/04/STV.PNG" tvg-id="STV.hr" group-title="Croatia",Televizija Slavonije i Baranje (STV)
-http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1 tvg-name="Osječka televizija (OSTV) Ⓢ" tvg-logo="https://i.imgur.com/o9JgEyG.png" tvg-id="OSTV.hr" group-title="Croatia",Osječka televizija (OSTV) Ⓢ
-https://player-api.new.livestream.com/accounts/27681961/events/8347875/broadcasts/237202062.secure.m3u8
-#EXTINF:-1 tvg-name="TV Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/c/c8/TVnova-logo.png" tvg-id="TVNova.hr" group-title="Croatia",TV Nova
-https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-#EXTINF:-1 tvg-name="TV Jadran" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/9a/Tv_jadran_logo.png" tvg-id="TVJadran.hr" group-title="Croatia",TV Jadran
-https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
-#EXTINF:-1 tvg-name="Libertas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/8/8a/LibertasTV.png" tvg-id="LibertasTV.hr" group-title="Croatia",Libertas TV
-https://stream.luci.xyz/hls/LTV.m3u8
-#EXTINF:-1 tvg-name="Trend TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/2/22/TrendTV.jpg" tvg-id="TrendTV.hr" group-title="Croatia",Trend TV
-http://185.62.75.22:1935/trend/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="Televizija Zapad" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/97/TVZ-2018.png" tvg-id="TVZapad.hr" group-title="Croatia",Televizija Zapad
-http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Balkans" tvg-logo="https://i.imgur.com/Z1FB6wl.png" tvg-id="AlJazeeraBalkans.ba" group-title="Croatia",Al Jazeera Balkans
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1 tvg-name="RIK 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_RIK_1_2017.svg/640px-Logo_RIK_1_2017.svg.png" tvg-id="RIK1.cy" group-title="Cyprus",RIK 1 Ⓢ
-http://l6.cloudskep.com/tvb6/rik1-1/mpeg.2ts
-#EXTINF:-1 tvg-name="RIK 2 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_RIK_2_2017.svg/640px-Logo_RIK_2_2017.svg.png" tvg-id="RIK2.cy" group-title="Cyprus",RIK 2 Ⓢ
-http://l6.cloudskep.com/tvb6/rik2-1/mpeg.2ts
-#EXTINF:-1 tvg-name="RIK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/el/7/7d/RIKHD2.png" tvg-id="RIKHD.cy" group-title="Cyprus",RIK HD
-http://l6.cloudskep.com/tvb6/rikhd1/mpeg.2ts
-#EXTINF:-1 tvg-name="RIK Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_RIK_Sat_2017.svg/640px-Logo_RIK_Sat_2017.svg.png" tvg-id="RIKSat.cy" group-title="Cyprus",RIK Sat
-https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 tvg-name="BRT 1" tvg-logo="https://i.imgur.com/gOPAi2c.png" tvg-id="BRT1.cy" group-title="Cyprus",BRT 1
-https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="BRT 2" tvg-logo="https://i.imgur.com/t5kbIuj.png" tvg-id="BRT2.cy" group-title="Cyprus",BRT 2
-https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="Ada TV Ⓢ" tvg-logo="https://i.imgur.com/LPQfdz2.png" tvg-id="AdaTV.cy" group-title="Cyprus",Ada TV Ⓢ
-https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kıbrıs Genç TV Ⓢ" tvg-logo="https://i.imgur.com/eBdQn9h.png" tvg-id="KibrisGencTV.cy" group-title="Cyprus",Kıbrıs Genç TV Ⓢ
-https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanal T Ⓢ" tvg-logo="https://i.imgur.com/4bA4pXT.png" tvg-id="KibrisKanalT.cy" group-title="Cyprus",Kanal T Ⓢ
-https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kıbrıs TV Ⓢ" tvg-logo="https://i.imgur.com/5MJZPTo.png" tvg-id="KibrisTV.cy" group-title="Cyprus",Kıbrıs TV Ⓢ
-https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
+
 #EXTINF:-1 tvg-name="TV 2020 Ⓢ" tvg-logo="https://i.imgur.com/rtfsNdd.png" tvg-id="TV2020.cy" group-title="Cyprus",TV 2020 Ⓢ
 https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
 #EXTINF:-1 tvg-name="ČT1 Ⓖ" tvg-logo="https://i.imgur.com/qBlEbN3.png" tvg-id="CT1.cz" group-title="Czech Republic",ČT1 Ⓖ
@@ -598,8 +521,6 @@ https://www.youtube.com/c/kbsworldtv/live
 #EXTINF:-1 tvg-name="All the K-Pop Ⓨ" tvg-logo="https://i.imgur.com/tBbTTAx.png" tvg-id="AlltheKPop.kr" group-title="Korea",All the K-Pop Ⓨ
 https://www.youtube.com/c/ALLTHEKPOP/live
 
-#EXTINF:-1 tvg-name="Chamber TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_of_the_Chamber_of_Deputies_of_Luxembourg.svg/2560px-Logo_of_the_Chamber_of_Deputies_of_Luxembourg.svg.png" tvg-id="ChamberTV.lu" group-title="Luxembourg",Chamber TV
-https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TDM Ou Mun" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" tvg-id="TDMOuMun.mo" group-title="Macau",TDM Ou Mun
 https://live4.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Macau" tvg-logo="https://i.imgur.com/oFPUZ97.png" tvg-id="CanalMacau.mo" group-title="Macau",Canal Macau

@@ -1,5 +1,77 @@
 #EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/default.xml, https://xmltv.tvkaista.net/guides/abc.net.au.xml, https://xmltv.tvkaista.net/guides/allente.dk.xml, https://xmltv.tvkaista.net/guides/allente.fi.xml, https://xmltv.tvkaista.net/guides/allente.no.xml, https://xmltv.tvkaista.net/guides/allente.se.xml, https://xmltv.tvkaista.net/guides/andorradifusio.ad.xml, https://xmltv.tvkaista.net/guides/anteltv.com.uy.xml, https://xmltv.tvkaista.net/guides/arianaafgtv.com.xml, https://xmltv.tvkaista.net/guides/arianatelevision.com.xml, https://xmltv.tvkaista.net/guides/arirang.com.xml, https://xmltv.tvkaista.net/guides/artonline.tv.xml, https://xmltv.tvkaista.net/guides/bein.com.xml, https://xmltv.tvkaista.net/guides/beinsports.com.xml, https://xmltv.tvkaista.net/guides/berrymedia.co.kr.xml, https://xmltv.tvkaista.net/guides/cablego.com.pe.xml, https://xmltv.tvkaista.net/guides/cableplus.com.uy.xml, https://xmltv.tvkaista.net/guides/canalplus.com.xml, https://xmltv.tvkaista.net/guides/cgates.lt.xml, https://xmltv.tvkaista.net/guides/chaines-tv.orange.fr.xml, https://xmltv.tvkaista.net/guides/clickthecity.com.xml, https://xmltv.tvkaista.net/guides/compulms.com.xml, https://xmltv.tvkaista.net/guides/content.astro.com.my.xml, https://xmltv.tvkaista.net/guides/cosmote.gr.xml, https://xmltv.tvkaista.net/guides/cubmu.com.xml, https://xmltv.tvkaista.net/guides/dens.tv.xml, https://xmltv.tvkaista.net/guides/digiturk.com.tr.xml, https://xmltv.tvkaista.net/guides/directv.com.uy.xml, https://xmltv.tvkaista.net/guides/dishtv.in.xml, https://xmltv.tvkaista.net/guides/disneystar.com.xml, https://xmltv.tvkaista.net/guides/dsmart.com.tr.xml, https://xmltv.tvkaista.net/guides/dstv.com.xml, https://xmltv.tvkaista.net/guides/elcinema.com.xml, https://xmltv.tvkaista.net/guides/ena.skylifetv.co.kr.xml, https://xmltv.tvkaista.net/guides/entertainment.ie.xml, https://xmltv.tvkaista.net/guides/firstmedia.com.xml, https://xmltv.tvkaista.net/guides/flixed.io.xml, https://xmltv.tvkaista.net/guides/foxsports.com.au.xml, https://xmltv.tvkaista.net/guides/foxtel.com.au.xml, https://xmltv.tvkaista.net/guides/frikanalen.no.xml, https://xmltv.tvkaista.net/guides/gatotv.com.xml, https://xmltv.tvkaista.net/guides/getafteritmedia.com.xml, https://xmltv.tvkaista.net/guides/guida.tv.xml, https://xmltv.tvkaista.net/guides/guidatv.sky.it.xml, https://xmltv.tvkaista.net/guides/horizon.tv.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz.xml, https://xmltv.tvkaista.net/guides/i24news.tv.xml, https://xmltv.tvkaista.net/guides/iltalehti.fi.xml, https://xmltv.tvkaista.net/guides/indihometv.com.xml, https://xmltv.tvkaista.net/guides/ipko.com.xml, https://xmltv.tvkaista.net/guides/knr.gl.xml, https://xmltv.tvkaista.net/guides/kvf.fo.xml, https://xmltv.tvkaista.net/guides/m.tving.com.xml, https://xmltv.tvkaista.net/guides/magticom.ge.xml, https://xmltv.tvkaista.net/guides/mako.co.il.xml, https://xmltv.tvkaista.net/guides/maxtv.hrvatskitelekom.hr.xml, https://xmltv.tvkaista.net/guides/maxtvgo.mk.xml, https://xmltv.tvkaista.net/guides/mediagenie.co.kr.xml, https://xmltv.tvkaista.net/guides/mediaklikk.hu.xml, https://xmltv.tvkaista.net/guides/mediasetinfinity.mediaset.it.xml, https://xmltv.tvkaista.net/guides/melita.com.xml, https://xmltv.tvkaista.net/guides/meo.pt.xml, https://xmltv.tvkaista.net/guides/meuguia.tv.xml, https://xmltv.tvkaista.net/guides/mewatch.sg.xml, https://xmltv.tvkaista.net/guides/mi.tv.xml, https://xmltv.tvkaista.net/guides/mncvision.id.xml, https://xmltv.tvkaista.net/guides/moji.id.xml, https://xmltv.tvkaista.net/guides/mon-programme-tv.be.xml, https://xmltv.tvkaista.net/guides/movistarplus.es.xml, https://xmltv.tvkaista.net/guides/mtel.ba.xml, https://xmltv.tvkaista.net/guides/mts.rs.xml, https://xmltv.tvkaista.net/guides/mujtvprogram.cz.xml, https://xmltv.tvkaista.net/guides/musor.tv.xml, https://xmltv.tvkaista.net/guides/myafn.dodmedia.osd.mil.xml, https://xmltv.tvkaista.net/guides/mysky.com.ph.xml, https://xmltv.tvkaista.net/guides/mytelly.co.uk.xml, https://xmltv.tvkaista.net/guides/mytvsuper.com.xml, https://xmltv.tvkaista.net/guides/nhk.or.jp.xml, https://xmltv.tvkaista.net/guides/nhkworldpremium.com.xml, https://xmltv.tvkaista.net/guides/novacyprus.com.xml, https://xmltv.tvkaista.net/guides/novasports.gr.xml, https://xmltv.tvkaista.net/guides/nuevosiglo.com.uy.xml, https://xmltv.tvkaista.net/guides/nzxmltv.com.xml, https://xmltv.tvkaista.net/guides/ontvtonight.com.xml, https://xmltv.tvkaista.net/guides/osn.com.xml, https://xmltv.tvkaista.net/guides/pbsguam.org.xml, https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml, https://xmltv.tvkaista.net/guides/plex.tv.xml, https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml, https://xmltv.tvkaista.net/guides/programacion.tcc.com.uy.xml, https://xmltv.tvkaista.net/guides/programetv.ro.xml, https://xmltv.tvkaista.net/guides/programme-tv.net.xml, https://xmltv.tvkaista.net/guides/programme-tv.vini.pf.xml, https://xmltv.tvkaista.net/guides/programtv.onet.pl.xml, https://xmltv.tvkaista.net/guides/raiplay.it.xml, https://xmltv.tvkaista.net/guides/reportv.com.ar.xml, https://xmltv.tvkaista.net/guides/rthk.hk.xml, https://xmltv.tvkaista.net/guides/rtmklik.rtm.gov.my.xml, https://xmltv.tvkaista.net/guides/rtp.pt.xml, https://xmltv.tvkaista.net/guides/ruv.is.xml, https://xmltv.tvkaista.net/guides/sat.tv.xml, https://xmltv.tvkaista.net/guides/shahid.mbc.net.xml, https://xmltv.tvkaista.net/guides/siba.com.co.xml, https://xmltv.tvkaista.net/guides/singtel.com.xml, https://xmltv.tvkaista.net/guides/sjonvarp.is.xml, https://xmltv.tvkaista.net/guides/sky.co.nz.xml, https://xmltv.tvkaista.net/guides/sky.com.xml, https://xmltv.tvkaista.net/guides/sky.de.xml, https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml, https://xmltv.tvkaista.net/guides/startimestv.com.xml, https://xmltv.tvkaista.net/guides/streamingtvguides.com.xml, https://xmltv.tvkaista.net/guides/superguidatv.it.xml, https://xmltv.tvkaista.net/guides/taiwanplus.com.xml, https://xmltv.tvkaista.net/guides/tapdmv.com.xml, https://xmltv.tvkaista.net/guides/telenet.tv.xml, https://xmltv.tvkaista.net/guides/teliatv.ee.xml, https://xmltv.tvkaista.net/guides/telkussa.fi.xml, https://xmltv.tvkaista.net/guides/telsu.fi.xml, https://xmltv.tvkaista.net/guides/tivu.tv.xml, https://xmltv.tvkaista.net/guides/toonamiaftermath.com.xml, https://xmltv.tvkaista.net/guides/turksatkablo.com.tr.xml, https://xmltv.tvkaista.net/guides/tv-programme.telecablesat.fr.xml, https://xmltv.tvkaista.net/guides/tv.blue.ch.xml, https://xmltv.tvkaista.net/guides/tv.cctv.com.xml, https://xmltv.tvkaista.net/guides/tv.dir.bg.xml, https://xmltv.tvkaista.net/guides/tv.lv.xml, https://xmltv.tvkaista.net/guides/tv.magenta.at.xml, https://xmltv.tvkaista.net/guides/tv.mail.ru.xml, https://xmltv.tvkaista.net/guides/tv.movistar.com.pe.xml, https://xmltv.tvkaista.net/guides/tv.nu.xml, https://xmltv.tvkaista.net/guides/tv.post.lu.xml, https://xmltv.tvkaista.net/guides/tv.yandex.ru.xml, https://xmltv.tvkaista.net/guides/tv24.co.uk.xml, https://xmltv.tvkaista.net/guides/tv24.se.xml, https://xmltv.tvkaista.net/guides/tv2go.t-2.net.xml, https://xmltv.tvkaista.net/guides/tvcesoir.fr.xml, https://xmltv.tvkaista.net/guides/tvcubana.icrt.cu.xml, https://xmltv.tvkaista.net/guides/tvgids.nl.xml, https://xmltv.tvkaista.net/guides/tvguide.com.xml, https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml, https://xmltv.tvkaista.net/guides/tvhebdo.com.xml, https://xmltv.tvkaista.net/guides/tvheute.at.xml, https://xmltv.tvkaista.net/guides/tvim.tv.xml, https://xmltv.tvkaista.net/guides/tvireland.ie.xml, https://xmltv.tvkaista.net/guides/tvmi.mt.xml, https://xmltv.tvkaista.net/guides/tvmusor.hu.xml, https://xmltv.tvkaista.net/guides/tvpassport.com.xml, https://xmltv.tvkaista.net/guides/tvplus.com.tr.xml, https://xmltv.tvkaista.net/guides/tvprofil.com.xml, https://xmltv.tvkaista.net/guides/tvtv.us.xml, https://xmltv.tvkaista.net/guides/vidio.com.xml, https://xmltv.tvkaista.net/guides/virginmediatelevision.ie.xml, https://xmltv.tvkaista.net/guides/virgintvgo.virginmedia.com.xml, https://xmltv.tvkaista.net/guides/visionplus.id.xml, https://xmltv.tvkaista.net/guides/vtm.be.xml, https://xmltv.tvkaista.net/guides/walesi.com.fj.xml, https://xmltv.tvkaista.net/guides/watch.sportsnet.ca.xml, https://xmltv.tvkaista.net/guides/watchyour.tv.xml, https://xmltv.tvkaista.net/guides/wavve.com.xml, https://xmltv.tvkaista.net/guides/web.magentatv.de.xml, https://xmltv.tvkaista.net/guides/webtv.delta.nl.xml, https://xmltv.tvkaista.net/guides/worldfishingnetwork.com.xml, https://xmltv.tvkaista.net/guides/xumo.tv.xml, https://xmltv.tvkaista.net/guides/zap.co.ao.xml, https://xmltv.tvkaista.net/guides/ziggogo.tv.xml, https://xmltv.tvkaista.net/guides/znbc.co.zm.xml, https://xmltv.tvkaista.net/guides/zuragt.mn.xml"
 
+#EXTINF:0 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="Kids/Animation",Aniplus
+http://210.210.155.35/dr9445/h/h02/index2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BabyTV.uk.png" group-title="Kids/Animation", Baby TV
+http://iliketot.dyndns.tv/7773f3cef0334a28ad248552ea63d9e7.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Boomerang.uk.png" group-title="Kids/Animation", Boomerang 
+http://123.249.76.157:10016/bysid/23
+#EXTINF:-1 tvg-logo="https://www.licensingitalia.it/wp-content/uploads/2017/04/Cartoonito-Logo-1.jpg" group-title="Kids/Animation",Cartoonito
+http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/955
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CBeebies.uk.png" group-title="Kids/Animation", Cbeebies
+http://s1.tvmucho.com:8081/tvmucho/cbeebies-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDEvMjMvMjAxNyAwODoxOToyNCBBTSZoYXNoX3ZhbHVlPXZVMjVqTDlkOGJVcWxPak1BRVNrMGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9OEw4TDc5JnN0cm1fbGVuPTE5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/CITV_2013_logo.png" group-title="Kids/Animation",CITV
+http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/961
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation",Cartoon Network
+http://161.0.157.5/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/DisneyChannel.kr.png" group-title="Kids/Animation", Disney Channel
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25463
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/DisneyXD.nz.png" group-title="Kids/Animation", Disney XD 
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25466
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/DisneyJunior.nz.png" group-title="Kids/Animation", Disney Junior
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25460
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/188px-Ducktv-logo.jpg" group-title="Kids/Animation", Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/Nickelodeon.pt.png" group-title="Kids/Animation", Nickelodeon
+http://123.176.22.42:4022/udp/232.4.0.201:1234
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/NickJunior.uk.png" group-title="Kids/Animation", Nickelodeon JR
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25457
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/NickJunior.uk.png" group-title="Kids/Animation", Nickelodeon JR TOO
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25459
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nicktoons.uk.png" group-title="Kids/Animation", NickToons
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25452
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Pop.uk.png" group-title="Kids/Animation",POP
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25451
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Pop-max-logo.png" group-title="Kids/Animation",POP Max
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25450
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Tinypop.uk.png" group-title="Kids/Animation",Tiny Pop
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25449
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="Education",Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="Education",Animal Planet (India)
+http://80.80.160.168/live/1/1500000/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Education",Discovery
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryScience.uk.png" group-title="Education", Discovery Science
+http://123.249.76.157:10024/bysid/90
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryHistory.uk.png" group-title="Education", Discovery History
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25433
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/InvestigationDiscovery.uk.png" group-title="Education",Investigation Discovery 
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Planet_Green_Logo.png" group-title="Education",Planet Green
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryShed.uk.png" group-title="Education",Discovery Shed
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25429
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryTurbo.uk.png" group-title="Education",Discovery Turbo
+http://123.249.76.157:10024/bysid/100
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/220px-CGTN_Documentary_logo.png"group-title="Education",CGTN Documentary 
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/HistoryChannel.uk.png" group-title="Education", History 
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/26558
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CrimeAndInvestigationNetwork.uk.png" group-title="Education", Crime & Investigation
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/25445
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2016/10/SBS_VICELAND_LOGO_BLACK.jpg" group-title="Education",Viceland
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/26502
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Education", National Geographic
+http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Education", National Geo Wild
+http://iliketot.dyndns.tv/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Education", National Geo People
+http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8
+#EXTINF:-1 tvg-logo="http://www.thenonprofittimes.com/wp-content/uploads/2017/02/Pbs-1.png" group-title="Education",PBS
+http://190.80.3.28/PBS/PBS.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="BeautifulLifeTV.tw" group-title="Taiwan",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-id="DaAi1.tw" group-title="Taiwan",DaAi1 (大愛1) (720p)
@@ -103,10 +175,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
 #EXTINF:-1 tvg-id="TVIKIM.my" group-title="Malaysia",TVIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png" group-title="Malaysia",ONE
-http://183.182.100.184/live/onehd/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="AniplusAsia.sg" group-title="Animation",AniPlus (1080p)
+#EXTINF:-1 tvg-id="AniplusAsia.sg" group-title="Kids/Animation",AniPlus (1080p)
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg" group-title="Singapore",CNA International1 (1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8

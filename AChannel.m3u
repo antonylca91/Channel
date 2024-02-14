@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/f2c2cb5788798387b952f.png",8TV CH148
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+https://fvtv.mywire.org/streams/dailymotion/ch_8tv.m3u8
 
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/30aae69adef041933dbee.png",Astro Xiao Tai Yang HD CH304
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/88500

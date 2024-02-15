@@ -1,310 +1,310 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml, https://xmltv.tvkaista.net/guides/default.xml, https://xmltv.tvkaista.net/guides/abc.net.au.xml, https://xmltv.tvkaista.net/guides/allente.dk.xml, https://xmltv.tvkaista.net/guides/allente.fi.xml, https://xmltv.tvkaista.net/guides/allente.no.xml, https://xmltv.tvkaista.net/guides/allente.se.xml, https://xmltv.tvkaista.net/guides/andorradifusio.ad.xml, https://xmltv.tvkaista.net/guides/anteltv.com.uy.xml, https://xmltv.tvkaista.net/guides/arianaafgtv.com.xml, https://xmltv.tvkaista.net/guides/arianatelevision.com.xml, https://xmltv.tvkaista.net/guides/arirang.com.xml, https://xmltv.tvkaista.net/guides/artonline.tv.xml, https://xmltv.tvkaista.net/guides/bein.com.xml, https://xmltv.tvkaista.net/guides/beinsports.com.xml, https://xmltv.tvkaista.net/guides/berrymedia.co.kr.xml, https://xmltv.tvkaista.net/guides/cablego.com.pe.xml, https://xmltv.tvkaista.net/guides/cableplus.com.uy.xml, https://xmltv.tvkaista.net/guides/canalplus.com.xml, https://xmltv.tvkaista.net/guides/cgates.lt.xml, https://xmltv.tvkaista.net/guides/chaines-tv.orange.fr.xml, https://xmltv.tvkaista.net/guides/clickthecity.com.xml, https://xmltv.tvkaista.net/guides/compulms.com.xml, https://xmltv.tvkaista.net/guides/content.astro.com.my.xml, https://xmltv.tvkaista.net/guides/cosmote.gr.xml, https://xmltv.tvkaista.net/guides/cubmu.com.xml, https://xmltv.tvkaista.net/guides/dens.tv.xml, https://xmltv.tvkaista.net/guides/digiturk.com.tr.xml, https://xmltv.tvkaista.net/guides/directv.com.uy.xml, https://xmltv.tvkaista.net/guides/dishtv.in.xml, https://xmltv.tvkaista.net/guides/disneystar.com.xml, https://xmltv.tvkaista.net/guides/dsmart.com.tr.xml, https://xmltv.tvkaista.net/guides/dstv.com.xml, https://xmltv.tvkaista.net/guides/elcinema.com.xml, https://xmltv.tvkaista.net/guides/ena.skylifetv.co.kr.xml, https://xmltv.tvkaista.net/guides/entertainment.ie.xml, https://xmltv.tvkaista.net/guides/firstmedia.com.xml, https://xmltv.tvkaista.net/guides/flixed.io.xml, https://xmltv.tvkaista.net/guides/foxsports.com.au.xml, https://xmltv.tvkaista.net/guides/foxtel.com.au.xml, https://xmltv.tvkaista.net/guides/frikanalen.no.xml, https://xmltv.tvkaista.net/guides/gatotv.com.xml, https://xmltv.tvkaista.net/guides/getafteritmedia.com.xml, https://xmltv.tvkaista.net/guides/guida.tv.xml, https://xmltv.tvkaista.net/guides/guidatv.sky.it.xml, https://xmltv.tvkaista.net/guides/horizon.tv.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz.xml, https://xmltv.tvkaista.net/guides/i24news.tv.xml, https://xmltv.tvkaista.net/guides/iltalehti.fi.xml, https://xmltv.tvkaista.net/guides/indihometv.com.xml, https://xmltv.tvkaista.net/guides/ipko.com.xml, https://xmltv.tvkaista.net/guides/knr.gl.xml, https://xmltv.tvkaista.net/guides/kvf.fo.xml, https://xmltv.tvkaista.net/guides/m.tving.com.xml, https://xmltv.tvkaista.net/guides/magticom.ge.xml, https://xmltv.tvkaista.net/guides/mako.co.il.xml, https://xmltv.tvkaista.net/guides/maxtv.hrvatskitelekom.hr.xml, https://xmltv.tvkaista.net/guides/maxtvgo.mk.xml, https://xmltv.tvkaista.net/guides/mediagenie.co.kr.xml, https://xmltv.tvkaista.net/guides/mediaklikk.hu.xml, https://xmltv.tvkaista.net/guides/mediasetinfinity.mediaset.it.xml, https://xmltv.tvkaista.net/guides/melita.com.xml, https://xmltv.tvkaista.net/guides/meo.pt.xml, https://xmltv.tvkaista.net/guides/meuguia.tv.xml, https://xmltv.tvkaista.net/guides/mewatch.sg.xml, https://xmltv.tvkaista.net/guides/mi.tv.xml, https://xmltv.tvkaista.net/guides/mncvision.id.xml, https://xmltv.tvkaista.net/guides/moji.id.xml, https://xmltv.tvkaista.net/guides/mon-programme-tv.be.xml, https://xmltv.tvkaista.net/guides/movistarplus.es.xml, https://xmltv.tvkaista.net/guides/mtel.ba.xml, https://xmltv.tvkaista.net/guides/mts.rs.xml, https://xmltv.tvkaista.net/guides/mujtvprogram.cz.xml, https://xmltv.tvkaista.net/guides/musor.tv.xml, https://xmltv.tvkaista.net/guides/myafn.dodmedia.osd.mil.xml, https://xmltv.tvkaista.net/guides/mysky.com.ph.xml, https://xmltv.tvkaista.net/guides/mytelly.co.uk.xml, https://xmltv.tvkaista.net/guides/mytvsuper.com.xml, https://xmltv.tvkaista.net/guides/nhk.or.jp.xml, https://xmltv.tvkaista.net/guides/nhkworldpremium.com.xml, https://xmltv.tvkaista.net/guides/novacyprus.com.xml, https://xmltv.tvkaista.net/guides/novasports.gr.xml, https://xmltv.tvkaista.net/guides/nuevosiglo.com.uy.xml, https://xmltv.tvkaista.net/guides/nzxmltv.com.xml, https://xmltv.tvkaista.net/guides/ontvtonight.com.xml, https://xmltv.tvkaista.net/guides/osn.com.xml, https://xmltv.tvkaista.net/guides/pbsguam.org.xml, https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml, https://xmltv.tvkaista.net/guides/plex.tv.xml, https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml, https://xmltv.tvkaista.net/guides/programacion.tcc.com.uy.xml, https://xmltv.tvkaista.net/guides/programetv.ro.xml, https://xmltv.tvkaista.net/guides/programme-tv.net.xml, https://xmltv.tvkaista.net/guides/programme-tv.vini.pf.xml, https://xmltv.tvkaista.net/guides/programtv.onet.pl.xml, https://xmltv.tvkaista.net/guides/raiplay.it.xml, https://xmltv.tvkaista.net/guides/reportv.com.ar.xml, https://xmltv.tvkaista.net/guides/rthk.hk.xml, https://xmltv.tvkaista.net/guides/rtmklik.rtm.gov.my.xml, https://xmltv.tvkaista.net/guides/rtp.pt.xml, https://xmltv.tvkaista.net/guides/ruv.is.xml, https://xmltv.tvkaista.net/guides/sat.tv.xml, https://xmltv.tvkaista.net/guides/shahid.mbc.net.xml, https://xmltv.tvkaista.net/guides/siba.com.co.xml, https://xmltv.tvkaista.net/guides/singtel.com.xml, https://xmltv.tvkaista.net/guides/sjonvarp.is.xml, https://xmltv.tvkaista.net/guides/sky.co.nz.xml, https://xmltv.tvkaista.net/guides/sky.com.xml, https://xmltv.tvkaista.net/guides/sky.de.xml, https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml, https://xmltv.tvkaista.net/guides/startimestv.com.xml, https://xmltv.tvkaista.net/guides/streamingtvguides.com.xml, https://xmltv.tvkaista.net/guides/superguidatv.it.xml, https://xmltv.tvkaista.net/guides/taiwanplus.com.xml, https://xmltv.tvkaista.net/guides/tapdmv.com.xml, https://xmltv.tvkaista.net/guides/telenet.tv.xml, https://xmltv.tvkaista.net/guides/teliatv.ee.xml, https://xmltv.tvkaista.net/guides/telkussa.fi.xml, https://xmltv.tvkaista.net/guides/telsu.fi.xml, https://xmltv.tvkaista.net/guides/tivu.tv.xml, https://xmltv.tvkaista.net/guides/toonamiaftermath.com.xml, https://xmltv.tvkaista.net/guides/turksatkablo.com.tr.xml, https://xmltv.tvkaista.net/guides/tv-programme.telecablesat.fr.xml, https://xmltv.tvkaista.net/guides/tv.blue.ch.xml, https://xmltv.tvkaista.net/guides/tv.cctv.com.xml, https://xmltv.tvkaista.net/guides/tv.dir.bg.xml, https://xmltv.tvkaista.net/guides/tv.lv.xml, https://xmltv.tvkaista.net/guides/tv.magenta.at.xml, https://xmltv.tvkaista.net/guides/tv.mail.ru.xml, https://xmltv.tvkaista.net/guides/tv.movistar.com.pe.xml, https://xmltv.tvkaista.net/guides/tv.nu.xml, https://xmltv.tvkaista.net/guides/tv.post.lu.xml, https://xmltv.tvkaista.net/guides/tv.yandex.ru.xml, https://xmltv.tvkaista.net/guides/tv24.co.uk.xml, https://xmltv.tvkaista.net/guides/tv24.se.xml, https://xmltv.tvkaista.net/guides/tv2go.t-2.net.xml, https://xmltv.tvkaista.net/guides/tvcesoir.fr.xml, https://xmltv.tvkaista.net/guides/tvcubana.icrt.cu.xml, https://xmltv.tvkaista.net/guides/tvgids.nl.xml, https://xmltv.tvkaista.net/guides/tvguide.com.xml, https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml, https://xmltv.tvkaista.net/guides/tvhebdo.com.xml, https://xmltv.tvkaista.net/guides/tvheute.at.xml, https://xmltv.tvkaista.net/guides/tvim.tv.xml, https://xmltv.tvkaista.net/guides/tvireland.ie.xml, https://xmltv.tvkaista.net/guides/tvmi.mt.xml, https://xmltv.tvkaista.net/guides/tvmusor.hu.xml, https://xmltv.tvkaista.net/guides/tvpassport.com.xml, https://xmltv.tvkaista.net/guides/tvplus.com.tr.xml, https://xmltv.tvkaista.net/guides/tvprofil.com.xml, https://xmltv.tvkaista.net/guides/tvtv.us.xml, https://xmltv.tvkaista.net/guides/vidio.com.xml, https://xmltv.tvkaista.net/guides/virginmediatelevision.ie.xml, https://xmltv.tvkaista.net/guides/virgintvgo.virginmedia.com.xml, https://xmltv.tvkaista.net/guides/visionplus.id.xml, https://xmltv.tvkaista.net/guides/vtm.be.xml, https://xmltv.tvkaista.net/guides/walesi.com.fj.xml, https://xmltv.tvkaista.net/guides/watch.sportsnet.ca.xml, https://xmltv.tvkaista.net/guides/watchyour.tv.xml, https://xmltv.tvkaista.net/guides/wavve.com.xml, https://xmltv.tvkaista.net/guides/web.magentatv.de.xml, https://xmltv.tvkaista.net/guides/webtv.delta.nl.xml, https://xmltv.tvkaista.net/guides/worldfishingnetwork.com.xml, https://xmltv.tvkaista.net/guides/xumo.tv.xml, https://xmltv.tvkaista.net/guides/zap.co.ao.xml, https://xmltv.tvkaista.net/guides/ziggogo.tv.xml, https://xmltv.tvkaista.net/guides/znbc.co.zm.xml, https://xmltv.tvkaista.net/guides/zuragt.mn.xml"
 
 Taiwan (600)
-#EXTINF:-1 tvg-id="BeautifulLifeTV.tw" group-title="Taiwan",Beautiful Life TV
+#EXTINF:-1 tvg-id="601" group-title="Taiwan",601 Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 tvg-id="DaAi1.tw" group-title="Taiwan",DaAi1 (大愛1) (720p)
+#EXTINF:-1 tvg-id="602" group-title="Taiwan",602 大愛1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="DaAi2.tw" group-title="Taiwan",DaAi2 (大愛2) (720p)
+#EXTINF:-1 tvg-id="603" group-title="Taiwan",603 大愛2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-id="DaliTV.tw" group-title="Taiwan",Dali TV (大立電視台) (720p)
+#EXTINF:-1 tvg-id="603" group-title="Taiwan",603 大立電視台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-id="EBCForeignMovie.tw" group-title="Taiwan",EBC Foreign Movie (東森洋片) (1080p)
+#EXTINF:-1 tvg-id="604" group-title="Taiwan",604 EBC 東森洋片
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-#EXTINF:-1 tvg-id="EBCMovie.tw" group-title="Taiwan",EBC Movie (東森電影) (1080p)
+#EXTINF:-1 tvg-id="605" group-title="Taiwan",605 EBC 東森電影
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
-#EXTINF:-1 tvg-id="GlobalNews.tw" group-title="Taiwan",Global News (1080p)
+#EXTINF:-1 tvg-id="606" group-title="Taiwan",606 Global News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 tvg-id="GoodTV.tw" group-title="Taiwan",GOOD TV CH1 綜合台 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="607" group-title="Taiwan",607 GOODTV CH1 綜合台
 https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 tvg-id="Good2.tw" group-title="Taiwan",GOOD TV CH2 真理台 (720p)
+#EXTINF:-1 tvg-id="608" group-title="Taiwan",608 GOODTV CH2 真理台
 https://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH3 真情部落格 短版 (720p)
+#EXTINF:-1 tvg-id="609" group-title="Taiwan",609 GOODTV CH3 真情部落格 短版
 https://live.streamingfast.net/osmflivech3.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH5 共享觀點 短版 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="610" group-title="Taiwan",610 GOODTV CH5 共享觀點 短版
 https://live.streamingfast.net/osmflivech5.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH6 親近神 詩歌音樂 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="611" group-title="Taiwan",611 GOODTV CH6 親近神 詩歌音樂
 https://live.streamingfast.net/osmflivech6.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH7 禱告大軍 信息 (720p)
+#EXTINF:-1 tvg-id="612" group-title="Taiwan",612 GOODTV CH7 禱告大軍 信息
 https://live.streamingfast.net/osmflivech7.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH9 愛+好醫生 短版 (720p)
+#EXTINF:-1 tvg-id="613" group-title="Taiwan",613 GOODTV CH9 愛+好醫生 短版
 https://live.streamingfast.net/osmflivech9.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH12 維他命施 (720p)
+#EXTINF:-1 tvg-id="614" group-title="Taiwan",614 GOODTV CH12 維他命施
 https://live.streamingfast.net/osmflivech12.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH14 真情部落格 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="615" group-title="Taiwan",615 GOODTV CH14 真情部落格
 https://live.streamingfast.net/osmflivech14.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH15 真情之夜 (720p)
+#EXTINF:-1 tvg-id="616" group-title="Taiwan",616 GOODTV CH15 真情之夜
 https://live.streamingfast.net/osmflivech15.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH16 葉光明 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="617" group-title="Taiwan",617 GOODTV CH16 葉光明
 https://live.streamingfast.net/osmflivech16.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH17 大衛鮑森 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="618" group-title="Taiwan",618 GOODTV CH17 大衛鮑森
 https://live.streamingfast.net/osmflivech17.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH18 國際講員 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="619" group-title="Taiwan",619 GOODTV CH18 國際講員
 https://live.streamingfast.net/osmflivech18.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH20 恩典時分 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="620" group-title="Taiwan",620 GOODTV CH20 恩典時分
 https://live.streamingfast.net/osmflivech20.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH21 華語講員 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="621" group-title="Taiwan",621 GOODTV CH21 華語講員
 https://live.streamingfast.net/osmflivech21.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH24 劉三講古 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="622" group-title="Taiwan",622 GOODTV CH24 劉三講古
 https://live.streamingfast.net/osmflivech24.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH27 空中聖經學院 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="623" group-title="Taiwan",623 GOODTV CH27 空中聖經學院
 https://live.streamingfast.net/osmflivech27.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH28 現代詩歌 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="624" group-title="Taiwan",624 GOODTV CH28 現代詩歌
 https://live.streamingfast.net/osmflivech28.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH29 經典音樂河 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="625" group-title="Taiwan",625 GOODTV CH29 經典音樂河
 https://live.streamingfast.net/osmflivech29.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH30 天堂敬拜 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="626" group-title="Taiwan",626 GOODTV CH30 天堂敬拜
 https://live.streamingfast.net/osmflivech30.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH31 福音佈道音樂會 (720p)
+#EXTINF:-1 tvg-id="627" group-title="Taiwan",627 GOODTV CH31 福音佈道音樂會
 https://live.streamingfast.net/osmflivech31.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH32 特會系列：禱告與轉化 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="628" group-title="Taiwan",628 GOODTV CH32 特會系列：禱告與轉化
 https://live.streamingfast.net/osmflivech32.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH33 特會系列：研經培靈 (720p)
+#EXTINF:-1 tvg-id="629" group-title="Taiwan",629 GOODTV CH33 特會系列：研經培靈
 https://live.streamingfast.net/osmflivech33.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH38 特會系列：青年特會 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="630" group-title="Taiwan",630 GOODTV CH38 特會系列：青年特會
 https://live.streamingfast.net/osmflivech38.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH40 家庭8點檔轉轉發現愛 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="631" group-title="Taiwan",631 GOODTV CH40 家庭8點檔轉轉發現愛
 https://live.streamingfast.net/osmflivech40.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH47 牧者頻道 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="632" group-title="Taiwan",632 GOODTV CH47 牧者頻道
 https://live.streamingfast.net/osmflivech47.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH49 禱告頻道 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="633" group-title="Taiwan",633 GOODTV CH49 禱告頻道
 https://live.streamingfast.net/osmflivech49.m3u8
-#EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH50 國際講員 中文發音 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="634" group-title="Taiwan",634 GOODTV CH50 國際講員
 https://live.streamingfast.net/osmflivech50.m3u8
-#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" group-title="Taiwan",Taiwan Plus TV (1080p)
+#EXTINF:-1 tvg-id="635" group-title="Taiwan",635 Taiwan Plus TV
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" group-title="Taiwan",Taiwan Plus TV (1080p)
+#EXTINF:-1 tvg-id="636" group-title="Taiwan",636 Taiwan Plus TV
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:-1 tvg-id="TVBSAsia.tw" group-title="Taiwan",TVBS Asia (1080p)
+#EXTINF:-1 tvg-id="637" group-title="Taiwan",637 TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBSNews.tw" group-title="Taiwan",TVBS News (TVBS新聞台) [Geo-blocked]
+#EXTINF:-1 tvg-id="638" group-title="Taiwan",638 TVBS新聞台
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="CTiNews.tw" group-title="Taiwan",中天新聞台 (1080p)
+#EXTINF:-1 tvg-id="639" group-title="Taiwan",639 中天新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-id="WXTV.tw" group-title="Taiwan",唯心電視 (480p)
+#EXTINF:-1 tvg-id="640" group-title="Taiwan",640 唯心電視
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-id="GeniusGoGoGo.tw" group-title="Taiwan",天才衝衝衝 (1080p)
+#EXTINF:-1 tvg-id="641" group-title="Taiwan",641 天才衝衝衝
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 tvg-id="ETMall60.tw" group-title="Taiwan",東森購物60 (480p)
+#EXTINF:-1 tvg-id="642" group-title="Taiwan",642 東森購物60
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 
 Malaysia Singapore (400)
-#EXTINF:-1 tvg-id="401" group-title="MYSG",8TV (401)
+#EXTINF:-1 tvg-id="401" group-title="MYSG",401 8TV
 https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
-#EXTINF:-1 tvg-id="402" group-title="MYSG",Astro Awani (402)
+#EXTINF:-1 tvg-id="402" group-title="MYSG",402 Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 tvg-id="411" group-title="MYSG",TV1 (411)
+#EXTINF:-1 tvg-id="411" group-title="MYSG",411 TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:-1 tvg-id="412" group-title="MYSG",TV2 (412)
+#EXTINF:-1 tvg-id="412" group-title="MYSG",412 TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:-1 tvg-id="414" group-title="MYSG",Sukan RTM (414)
+#EXTINF:-1 tvg-id="414" group-title="MYSG",414 Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 tvg-id="413" group-title="MYSG",TV3 (413)
+#EXTINF:-1 tvg-id="413" group-title="MYSG",413 TV3
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
-#EXTINF:-1 tvg-id="415" group-title="MYSG",TVIKIM (415)
+#EXTINF:-1 tvg-id="415" group-title="MYSG",415 TVIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 Animation (200)
-#EXTINF:-1 tvg-id="201" group-title="Animation",AniPlus (201)
+#EXTINF:-1 tvg-id="201" group-title="Animation",201 AniPlus
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS Kids Ⓢ" tvg-logo="https://i.imgur.com/62oo8Bx.png" tvg-id="202" group-title="Animation",EBS Kids (202)
+#EXTINF:-1 tvg-name="EBS Kids Ⓢ" tvg-logo="https://i.imgur.com/62oo8Bx.png" tvg-id="202" group-title="Animation",202 EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS Plus 1 Ⓢ" tvg-logo="https://i.imgur.com/ImUHRG2.png" tvg-id="203" group-title="Animation",EBS Plus 1 (203)
+#EXTINF:-1 tvg-name="EBS Plus 1 Ⓢ" tvg-logo="https://i.imgur.com/ImUHRG2.png" tvg-id="203" group-title="Animation",203 EBS Plus1
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS Plus 2 Ⓢ" tvg-logo="https://i.imgur.com/mgFRZFq.png" tvg-id="204" group-title="Animation",EBS Plus 2 (204)
+#EXTINF:-1 tvg-name="EBS Plus 2 Ⓢ" tvg-logo="https://i.imgur.com/mgFRZFq.png" tvg-id="204" group-title="Animation",204 EBS Plus2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS English Ⓢ" tvg-logo="https://i.imgur.com/qceaIf7.png" tvg-id="205" group-title="Animation",EBS English (205)
+#EXTINF:-1 tvg-name="EBS English Ⓢ" tvg-logo="https://i.imgur.com/qceaIf7.png" tvg-id="205" group-title="Animation",205 EBS English
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 
 News (100)
-#EXTINF:-1 tvg-id="101" group-title="MYSG",CNA International (101)
+#EXTINF:-1 tvg-id="101" group-title="News",101 CNA International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="102" group-title="MYSG",meWATCH LIVE 1 (102)
+#EXTINF:-1 tvg-id="102" group-title="News",102 meWATCH LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/640px-ABC_News_Channel.svg.png" tvg-id="ABCNews.au" group-title="News",ABC News
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/640px-ABC_News_Channel.svg.png" tvg-id="103" group-title="News",103 ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-name="Toronto 360 TV" tvg-logo="https://i.imgur.com/PkWndsv.png" tvg-id="Toronto360.tv" group-title="News",Toronto 360 TV
+#EXTINF:-1 tvg-name="Toronto 360 TV" tvg-logo="https://i.imgur.com/PkWndsv.png" tvg-id="104" group-title="News",104 Toronto360TV
 http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
-#EXTINF:-1 tvg-name="RTHK TV 31" tvg-logo="https://i.imgur.com/kf818kM.png" tvg-id="RTHKTV31.hk" group-title="News",RTHK TV 31
+#EXTINF:-1 tvg-name="RTHK TV 31" tvg-logo="https://i.imgur.com/kf818kM.png" tvg-id="105" group-title="News",105 RTHK TV31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-name="RTHK TV 32" tvg-logo="https://i.imgur.com/MXLuUoU.png" tvg-id="RTHKTV32.hk" group-title="News",RTHK TV 32
+#EXTINF:-1 tvg-name="RTHK TV 32" tvg-logo="https://i.imgur.com/MXLuUoU.png" tvg-id="106" group-title="News",106 RTHK TV32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1 tvg-name="Sky News (UK)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" tvg-id="SkyNewsInternational.uk" group-title="News",Sky News (UK)
+#EXTINF:-1 tvg-name="Sky News (UK)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" tvg-id="107" group-title="News",107 Sky News(UK)
 https://i.mjh.nz/PlutoTV/155b285cd2665de274553d66f-alt.m3u8
-#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsEnglish.fr" group-title="News",Euronews
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="108" group-title="News",108 Euronews
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
-#EXTINF:-1 tvg-name="Africanews" tvg-logo="https://i.imgur.com/xocvePC.png" tvg-id="Africanews.cg" group-title="News",Africanews
+#EXTINF:-1 tvg-name="Africanews" tvg-logo="https://i.imgur.com/xocvePC.png" tvg-id="109" group-title="News",109 Africanews
 https://ythls.armelin.one/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8
-#EXTINF:-1 tvg-name="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24English.fr" group-title="News",France 24
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="110" group-title="News",110 France 24
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEnglish.de" group-title="News",DW
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="111" group-title="News",111 DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraEnglish.qa" group-title="News",Al Jazeera
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="112" group-title="News",112 Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTN.cn" group-title="News",CGTN
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="113" group-title="News",113 CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-name="BBC News Ⓖ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" tvg-id="BBCNews.uk" group-title="News",BBC News Ⓖ
+#EXTINF:-1 tvg-name="BBC News Ⓖ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" tvg-id="114" group-title="News",114 BBC News
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-name="NBC News NOW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nbc-news-now-uk.png" tvg-id="NBCNewsNOW.us" group-title="News",NBC News NOW
+#EXTINF:-1 tvg-name="NBC News NOW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nbc-news-now-uk.png" tvg-id="115" group-title="News",115 NBC NewsNOW
 https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
-#EXTINF:-1 tvg-name="Reuters" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" tvg-id="ReutersTV.us" group-title="News",Reuters
+#EXTINF:-1 tvg-name="Reuters" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" tvg-id="116" group-title="News",116 Reuters
 https://i.mjh.nz/SamsungTVPlus/GBBA33000219V.m3u8
-#EXTINF:-1 tvg-name="The Guardian" tvg-logo="https://i.imgur.com/o9AYq9V.png" tvg-id="TheGuardian.uk" group-title="News",The Guardian
+#EXTINF:-1 tvg-name="The Guardian" tvg-logo="https://i.imgur.com/o9AYq9V.png" tvg-id="117" group-title="News",117 The Guardian
 https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8
-#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" tvg-id="CBSNews.us" group-title="News",CBS News
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" tvg-id="118" group-title="News",118 CBS News
 https://i.mjh.nz/SamsungTVPlus/USBA370000104.m3u8
-#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-news-live-hz-us.png" tvg-id="ABCNewsLive.us" group-title="News",ABC News Live
+#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-news-live-hz-us.png" tvg-id="119" group-title="News",119 ABC News Live
 https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
-#EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-logo="https://i.imgur.com/1JnyzHv.png" tvg-id="LiveNOWFromFOX.us" group-title="News",LiveNOW from FOX
+#EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-logo="https://i.imgur.com/1JnyzHv.png" tvg-id="120" group-title="News",120 LiveNOW from FOX
 https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
-#EXTINF:-1 tvg-name="CBC News Network" tvg-logo="https://i.imgur.com/SjTdhvJ.png" tvg-id="CBCNewsNetwork.ca" group-title="News",CBC News Network
+#EXTINF:-1 tvg-name="CBC News Network" tvg-logo="https://i.imgur.com/SjTdhvJ.png" tvg-id="121" group-title="News",121 CBC News Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="Ticker News" tvg-logo="https://i.imgur.com/z7M0QxV.png" tvg-id="tickerNews.au" group-title="News",Ticker News
+#EXTINF:-1 tvg-name="Ticker News" tvg-logo="https://i.imgur.com/z7M0QxV.png" tvg-id="122" group-title="News",122 Ticker News
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8
-#EXTINF:-1 tvg-name="India Today" tvg-logo="https://i.imgur.com/koFYddE.png" tvg-id="IndiaToday.in" group-title="News",India Today
+#EXTINF:-1 tvg-name="India Today" tvg-logo="https://i.imgur.com/koFYddE.png" tvg-id="123" group-title="News",123 India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 tvg-name="Channel News Asia" tvg-logo="https://i.imgur.com/xWglicB.png" tvg-id="CNAInternational.sg" group-title="News",Channel News Asia
+#EXTINF:-1 tvg-name="Channel News Asia" tvg-logo="https://i.imgur.com/xWglicB.png" tvg-id="124" group-title="News",124 Channel News Asia
 https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
-#EXTINF:-1 tvg-name="ABC News (AU)" tvg-logo="https://i.imgur.com/BrW7gk8.png" tvg-id="ABCNews.au" group-title="News",ABC News (AU)
+#EXTINF:-1 tvg-name="ABC News (AU)" tvg-logo="https://i.imgur.com/BrW7gk8.png" tvg-id="125" group-title="News",125 ABC News(AU)
 https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
-#EXTINF:-1 tvg-name="NDTV 24x7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/ndtv-24x7-in.png" tvg-id="NDTV24x7.in" group-title="News",NDTV 24x7
+#EXTINF:-1 tvg-name="NDTV 24x7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/ndtv-24x7-in.png" tvg-id="126" group-title="News",126 NDTV
 https://ythls.armelin.one/channel/UCZFMm1mMw0F81Z37aaEzTUA.m3u8
-#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" tvg-id="TRTWorld.tr" group-title="News",TRT World
+#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" tvg-id="127" group-title="News",127 TRT World
 https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
-#EXTINF:-1 tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" tvg-id="NHKWorldJapan.jp" group-title="News",NHK World Japan
+#EXTINF:-1 tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" tvg-id="128" group-title="News",128 NHK World Japan
 https://ythls.armelin.one/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8
-#EXTINF:-1 tvg-name="DD India" tvg-logo="https://i.imgur.com/45uptR8.png" tvg-id="DDIndia.in" group-title="News",DD India
+#EXTINF:-1 tvg-name="DD India" tvg-logo="https://i.imgur.com/45uptR8.png" tvg-id="129" group-title="News",129 DD India
 https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
-#EXTINF:-1 tvg-name="WION" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" tvg-id="WION.in" group-title="News",WION
+#EXTINF:-1 tvg-name="WION" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" tvg-id="130" group-title="News",130 WION
 https://ythls.armelin.one/channel/UC_gUM8rL-Lrg6O3adPW9K1g.m3u8
-#EXTINF:-1 tvg-name="Taiwan+" tvg-logo="https://i.imgur.com/SfcZyqm.png" tvg-id="TaiwanPlusTV.tw" group-title="News",Taiwan+
+#EXTINF:-1 tvg-name="Taiwan+" tvg-logo="https://i.imgur.com/SfcZyqm.png" tvg-id="131" group-title="News",131 Taiwan+
 https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
-#EXTINF:-1 tvg-name="Metro Globe Network" tvg-logo="https://i.imgur.com/aiiinzg.png" tvg-id="MetroGlobeNetwork.id" group-title="News",Metro Globe Network
+#EXTINF:-1 tvg-name="Metro Globe Network" tvg-logo="https://i.imgur.com/aiiinzg.png" tvg-id="132" group-title="News",132 Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="i24 News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" tvg-id="i24NEWSEnglishWorld.il" group-title="News",i24 News
+#EXTINF:-1 tvg-name="i24 News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" tvg-id="133" group-title="News",133 i24 News
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
-#EXTINF:-1 tvg-name="Scripps News" tvg-logo="https://i.imgur.com/UfN6aAi.png" tvg-id="ScrippsNews.us" group-title="News",Scripps News
+#EXTINF:-1 tvg-name="Scripps News" tvg-logo="https://i.imgur.com/UfN6aAi.png" tvg-id="134" group-title="News",134 Scripps News
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
-#EXTINF:-1 tvg-name="USA Today" tvg-logo="https://i.imgur.com/37K0AZX.png" tvg-id="USATODAY.us" group-title="News",USA Today
+#EXTINF:-1 tvg-name="USA Today" tvg-logo="https://i.imgur.com/37K0AZX.png" tvg-id="135" group-title="News",135 USA Today
 https://lnc-usa-today.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-name="TVC News" tvg-logo="https://i.imgur.com/jaSq18B.png" tvg-id="TVCNews.ng" group-title="News",TVC News
+#EXTINF:-1 tvg-name="TVC News" tvg-logo="https://i.imgur.com/jaSq18B.png" tvg-id="136" group-title="News",136 TVC News
 https://ythls.armelin.one/channel/UCgp4A6I8LCWrhUzn-5SbKvA.m3u8
-#EXTINF:-1 tvg-name="Channels 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg" tvg-id="Channels24.ng" group-title="News",Channels 24
+#EXTINF:-1 tvg-name="Channels 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg" tvg-id="137" group-title="News",137 Channels 24
 https://ythls.armelin.one/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8
-#EXTINF:-1 tvg-name="Sky News Now (AU)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sky_News_Australia_logo_-_2019.svg/512px-Sky_News_Australia_logo_-_2019.svg.png" tvg-id="SkyNewsAustralia.au" group-title="News",Sky News Now (AU)
+#EXTINF:-1 tvg-name="Sky News Now (AU)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sky_News_Australia_logo_-_2019.svg/512px-Sky_News_Australia_logo_-_2019.svg.png" tvg-id="138" group-title="News",138 Sky News Now(AU)
 https://i.mjh.nz/sky-news-now.m3u8
-#EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/xk1QOhW.png" tvg-id="GlobalNews.ca" group-title="News",Global News
+#EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/xk1QOhW.png" tvg-id="139" group-title="News",139 Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Russia Today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="RT.ru" group-title="News",Russia Today
+#EXTINF:-1 tvg-name="Russia Today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="140 group-title="News",140 Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-name="Pluto TV News" tvg-logo="https://i.imgur.com/JdqA4r9.png" tvg-id="PlutoTVNews.us" group-title="News",Pluto TV News
+#EXTINF:-1 tvg-name="Pluto TV News" tvg-logo="https://i.imgur.com/JdqA4r9.png" tvg-id="141" group-title="News",141 Pluto TV News
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5268abcd0ce20a8472000114&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=202&terminate=false&userId=
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNN.us" group-title="News",CNN
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="142" group-title="News",142 CNN
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8
-#EXTINF:-1 tvg-name="Cheddar News" tvg-logo="https://i.imgur.com/tuP9GW8.png" tvg-id="CheddarNews.us" group-title="News",Cheddar News
+#EXTINF:-1 tvg-name="Cheddar News" tvg-logo="https://i.imgur.com/tuP9GW8.png" tvg-id="143" group-title="News",143 Cheddar News
 https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/xGlToly.png" tvg-id="BloombergTVPlus.us" group-title="News",Bloomberg TV+
+#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/xGlToly.png" tvg-id="144" group-title="News",144 Bloomberg TV+
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png" tvg-id="CNBCEurope.uk" group-title="News",CNBC
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png" tvg-id="145" group-title="News",145 CNBC
 https://i.mjh.nz/SamsungTVPlus/GBBD3600001NO.m3u8
-#EXTINF:-1 tvg-name="Yahoo! Finance" tvg-logo="https://i.imgur.com/43oHsHL.png" tvg-id="YahooFinance.us" group-title="News",Yahoo! Finance
+#EXTINF:-1 tvg-name="Yahoo! Finance" tvg-logo="https://i.imgur.com/43oHsHL.png" tvg-id="146" group-title="News",146 Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" tvg-id="147" group-title="USA",147 CNN
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="CNBC Ⓨ" tvg-logo="https://i.imgur.com/BTasyOy.png" tvg-id="148" group-title="USA",148 CNBC
+https://www.youtube.com/c/CNBC/live
+#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" tvg-id="149" group-title="USA",149 Bloomberg
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/7sJLzKi.png" tvg-id="150" group-title="USA",150 ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://i.imgur.com/nki2HDQ.png" tvg-id="151" group-title="USA",151 CBS News
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 tvg-name="NBC News" tvg-logo="https://i.imgur.com/v48mMRT.png" tvg-id="152" group-title="USA",152 NBC News
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/AbvCnoH.png" tvg-id="153" group-title="USA",153 Reuters TV
+https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 China (300-329)
-#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://i.imgur.com/uHU6Vc0.png" tvg-id="301" group-title="China",CCTV1 综合 (301)
+#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://i.imgur.com/uHU6Vc0.png" tvg-id="301" group-title="China",301 CCTV1 综合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://i.imgur.com/6C9JEYt.png" tvg-id="302" group-title="China",CCTV2 财经 (302)
+#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://i.imgur.com/6C9JEYt.png" tvg-id="302" group-title="China",302 CCTV2 财经
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV-4 中文国际（美） Ⓢ" tvg-logo="https://i.imgur.com/1TPiRqR.png" tvg-id="303" group-title="China",CCTV4 中文国际 (303)
+#EXTINF:-1 tvg-name="CCTV-4 中文国际（美） Ⓢ" tvg-logo="https://i.imgur.com/1TPiRqR.png" tvg-id="303" group-title="China",303 CCTV4 中文国际
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://i.imgur.com/Mut2omN.png" tvg-id="304" group-title="China",CCTV5 体育 (304)
+#EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://i.imgur.com/Mut2omN.png" tvg-id="304" group-title="China",304 CCTV5 体育
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://i.imgur.com/UNjmQVS.png" tvg-id="305" group-title="China",CCTV5+ 体育赛事 (305)
+#EXTINF:-1 tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://i.imgur.com/UNjmQVS.png" tvg-id="305" group-title="China",305 CCTV5+ 体育赛事
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-logo="https://i.imgur.com/Qg1opg9.png" tvg-id="306" group-title="China",CCTV8 电视剧 (306)
+#EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-logo="https://i.imgur.com/Qg1opg9.png" tvg-id="306" group-title="China",306 CCTV8 电视剧
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-logo="https://i.imgur.com/Ruyzhu5.png" tvg-id="307" group-title="China",CCTV9 纪录 (307)
+#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-logo="https://i.imgur.com/Ruyzhu5.png" tvg-id="307" group-title="China",307 CCTV9 纪录
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 
 
 Japan (330-339)
-#EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://i.imgur.com/tVNZ0BU.png" tvg-id="331" group-title="Japan",日テレNEWS24 (331)
+#EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://i.imgur.com/tVNZ0BU.png" tvg-id="331" group-title="Japan",331 日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-name="QVC Ⓢ" tvg-logo="https://i.imgur.com/B74hZKd.png" tvg-id="332" group-title="Japan",QVC (332)
+#EXTINF:-1 tvg-name="QVC Ⓢ" tvg-logo="https://i.imgur.com/B74hZKd.png" tvg-id="332" group-title="Japan",332 QVC
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 tvg-name="Shop Channel" tvg-logo="https://i.imgur.com/rkdKa5a.png" tvg-id="333" group-title="Japan",Shop Channel (333)
+#EXTINF:-1 tvg-name="Shop Channel" tvg-logo="https://i.imgur.com/rkdKa5a.png" tvg-id="333" group-title="Japan",333 Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
 Korea (340-359)
-#EXTINF:-1 tvg-name="KBS 1TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" tvg-id="341" group-title="Korea",KBS 1TV (341)
+#EXTINF:-1 tvg-name="KBS 1TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" tvg-id="341" group-title="Korea",341 KBS 1TV
 http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-#EXTINF:-1 tvg-name="KBS 2TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" tvg-id="342" group-title="Korea",KBS 2TV (342)
+#EXTINF:-1 tvg-name="KBS 2TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" tvg-id="342" group-title="Korea",342 KBS 2TV
 http://ye23.vip/z7z8/2021/kbs2020.php?id=2
-#EXTINF:-1 tvg-name="KBS News D" tvg-logo="https://i.imgur.com/4qKgvHN.png" tvg-id="343" group-title="Korea",KBS News (343)
+#EXTINF:-1 tvg-name="KBS News D" tvg-logo="https://i.imgur.com/4qKgvHN.png" tvg-id="343" group-title="Korea",343 KBS News
 http://ye23.vip/z7z8/2021/kbs2020.php?id=4
-#EXTINF:-1 tvg-name="EBS 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" tvg-id="344" group-title="Korea",EBS 1 (344)
+#EXTINF:-1 tvg-name="EBS 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" tvg-id="344" group-title="Korea",344 EBS 1
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS 2 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" tvg-id="345" group-title="Korea",EBS 2 (345)
+#EXTINF:-1 tvg-name="EBS 2 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" tvg-id="345" group-title="Korea",345 EBS 2
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/512px-Munhwa_Broadcasting_Company.svg.png" tvg-id="346)" group-title="Korea",MBC TV (346)
+#EXTINF:-1 tvg-name="MBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/512px-Munhwa_Broadcasting_Company.svg.png" tvg-id="346)" group-title="Korea",346 MBC TV
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-name="KBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/512px-KBC_Gwangju_Broadcasting_logo.svg.png" tvg-id="347" group-title="Korea",KBC TV (347)
+#EXTINF:-1 tvg-name="KBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/512px-KBC_Gwangju_Broadcasting_logo.svg.png" tvg-id="347" group-title="Korea",347 KBC TV
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-name="CJB TV" tvg-logo="https://i.imgur.com/MvxdZhX.png" tvg-id="348" group-title="Korea",CJB TV (348)
+#EXTINF:-1 tvg-name="CJB TV" tvg-logo="https://i.imgur.com/MvxdZhX.png" tvg-id="348" group-title="Korea",348 CJB TV
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-name="JIBS TV" tvg-logo="https://i.imgur.com/RVWpBoz.png" tvg-id="349" group-title="Korea",JIBS TV (349)
+#EXTINF:-1 tvg-name="JIBS TV" tvg-logo="https://i.imgur.com/RVWpBoz.png" tvg-id="349" group-title="Korea",349 JIBS TV
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" tvg-id="350" group-title="Korea",Arirang (350)
+#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" tvg-id="350" group-title="Korea",350 Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 Macau (360-369)
-#EXTINF:-1 tvg-name="TDM Ou Mun" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" tvg-id="361" group-title="Macau",TDM Ou Mun (361)
+#EXTINF:-1 tvg-name="TDM Ou Mun" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" tvg-id="361" group-title="Macau",361 TDM OuMun
 https://live4.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-name="TDM Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" tvg-id="362" group-title="Macau",TDM Sport (362)
+#EXTINF:-1 tvg-name="TDM Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" tvg-id="362" group-title="Macau",362 TDM Sport
 https://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-name="TDM Information" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" tvg-id="363" group-title="Macau",TDM Information (363)
+#EXTINF:-1 tvg-name="TDM Information" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" tvg-id="363" group-title="Macau",363 TDM Info
 https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-name="TDM Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TDM_Entertainment.png" tvg-id="364" group-title="Macau",TDM Entertainment (364)
+#EXTINF:-1 tvg-name="TDM Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TDM_Entertainment.png" tvg-id="364" group-title="Macau",364 TDM Ent
 https://live4.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-name="TDM Ou Mun-Macau" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/87/TDM_Ou_Mun_Macau_logo.png" tvg-id="365" group-title="Macau",TDM Ou Mun-Macau (365)
+#EXTINF:-1 tvg-name="TDM Ou Mun-Macau" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/87/TDM_Ou_Mun_Macau_logo.png" tvg-id="365" group-title="Macau",365 TDM Macau
 https://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 
 USA (500)
-#EXTINF:-1 tvg-name="Buzzr Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/768px-Buzzr_logo.svg.png" tvg-id="Buzzr.us" group-title="USA",Buzzr Ⓖ
+#EXTINF:-1 tvg-name="Buzzr Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/768px-Buzzr_logo.svg.png" tvg-id="501" group-title="USA",501 Buzzr
 https://buzzrota-web.amagi.tv/playlist480.m3u8
-#EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://i.imgur.com/PNTYOgg.png" tvg-id="RetroTVEast.us" group-title="USA",Retro TV
+#EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://i.imgur.com/PNTYOgg.png" tvg-id="502" group-title="USA",502 Retro TV
 https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/profile_1/chunklist.m3u8
-#EXTINF:-1 tvg-name="Stadium" tvg-logo="https://i.imgur.com/6ae9E8d.png" tvg-id="Stadium.us" group-title="USA",Stadium
+#EXTINF:-1 tvg-name="Stadium" tvg-logo="https://i.imgur.com/6ae9E8d.png" tvg-id="503" group-title="USA",503 Stadium
 https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/profile_1/976f34cf5a614518b7b539cbf9812080/chunklist_ssaiV.m3u8
-#EXTINF:-1 tvg-name="Biz TV" tvg-logo="https://i.imgur.com/cbGvXyF.jpg" tvg-id="BizTV.us" group-title="USA",Biz TV
+#EXTINF:-1 tvg-name="Biz TV" tvg-logo="https://i.imgur.com/cbGvXyF.jpg" tvg-id="504" group-title="USA",504 Biz TV
 https://thegateway.app/BizTV/BizTV-Tones/chunks.m3u8?nimblesessionid=94690008
-#EXTINF:-1 tvg-name="Heartland" tvg-logo="https://i.imgur.com/a67bbag.png" tvg-id="HeartlandEastern.us" group-title="USA",Heartland
+#EXTINF:-1 tvg-name="Heartland" tvg-logo="https://i.imgur.com/a67bbag.png" tvg-id="505" group-title="USA",505 Heartland
 https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/profile_1/chunklist.m3u8
-#EXTINF:-1 tvg-name="Rev'n" tvg-logo="https://i.imgur.com/VUhqVgG.png" tvg-id="RevnTV.us" group-title="USA",Rev'n
+#EXTINF:-1 tvg-name="Rev'n" tvg-logo="https://i.imgur.com/VUhqVgG.png" tvg-id="506" group-title="USA",506 Rev'n
 https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/profile_1/chunklist.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" tvg-id="CNN.us" group-title="USA",CNN
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="CNBC Ⓨ" tvg-logo="https://i.imgur.com/BTasyOy.png" tvg-id="CNBC.us" group-title="USA",CNBC Ⓨ
-https://www.youtube.com/c/CNBC/live
-#EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" tvg-id="BloombergTelevision.us" group-title="USA",Bloomberg
-https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/7sJLzKi.png" tvg-id="ABCNews.us" group-title="USA",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://i.imgur.com/nki2HDQ.png" tvg-id="CBSNews.us" group-title="USA",CBS News
-https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 tvg-name="NBC News" tvg-logo="https://i.imgur.com/v48mMRT.png" tvg-id="NBCNewsNow.us" group-title="USA",NBC News
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/AbvCnoH.png" tvg-id="ReutersTV.us" group-title="USA",Reuters TV
-https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="NASA TV Public" tvg-logo="https://i.imgur.com/rmyfoOI.png" tvg-id="NASATVPublic.us" group-title="USA",NASA TV Public
+#EXTINF:-1 tvg-name="NASA TV Public" tvg-logo="https://i.imgur.com/rmyfoOI.png" tvg-id="507" group-title="USA",507 NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-name="NASA TV Media" tvg-logo="https://i.imgur.com/rmyfoOI.png" tvg-id="NASATVMedia.us" group-title="USA",NASA TV Media
+#EXTINF:-1 tvg-name="NASA TV Media" tvg-logo="https://i.imgur.com/rmyfoOI.png" tvg-id="508" group-title="USA",508 NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://i.imgur.com/N3xiz4m.png" tvg-id="BBCFood.us" group-title="USA",BBC Food
+#EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://i.imgur.com/N3xiz4m.png" tvg-id="509" group-title="USA",509 BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="BBC Home" tvg-logo="https://i.imgur.com/Ii8DX1x.png" tvg-id="BBCHome.us" group-title="USA",BBC Home
+#EXTINF:-1 tvg-name="BBC Home" tvg-logo="https://i.imgur.com/Ii8DX1x.png" tvg-id="510" group-title="USA",510 BBC Home
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Docurama" tvg-logo="https://i.imgur.com/bNg8mze.png" tvg-id="Docurama.us" group-title="USA",Docurama
+#EXTINF:-1 tvg-name="Docurama" tvg-logo="https://i.imgur.com/bNg8mze.png" tvg-id="511" group-title="USA",511 Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1 tvg-name="Drybar Comedy" tvg-logo="https://i.imgur.com/EldlmTp.png" tvg-id="DryBarComedy.us" group-title="USA",Drybar Comedy
+#EXTINF:-1 tvg-name="Drybar Comedy" tvg-logo="https://i.imgur.com/EldlmTp.png" tvg-id="512" group-title="USA",512 Drybar Comedy
 https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8

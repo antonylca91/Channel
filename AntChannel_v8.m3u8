@@ -11,7 +11,7 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/ebc-emovie-live.jpg" tvg-id="604" group-title="Taiwan",604 EBC 東森洋片
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/7/7f/東森電影台台標.jpg/revision/latest?cb=20200603061726&path-prefix=zh-tw.jpg" tvg-id="605" group-title="Taiwan",605 EBC 東森電影
+#EXTINF:-1 tvg-logo="https://www.twt.com.tw/Upload_Img/_thumbs/images/news/東森電影台-LOGO封面.png" tvg-id="605" group-title="Taiwan",605 EBC 東森電影
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/com.novanews.android.globalnews.icon.2023-07-24-09-16-48.png" tvg-id="606" group-title="Taiwan",606 Global News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
@@ -77,16 +77,14 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" tvg-id="637" group-title="Taiwan",637 TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jWe-dwGiiNd26ijxazm7ZTmbbObYF0e-HJntH2d_YtMM4M-vLKfoSb9Wj1NA6NOUk6KfsG2IsA=s900-c-k-c0x00ffffff-no-rj.jpg" tvg-id="638" group-title="Taiwan",638 TVBS新聞台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" tvg-id="638" group-title="Taiwan",638 TVBS新聞台
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" tvg-id="639" group-title="Taiwan",639 中天新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-logo="https://wxtv.com.tw/public/assets/images/logo.jpg" tvg-id="640" group-title="Taiwan",640 唯心電視
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/fDm5R9UxjFwuXptEeVfxR6uJDD-2yZeM_4qp1xh5HSQqOSF6kcgHT_gtfiumhSwcX2fk2AIzPt4iWgG7sL0vfXDgTVFM5Wa-LM51xvDnsD6NEU2Y.jpg" tvg-id="641" group-title="Taiwan",641 天才衝衝衝
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png" tvg-id="641" group-title="Taiwan",641 天才衝衝衝
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hv6NGkp6RKRlzPjvAag1WTiBqJXkMEDIbGgA2YQRldmIhUhkHJAMOfyp1LSkiex5PNAcadwZhByolUQ5HJCoNfzdbAHA1ZwUHHDEVNCpLCysiex4THz1nOQ/w360.jpg" tvg-id="642" group-title="Taiwan",642 東森購物
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 
 Malaysia Singapore (400)
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/8tv-media-prima-malaysia-logo-D55E64675A-seeklogo.com.png" tvg-id="401" group-title="MYSG",401 8TV

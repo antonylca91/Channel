@@ -64,8 +64,6 @@ https://live.streamingfast.net/osmflivech33.m3u8
 https://live.streamingfast.net/osmflivech38.m3u8
 #EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH40 家庭8點檔轉轉發現愛 (720p) [Not 24/7]
 https://live.streamingfast.net/osmflivech40.m3u8
-#EXTINF:-1 tvg-id="" group-title="Animation",GOOD TV CH45 卡通 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech45.m3u8
 #EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH47 牧者頻道 (720p) [Not 24/7]
 https://live.streamingfast.net/osmflivech47.m3u8
 #EXTINF:-1 tvg-id="" group-title="Taiwan",GOOD TV CH49 禱告頻道 (720p) [Not 24/7]
@@ -131,8 +129,6 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-logo="https://i.imgur.com/Ruyzhu5.png" tvg-id="CCTV9.cn" group-title="China",CCTV-9 纪录
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 tvg-name="TV BRICS Chinese" tvg-logo="https://i.imgur.com/896132Z.png" tvg-id="TVBRICSChinese.cn" group-title="China",TV BRICS Chinese
-https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTHK TV 31" tvg-logo="https://i.imgur.com/kf818kM.png" tvg-id="RTHKTV31.hk" group-title="News",RTHK TV 31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8

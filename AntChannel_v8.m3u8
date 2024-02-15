@@ -193,7 +193,7 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-id="208" tvg-name="MY: ZooMoo Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/ZooMoo-Kids.png" group-title="Animation",208 ZooMoo Kids 
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1, tvg-id="209" group-title="Animation" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",209 Nickelodeon Junior
+#EXTINF:-1 tvg-id="209" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png" group-title="Animation",209 Nickelodeon Junior
 http://bit.ly/NickJr360p
 #EXTINF:-1 tvg-id="210" tvg-logo="https://i.imgur.com/0nDftk7.jpg" group-title="Animation",210 Pokemon Kids TV EN
 https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8

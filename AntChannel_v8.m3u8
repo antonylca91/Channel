@@ -5,7 +5,7 @@ Animation (200)
 China (300-329)
 Japan (330-339)
 Korea (340-359)
-Macau (360-369)
+Hong Kong Macau (360-369)
 Malaysia Singapore (400)
 USA (500)
 Taiwan (600)
@@ -308,19 +308,23 @@ http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/883196509982011392/l7yA_yVP_400x400.jpg" tvg-id="353" group-title="Korea",353 국악방송
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
-Macau (360-369)
-#EXTINF:-1 tvg-name="TDM Ou Mun" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" tvg-id="361" group-title="Macau",361 TDM OuMun
+Hong Kong Macau (360-369)
+#EXTINF:-1 tvg-name="TDM Ou Mun" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" tvg-id="361" group-title="HKMC",361 TDM OuMun
 https://live4.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-name="TDM Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" tvg-id="362" group-title="Macau",362 TDM Sport
+#EXTINF:-1 tvg-name="TDM Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" tvg-id="362" group-title="HKMC",362 TDM Sport
 https://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-name="TDM Information" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" tvg-id="363" group-title="Macau",363 TDM Info
+#EXTINF:-1 tvg-name="TDM Information" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" tvg-id="363" group-title="HKMC",363 TDM Info
 https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-name="TDM Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TDM_Entertainment.png" tvg-id="364" group-title="Macau",364 TDM Ent
+#EXTINF:-1 tvg-name="TDM Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TDM_Entertainment.png" tvg-id="364" group-title="HKMC",364 TDM Ent
 https://live4.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-name="TDM Ou Mun-Macau" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/87/TDM_Ou_Mun_Macau_logo.png" tvg-id="365" group-title="Macau",365 TDM Macau
+#EXTINF:-1 tvg-name="TDM Ou Mun-Macau" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/87/TDM_Ou_Mun_Macau_logo.png" tvg-id="365" group-title="HKMC",365 TDM Macau
 https://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190315_8d1038531ge75ec67bc34ca8cefj6_240x150.jpg" tvg-id="366" group-title="Macau",366 澳视卫星HD
+#EXTINF:-1 tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190315_8d1038531ge75ec67bc34ca8cefj6_240x150.jpg" tvg-id="366" group-title="HKMC",366 澳视卫星HD
 http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="HKMC",凤凰资讯 (720p)
+http://php.17186.eu.org/phtv/fhzx.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="HKMC",凤凰资讯1 (720p)
+http://r.jdshipin.com/0Rp07
 
 USA (500)
 #EXTINF:-1 tvg-name="Buzzr Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/768px-Buzzr_logo.svg.png" tvg-id="501" group-title="USA",501 Buzzr

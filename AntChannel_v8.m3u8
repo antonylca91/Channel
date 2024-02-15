@@ -1,91 +1,91 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml, https://xmltv.tvkaista.net/guides/default.xml, https://xmltv.tvkaista.net/guides/abc.net.au.xml, https://xmltv.tvkaista.net/guides/allente.dk.xml, https://xmltv.tvkaista.net/guides/allente.fi.xml, https://xmltv.tvkaista.net/guides/allente.no.xml, https://xmltv.tvkaista.net/guides/allente.se.xml, https://xmltv.tvkaista.net/guides/andorradifusio.ad.xml, https://xmltv.tvkaista.net/guides/anteltv.com.uy.xml, https://xmltv.tvkaista.net/guides/arianaafgtv.com.xml, https://xmltv.tvkaista.net/guides/arianatelevision.com.xml, https://xmltv.tvkaista.net/guides/arirang.com.xml, https://xmltv.tvkaista.net/guides/artonline.tv.xml, https://xmltv.tvkaista.net/guides/bein.com.xml, https://xmltv.tvkaista.net/guides/beinsports.com.xml, https://xmltv.tvkaista.net/guides/berrymedia.co.kr.xml, https://xmltv.tvkaista.net/guides/cablego.com.pe.xml, https://xmltv.tvkaista.net/guides/cableplus.com.uy.xml, https://xmltv.tvkaista.net/guides/canalplus.com.xml, https://xmltv.tvkaista.net/guides/cgates.lt.xml, https://xmltv.tvkaista.net/guides/chaines-tv.orange.fr.xml, https://xmltv.tvkaista.net/guides/clickthecity.com.xml, https://xmltv.tvkaista.net/guides/compulms.com.xml, https://xmltv.tvkaista.net/guides/content.astro.com.my.xml, https://xmltv.tvkaista.net/guides/cosmote.gr.xml, https://xmltv.tvkaista.net/guides/cubmu.com.xml, https://xmltv.tvkaista.net/guides/dens.tv.xml, https://xmltv.tvkaista.net/guides/digiturk.com.tr.xml, https://xmltv.tvkaista.net/guides/directv.com.uy.xml, https://xmltv.tvkaista.net/guides/dishtv.in.xml, https://xmltv.tvkaista.net/guides/disneystar.com.xml, https://xmltv.tvkaista.net/guides/dsmart.com.tr.xml, https://xmltv.tvkaista.net/guides/dstv.com.xml, https://xmltv.tvkaista.net/guides/elcinema.com.xml, https://xmltv.tvkaista.net/guides/ena.skylifetv.co.kr.xml, https://xmltv.tvkaista.net/guides/entertainment.ie.xml, https://xmltv.tvkaista.net/guides/firstmedia.com.xml, https://xmltv.tvkaista.net/guides/flixed.io.xml, https://xmltv.tvkaista.net/guides/foxsports.com.au.xml, https://xmltv.tvkaista.net/guides/foxtel.com.au.xml, https://xmltv.tvkaista.net/guides/frikanalen.no.xml, https://xmltv.tvkaista.net/guides/gatotv.com.xml, https://xmltv.tvkaista.net/guides/getafteritmedia.com.xml, https://xmltv.tvkaista.net/guides/guida.tv.xml, https://xmltv.tvkaista.net/guides/guidatv.sky.it.xml, https://xmltv.tvkaista.net/guides/horizon.tv.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz.xml, https://xmltv.tvkaista.net/guides/i24news.tv.xml, https://xmltv.tvkaista.net/guides/iltalehti.fi.xml, https://xmltv.tvkaista.net/guides/indihometv.com.xml, https://xmltv.tvkaista.net/guides/ipko.com.xml, https://xmltv.tvkaista.net/guides/knr.gl.xml, https://xmltv.tvkaista.net/guides/kvf.fo.xml, https://xmltv.tvkaista.net/guides/m.tving.com.xml, https://xmltv.tvkaista.net/guides/magticom.ge.xml, https://xmltv.tvkaista.net/guides/mako.co.il.xml, https://xmltv.tvkaista.net/guides/maxtv.hrvatskitelekom.hr.xml, https://xmltv.tvkaista.net/guides/maxtvgo.mk.xml, https://xmltv.tvkaista.net/guides/mediagenie.co.kr.xml, https://xmltv.tvkaista.net/guides/mediaklikk.hu.xml, https://xmltv.tvkaista.net/guides/mediasetinfinity.mediaset.it.xml, https://xmltv.tvkaista.net/guides/melita.com.xml, https://xmltv.tvkaista.net/guides/meo.pt.xml, https://xmltv.tvkaista.net/guides/meuguia.tv.xml, https://xmltv.tvkaista.net/guides/mewatch.sg.xml, https://xmltv.tvkaista.net/guides/mi.tv.xml, https://xmltv.tvkaista.net/guides/mncvision.id.xml, https://xmltv.tvkaista.net/guides/moji.id.xml, https://xmltv.tvkaista.net/guides/mon-programme-tv.be.xml, https://xmltv.tvkaista.net/guides/movistarplus.es.xml, https://xmltv.tvkaista.net/guides/mtel.ba.xml, https://xmltv.tvkaista.net/guides/mts.rs.xml, https://xmltv.tvkaista.net/guides/mujtvprogram.cz.xml, https://xmltv.tvkaista.net/guides/musor.tv.xml, https://xmltv.tvkaista.net/guides/myafn.dodmedia.osd.mil.xml, https://xmltv.tvkaista.net/guides/mysky.com.ph.xml, https://xmltv.tvkaista.net/guides/mytelly.co.uk.xml, https://xmltv.tvkaista.net/guides/mytvsuper.com.xml, https://xmltv.tvkaista.net/guides/nhk.or.jp.xml, https://xmltv.tvkaista.net/guides/nhkworldpremium.com.xml, https://xmltv.tvkaista.net/guides/novacyprus.com.xml, https://xmltv.tvkaista.net/guides/novasports.gr.xml, https://xmltv.tvkaista.net/guides/nuevosiglo.com.uy.xml, https://xmltv.tvkaista.net/guides/nzxmltv.com.xml, https://xmltv.tvkaista.net/guides/ontvtonight.com.xml, https://xmltv.tvkaista.net/guides/osn.com.xml, https://xmltv.tvkaista.net/guides/pbsguam.org.xml, https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml, https://xmltv.tvkaista.net/guides/plex.tv.xml, https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml, https://xmltv.tvkaista.net/guides/programacion.tcc.com.uy.xml, https://xmltv.tvkaista.net/guides/programetv.ro.xml, https://xmltv.tvkaista.net/guides/programme-tv.net.xml, https://xmltv.tvkaista.net/guides/programme-tv.vini.pf.xml, https://xmltv.tvkaista.net/guides/programtv.onet.pl.xml, https://xmltv.tvkaista.net/guides/raiplay.it.xml, https://xmltv.tvkaista.net/guides/reportv.com.ar.xml, https://xmltv.tvkaista.net/guides/rthk.hk.xml, https://xmltv.tvkaista.net/guides/rtmklik.rtm.gov.my.xml, https://xmltv.tvkaista.net/guides/rtp.pt.xml, https://xmltv.tvkaista.net/guides/ruv.is.xml, https://xmltv.tvkaista.net/guides/sat.tv.xml, https://xmltv.tvkaista.net/guides/shahid.mbc.net.xml, https://xmltv.tvkaista.net/guides/siba.com.co.xml, https://xmltv.tvkaista.net/guides/singtel.com.xml, https://xmltv.tvkaista.net/guides/sjonvarp.is.xml, https://xmltv.tvkaista.net/guides/sky.co.nz.xml, https://xmltv.tvkaista.net/guides/sky.com.xml, https://xmltv.tvkaista.net/guides/sky.de.xml, https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml, https://xmltv.tvkaista.net/guides/startimestv.com.xml, https://xmltv.tvkaista.net/guides/streamingtvguides.com.xml, https://xmltv.tvkaista.net/guides/superguidatv.it.xml, https://xmltv.tvkaista.net/guides/taiwanplus.com.xml, https://xmltv.tvkaista.net/guides/tapdmv.com.xml, https://xmltv.tvkaista.net/guides/telenet.tv.xml, https://xmltv.tvkaista.net/guides/teliatv.ee.xml, https://xmltv.tvkaista.net/guides/telkussa.fi.xml, https://xmltv.tvkaista.net/guides/telsu.fi.xml, https://xmltv.tvkaista.net/guides/tivu.tv.xml, https://xmltv.tvkaista.net/guides/toonamiaftermath.com.xml, https://xmltv.tvkaista.net/guides/turksatkablo.com.tr.xml, https://xmltv.tvkaista.net/guides/tv-programme.telecablesat.fr.xml, https://xmltv.tvkaista.net/guides/tv.blue.ch.xml, https://xmltv.tvkaista.net/guides/tv.cctv.com.xml, https://xmltv.tvkaista.net/guides/tv.dir.bg.xml, https://xmltv.tvkaista.net/guides/tv.lv.xml, https://xmltv.tvkaista.net/guides/tv.magenta.at.xml, https://xmltv.tvkaista.net/guides/tv.mail.ru.xml, https://xmltv.tvkaista.net/guides/tv.movistar.com.pe.xml, https://xmltv.tvkaista.net/guides/tv.nu.xml, https://xmltv.tvkaista.net/guides/tv.post.lu.xml, https://xmltv.tvkaista.net/guides/tv.yandex.ru.xml, https://xmltv.tvkaista.net/guides/tv24.co.uk.xml, https://xmltv.tvkaista.net/guides/tv24.se.xml, https://xmltv.tvkaista.net/guides/tv2go.t-2.net.xml, https://xmltv.tvkaista.net/guides/tvcesoir.fr.xml, https://xmltv.tvkaista.net/guides/tvcubana.icrt.cu.xml, https://xmltv.tvkaista.net/guides/tvgids.nl.xml, https://xmltv.tvkaista.net/guides/tvguide.com.xml, https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml, https://xmltv.tvkaista.net/guides/tvhebdo.com.xml, https://xmltv.tvkaista.net/guides/tvheute.at.xml, https://xmltv.tvkaista.net/guides/tvim.tv.xml, https://xmltv.tvkaista.net/guides/tvireland.ie.xml, https://xmltv.tvkaista.net/guides/tvmi.mt.xml, https://xmltv.tvkaista.net/guides/tvmusor.hu.xml, https://xmltv.tvkaista.net/guides/tvpassport.com.xml, https://xmltv.tvkaista.net/guides/tvplus.com.tr.xml, https://xmltv.tvkaista.net/guides/tvprofil.com.xml, https://xmltv.tvkaista.net/guides/tvtv.us.xml, https://xmltv.tvkaista.net/guides/vidio.com.xml, https://xmltv.tvkaista.net/guides/virginmediatelevision.ie.xml, https://xmltv.tvkaista.net/guides/virgintvgo.virginmedia.com.xml, https://xmltv.tvkaista.net/guides/visionplus.id.xml, https://xmltv.tvkaista.net/guides/vtm.be.xml, https://xmltv.tvkaista.net/guides/walesi.com.fj.xml, https://xmltv.tvkaista.net/guides/watch.sportsnet.ca.xml, https://xmltv.tvkaista.net/guides/watchyour.tv.xml, https://xmltv.tvkaista.net/guides/wavve.com.xml, https://xmltv.tvkaista.net/guides/web.magentatv.de.xml, https://xmltv.tvkaista.net/guides/webtv.delta.nl.xml, https://xmltv.tvkaista.net/guides/worldfishingnetwork.com.xml, https://xmltv.tvkaista.net/guides/xumo.tv.xml, https://xmltv.tvkaista.net/guides/zap.co.ao.xml, https://xmltv.tvkaista.net/guides/ziggogo.tv.xml, https://xmltv.tvkaista.net/guides/znbc.co.zm.xml, https://xmltv.tvkaista.net/guides/zuragt.mn.xml"
 
 Taiwan (600)
-#EXTINF:-1 tvg-id="601" group-title="Taiwan",601 Beautiful Life TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/BLTV.jpg/revision/latest?cb=20210710182151.png" tvg-id="601" group-title="Taiwan",601 Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 tvg-id="602" group-title="Taiwan",602 大愛1
+#EXTINF:-1 tvg-logo="https://www.daai.tv/images/apple-icon.png" tvg-id="602" group-title="Taiwan",602 大愛1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="603" group-title="Taiwan",603 大愛2
+#EXTINF:-1 tvg-logo="https://s3.hicloud.net.tw/daaiapp/images/ch3.png" tvg-id="603" group-title="Taiwan",603 大愛2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-id="603" group-title="Taiwan",603 大立電視台
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHlHVeBazKahYWFy9uH8HpWUrI9eVMpoO-5ods8vYuw&s.png" tvg-id="603" group-title="Taiwan",603 大立電視台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-id="604" group-title="Taiwan",604 EBC 東森洋片
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/ebc-emovie-live.png" tvg-id="604" group-title="Taiwan",604 EBC 東森洋片
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-#EXTINF:-1 tvg-id="605" group-title="Taiwan",605 EBC 東森電影
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/7/7f/東森電影台台標.jpg/revision/latest?cb=20200603061726&path-prefix=zh-tw.png" tvg-id="605" group-title="Taiwan",605 EBC 東森電影
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
-#EXTINF:-1 tvg-id="606" group-title="Taiwan",606 Global News
+#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/com.novanews.android.globalnews.icon.2023-07-24-09-16-48.png" tvg-id="606" group-title="Taiwan",606 Global News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 tvg-id="607" group-title="Taiwan",607 GOODTV CH1 綜合台
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="607" group-title="Taiwan",607 GOODTV CH1 綜合台
 https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 tvg-id="608" group-title="Taiwan",608 GOODTV CH2 真理台
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="608" group-title="Taiwan",608 GOODTV CH2 真理台
 https://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1 tvg-id="609" group-title="Taiwan",609 GOODTV CH3 真情部落格 短版
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="609" group-title="Taiwan",609 GOODTV CH3 真情部落格 短版
 https://live.streamingfast.net/osmflivech3.m3u8
-#EXTINF:-1 tvg-id="610" group-title="Taiwan",610 GOODTV CH5 共享觀點 短版
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="610" group-title="Taiwan",610 GOODTV CH5 共享觀點 短版
 https://live.streamingfast.net/osmflivech5.m3u8
-#EXTINF:-1 tvg-id="611" group-title="Taiwan",611 GOODTV CH6 親近神 詩歌音樂
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="611" group-title="Taiwan",611 GOODTV CH6 親近神 詩歌音樂
 https://live.streamingfast.net/osmflivech6.m3u8
-#EXTINF:-1 tvg-id="612" group-title="Taiwan",612 GOODTV CH7 禱告大軍 信息
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="612" group-title="Taiwan",612 GOODTV CH7 禱告大軍 信息
 https://live.streamingfast.net/osmflivech7.m3u8
-#EXTINF:-1 tvg-id="613" group-title="Taiwan",613 GOODTV CH9 愛+好醫生 短版
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="613" group-title="Taiwan",613 GOODTV CH9 愛+好醫生 短版
 https://live.streamingfast.net/osmflivech9.m3u8
-#EXTINF:-1 tvg-id="614" group-title="Taiwan",614 GOODTV CH12 維他命施
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="614" group-title="Taiwan",614 GOODTV CH12 維他命施
 https://live.streamingfast.net/osmflivech12.m3u8
-#EXTINF:-1 tvg-id="615" group-title="Taiwan",615 GOODTV CH14 真情部落格
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="615" group-title="Taiwan",615 GOODTV CH14 真情部落格
 https://live.streamingfast.net/osmflivech14.m3u8
-#EXTINF:-1 tvg-id="616" group-title="Taiwan",616 GOODTV CH15 真情之夜
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="616" group-title="Taiwan",616 GOODTV CH15 真情之夜
 https://live.streamingfast.net/osmflivech15.m3u8
-#EXTINF:-1 tvg-id="617" group-title="Taiwan",617 GOODTV CH16 葉光明
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="617" group-title="Taiwan",617 GOODTV CH16 葉光明
 https://live.streamingfast.net/osmflivech16.m3u8
-#EXTINF:-1 tvg-id="618" group-title="Taiwan",618 GOODTV CH17 大衛鮑森
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="618" group-title="Taiwan",618 GOODTV CH17 大衛鮑森
 https://live.streamingfast.net/osmflivech17.m3u8
-#EXTINF:-1 tvg-id="619" group-title="Taiwan",619 GOODTV CH18 國際講員
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="619" group-title="Taiwan",619 GOODTV CH18 國際講員
 https://live.streamingfast.net/osmflivech18.m3u8
-#EXTINF:-1 tvg-id="620" group-title="Taiwan",620 GOODTV CH20 恩典時分
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="620" group-title="Taiwan",620 GOODTV CH20 恩典時分
 https://live.streamingfast.net/osmflivech20.m3u8
-#EXTINF:-1 tvg-id="621" group-title="Taiwan",621 GOODTV CH21 華語講員
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="621" group-title="Taiwan",621 GOODTV CH21 華語講員
 https://live.streamingfast.net/osmflivech21.m3u8
-#EXTINF:-1 tvg-id="622" group-title="Taiwan",622 GOODTV CH24 劉三講古
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="622" group-title="Taiwan",622 GOODTV CH24 劉三講古
 https://live.streamingfast.net/osmflivech24.m3u8
-#EXTINF:-1 tvg-id="623" group-title="Taiwan",623 GOODTV CH27 空中聖經學院
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="623" group-title="Taiwan",623 GOODTV CH27 空中聖經學院
 https://live.streamingfast.net/osmflivech27.m3u8
-#EXTINF:-1 tvg-id="624" group-title="Taiwan",624 GOODTV CH28 現代詩歌
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="624" group-title="Taiwan",624 GOODTV CH28 現代詩歌
 https://live.streamingfast.net/osmflivech28.m3u8
-#EXTINF:-1 tvg-id="625" group-title="Taiwan",625 GOODTV CH29 經典音樂河
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="625" group-title="Taiwan",625 GOODTV CH29 經典音樂河
 https://live.streamingfast.net/osmflivech29.m3u8
-#EXTINF:-1 tvg-id="626" group-title="Taiwan",626 GOODTV CH30 天堂敬拜
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="626" group-title="Taiwan",626 GOODTV CH30 天堂敬拜
 https://live.streamingfast.net/osmflivech30.m3u8
-#EXTINF:-1 tvg-id="627" group-title="Taiwan",627 GOODTV CH31 福音佈道音樂會
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="627" group-title="Taiwan",627 GOODTV CH31 福音佈道音樂會
 https://live.streamingfast.net/osmflivech31.m3u8
-#EXTINF:-1 tvg-id="628" group-title="Taiwan",628 GOODTV CH32 特會系列：禱告與轉化
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="628" group-title="Taiwan",628 GOODTV CH32 特會系列：禱告與轉化
 https://live.streamingfast.net/osmflivech32.m3u8
-#EXTINF:-1 tvg-id="629" group-title="Taiwan",629 GOODTV CH33 特會系列：研經培靈
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="629" group-title="Taiwan",629 GOODTV CH33 特會系列：研經培靈
 https://live.streamingfast.net/osmflivech33.m3u8
-#EXTINF:-1 tvg-id="630" group-title="Taiwan",630 GOODTV CH38 特會系列：青年特會
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="630" group-title="Taiwan",630 GOODTV CH38 特會系列：青年特會
 https://live.streamingfast.net/osmflivech38.m3u8
-#EXTINF:-1 tvg-id="631" group-title="Taiwan",631 GOODTV CH40 家庭8點檔轉轉發現愛
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="631" group-title="Taiwan",631 GOODTV CH40 家庭8點檔轉轉發現愛
 https://live.streamingfast.net/osmflivech40.m3u8
-#EXTINF:-1 tvg-id="632" group-title="Taiwan",632 GOODTV CH47 牧者頻道
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="632" group-title="Taiwan",632 GOODTV CH47 牧者頻道
 https://live.streamingfast.net/osmflivech47.m3u8
-#EXTINF:-1 tvg-id="633" group-title="Taiwan",633 GOODTV CH49 禱告頻道
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="633" group-title="Taiwan",633 GOODTV CH49 禱告頻道
 https://live.streamingfast.net/osmflivech49.m3u8
-#EXTINF:-1 tvg-id="634" group-title="Taiwan",634 GOODTV CH50 國際講員
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="634" group-title="Taiwan",634 GOODTV CH50 國際講員
 https://live.streamingfast.net/osmflivech50.m3u8
-#EXTINF:-1 tvg-id="635" group-title="Taiwan",635 Taiwan Plus TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxu4QvkKWyjcpBojgAu5U8-mJqmQDWOwljYgNLDGUMw&s.png" tvg-id="635" group-title="Taiwan",635 Taiwan Plus TV
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 tvg-id="636" group-title="Taiwan",636 Taiwan Plus TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxu4QvkKWyjcpBojgAu5U8-mJqmQDWOwljYgNLDGUMw&s.png" tvg-id="636" group-title="Taiwan",636 Taiwan Plus TV
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:-1 tvg-id="637" group-title="Taiwan",637 TVBS Asia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" tvg-id="637" group-title="Taiwan",637 TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-id="638" group-title="Taiwan",638 TVBS新聞台
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jWe-dwGiiNd26ijxazm7ZTmbbObYF0e-HJntH2d_YtMM4M-vLKfoSb9Wj1NA6NOUk6KfsG2IsA=s900-c-k-c0x00ffffff-no-rj.png" tvg-id="638" group-title="Taiwan",638 TVBS新聞台
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="639" group-title="Taiwan",639 中天新聞台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.png" tvg-id="639" group-title="Taiwan",639 中天新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-id="640" group-title="Taiwan",640 唯心電視
+#EXTINF:-1 tvg-logo="https://wxtv.com.tw/public/assets/images/logo.png" tvg-id="640" group-title="Taiwan",640 唯心電視
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-id="641" group-title="Taiwan",641 天才衝衝衝
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/fDm5R9UxjFwuXptEeVfxR6uJDD-2yZeM_4qp1xh5HSQqOSF6kcgHT_gtfiumhSwcX2fk2AIzPt4iWgG7sL0vfXDgTVFM5Wa-LM51xvDnsD6NEU2Y.png" tvg-id="641" group-title="Taiwan",641 天才衝衝衝
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 tvg-id="642" group-title="Taiwan",642 東森購物60
+#EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hv6NGkp6RKRlzPjvAag1WTiBqJXkMEDIbGgA2YQRldmIhUhkHJAMOfyp1LSkiex5PNAcadwZhByolUQ5HJCoNfzdbAHA1ZwUHHDEVNCpLCysiex4THz1nOQ/w360.png" tvg-id="642" group-title="Taiwan",642 東森購物
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 
 Malaysia Singapore (400)

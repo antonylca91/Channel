@@ -69,6 +69,10 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kMSqd9f/504-5041014-transparent-background-wild-earth-calligraphy-hd-png-download.png" tvg-id="703" group-title="Nature",703 Wild Earth
 https://wildearth-roku.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 tvg-id="704" tvg-logo="https://go2travel.tv/wp-content/uploads/2022/11/go2-logo.png" group-title="Nature",704 Go2Travel
+https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="705" tvg-logo="https://i.imgur.com/8KQirah.png" group-title="Travel",705 Travel XP
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 
 Taiwan (600)
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/BLTV.jpg/revision/latest?cb=20210710182151.png" tvg-id="601" group-title="Taiwan",601 Beautiful Life TV
@@ -167,6 +171,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/RTM-logo-8A0D207208-seeklogo.com.png" tvg-id="415" group-title="MYSG",415 TVIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:-1 tvg-id="416" tvg-logo="https://i.imgur.com/ea0iGfA.png" group-title="MYSG",416 OneHD
+https://code.vthanhtivi.pw/getlink/eazie/243114/playlist.m3u8
+#EXTINF:-1 tvg-id="417" tvg-logo="https://i.imgur.com/skJjF4m.png" group-title="MYSG",417 Bernama TV
+https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
 Animation (200)
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/aniplus-logo-F5C593D8BC-seeklogo.com.png" tvg-id="201" group-title="Animation",201 AniPlus
@@ -187,6 +195,16 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-id="209" group-title="Animation" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",209 Nickelodeon Junior
 http://bit.ly/NickJr360p
+#EXTINF:-1 tvg-id="210" tvg-logo="https://i.imgur.com/0nDftk7.jpg" group-title="Animation",210 Pokemon Kids TV EN
+https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
+#EXTINF:-1 tvg-id="211" tvg-logo="https://i.imgur.com/SwheroL.jpg" group-title="Animation",211 Pokemon Kids TV JP
+https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
+#EXTINF:-1 tvg-id="212" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation",212 Cartoon Network Asia VN
+http://fpt.vthanhtivi.pw/cartoon/index.m3u8
+#EXTINF:-1 tvg-id="213" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation",213 Cartoon Network JP
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1 tvg-id="214" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png" group-title="Animation",214 Animax
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 
 News (100)
 #EXTINF:-1 tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/AbvCnoH.png" tvg-id="101" group-title="News",101 Reuters TV
@@ -309,7 +327,8 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-logo="https://i.imgur.com/Ruyzhu5.png" tvg-id="307" group-title="China",307 CCTV9 纪录
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-
+#EXTINF:-1 tvg-id="308" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="China",308 CCTV10 科教
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 
 Japan (330-339)
 #EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://i.imgur.com/tVNZ0BU.png" tvg-id="331" group-title="Japan",331 日テレNEWS24
@@ -364,6 +383,8 @@ https://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 #EXTINF:-1 tvg-id="367" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="HKMC",367 凤凰资讯 (720p)
 http://php.17186.eu.org/phtv/fhzx.m3u8
+#EXTINF:-1 tvg-id="368" tvg-logo="https://i.imgur.com/nhsx7sa.png" group-title="HKMC",368 TVB 翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
 USA (500)
 #EXTINF:-1 tvg-name="Buzzr Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/768px-Buzzr_logo.svg.png" tvg-id="501" group-title="USA",501 Buzzr

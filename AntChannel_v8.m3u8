@@ -38,9 +38,9 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/PixL-on-DISH.png" tvg-id="807" group-title="Movies",807 Pixl TV Movie Channel
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
-#EXTINF:-1 tvg-id="808" tvg-name="" tvg-logo="https://i.ibb.co/F0Kr4tp/Sony-Crackle-RGB-Hero-BW-Large.jpg" group-title="Movies",808 Crackle
+#EXTINF:-1 tvg-id="808" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlRbdKbfOZ99IHa9BAkmbT8xGiVChQTOaoLOHpEsOaPw&s" group-title="Movies",808 Crackle
 http://crackle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="809" tvg-name="" tvg-logo="https://i.ibb.co/ykfcdXd/Logo-FLIX-TV.png" group-title="Movies",809 Family Flix
+#EXTINF:-1 tvg-id="809" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/67C50642-086D-4EC9-BF2F-0DF19FF704F0/3-1x1.png/900" group-title="Movies",809 Family Flix
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" tvg-id="810" group-title="Movies",810 Flicks of Fury
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
@@ -179,11 +179,11 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-name="EBS English" tvg-logo="https://i.imgur.com/qceaIf7.png" tvg-id="205" group-title="Animation",205 EBS English
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="Rick and Morty" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Rick_and_Morty_opening_credits.jpeg" tvg-id="206" group-title="Animation",206 Rick and Morty TV
+#EXTINF:-1 tvg-name="Rick and Morty" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDVNujtapQATU0IuwKbKfO7h2rU1iNCkuRt5vDMN5pQA&s" tvg-id="206" group-title="Animation",206 Rick and Morty TV
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:-1 tvg-id="207" tvg-name="Tiny POP" tvg-logo="https://i.ibb.co/1QVNzk4/unnamed.png" group-title="Animation",207 Baby Shark Tv
 https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
-#EXTINF:-1 tvg-id="208" tvg-name="MY: ZooMoo Kids HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/46b7a315e1b7055504f680fd33058da5.jpg" group-title="Animation",208 ZooMoo Kids 
+#EXTINF:-1 tvg-id="208" tvg-name="MY: ZooMoo Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/ZooMoo-Kids.png" group-title="Animation",208 ZooMoo Kids 
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 News (100)

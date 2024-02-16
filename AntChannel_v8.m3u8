@@ -123,45 +123,19 @@ USA (500)
 
 Taiwan (600)
 601 Beautiful Life TV
-602 大愛1
-603 大愛2
-604 大立電視台
-606 Global News
-607 GOODTV CH1 綜合台
-608 GOODTV CH2 真理台
-609 GOODTV CH3 真情部落格 短版
-610 GOODTV CH5 共享觀點 短版
-611 GOODTV CH6 親近神 詩歌音樂
-612 GOODTV CH7 禱告大軍 信息
-613 GOODTV CH9 愛+好醫生 短版
-614 GOODTV CH12 維他命施
-615 GOODTV CH14 真情部落格
-616 GOODTV CH15 真情之夜
-617 GOODTV CH16 葉光明
-618 GOODTV CH17 大衛鮑森
-619 GOODTV CH18 國際講員
-620 GOODTV CH20 恩典時分
-621 GOODTV CH21 華語講員
-622 GOODTV CH24 劉三講古
-623 GOODTV CH27 空中聖經學院
-624 GOODTV CH28 現代詩歌
-625 GOODTV CH29 經典音樂河
-626 GOODTV CH30 天堂敬拜
-627 GOODTV CH31 福音佈道音樂會
-628 GOODTV CH32 特會系列：禱告與轉化
-629 GOODTV CH33 特會系列：研經培靈
-630 GOODTV CH38 特會系列：青年特會
-631 GOODTV CH40 家庭8點檔轉轉發現愛
-632 GOODTV CH47 牧者頻道
-633 GOODTV CH49 禱告頻道
-634 GOODTV CH50 國際講員
-635 Taiwan Plus TV
-636 Taiwan Plus TV
-637 TVBS Asia
-638 TVBS新聞台
-639 中天新聞台
-640 唯心電視
-641 天才衝衝衝
+602 Taiwan Plus TV
+603 Taiwan Plus TV
+604 DaLi TV
+605 Global News
+606 GOODTV CH1 ZhongHe
+607 GOODTV CH9 Health
+608 GOODTV CH28 Music
+609 TVBS Asia
+610 TVBS News
+611 CTi News
+612 Genius GoGoGo
+613 Test1
+614 Test2
 
 Nature (700)
 701 loupe 4K
@@ -422,86 +396,34 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 Taiwan (600)
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/BLTV.jpg/revision/latest?cb=20210710182151.png" tvg-id="601" group-title="Taiwan",601 Beautiful Life TV
+#EXTINF:-1 tvg-id="601" group-title="Taiwan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/BLTV.jpg/revision/latest?cb=20210710182151.png",601 Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.daai.tv/images/apple-icon.png" tvg-id="602" group-title="Taiwan",602 大愛1
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-logo="https://s3.hicloud.net.tw/daaiapp/images/ch3.jpg" tvg-id="603" group-title="Taiwan",603 大愛2
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHlHVeBazKahYWFy9uH8HpWUrI9eVMpoO-5ods8vYuw&s.png" tvg-id="604" group-title="Taiwan",604 大立電視台
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/com.novanews.android.globalnews.icon.2023-07-24-09-16-48.png" tvg-id="606" group-title="Taiwan",606 Global News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="607" group-title="Taiwan",607 GOODTV CH1 綜合台
-https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="608" group-title="Taiwan",608 GOODTV CH2 真理台
-https://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="609" group-title="Taiwan",609 GOODTV CH3 真情部落格 短版
-https://live.streamingfast.net/osmflivech3.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="610" group-title="Taiwan",610 GOODTV CH5 共享觀點 短版
-https://live.streamingfast.net/osmflivech5.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="611" group-title="Taiwan",611 GOODTV CH6 親近神 詩歌音樂
-https://live.streamingfast.net/osmflivech6.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="612" group-title="Taiwan",612 GOODTV CH7 禱告大軍 信息
-https://live.streamingfast.net/osmflivech7.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="613" group-title="Taiwan",613 GOODTV CH9 愛+好醫生 短版
-https://live.streamingfast.net/osmflivech9.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="614" group-title="Taiwan",614 GOODTV CH12 維他命施
-https://live.streamingfast.net/osmflivech12.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="615" group-title="Taiwan",615 GOODTV CH14 真情部落格
-https://live.streamingfast.net/osmflivech14.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="616" group-title="Taiwan",616 GOODTV CH15 真情之夜
-https://live.streamingfast.net/osmflivech15.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="617" group-title="Taiwan",617 GOODTV CH16 葉光明
-https://live.streamingfast.net/osmflivech16.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="618" group-title="Taiwan",618 GOODTV CH17 大衛鮑森
-https://live.streamingfast.net/osmflivech17.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="619" group-title="Taiwan",619 GOODTV CH18 國際講員
-https://live.streamingfast.net/osmflivech18.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="620" group-title="Taiwan",620 GOODTV CH20 恩典時分
-https://live.streamingfast.net/osmflivech20.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="621" group-title="Taiwan",621 GOODTV CH21 華語講員
-https://live.streamingfast.net/osmflivech21.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="622" group-title="Taiwan",622 GOODTV CH24 劉三講古
-https://live.streamingfast.net/osmflivech24.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="623" group-title="Taiwan",623 GOODTV CH27 空中聖經學院
-https://live.streamingfast.net/osmflivech27.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="624" group-title="Taiwan",624 GOODTV CH28 現代詩歌
-https://live.streamingfast.net/osmflivech28.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="625" group-title="Taiwan",625 GOODTV CH29 經典音樂河
-https://live.streamingfast.net/osmflivech29.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="626" group-title="Taiwan",626 GOODTV CH30 天堂敬拜
-https://live.streamingfast.net/osmflivech30.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="627" group-title="Taiwan",627 GOODTV CH31 福音佈道音樂會
-https://live.streamingfast.net/osmflivech31.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="628" group-title="Taiwan",628 GOODTV CH32 特會系列：禱告與轉化
-https://live.streamingfast.net/osmflivech32.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="629" group-title="Taiwan",629 GOODTV CH33 特會系列：研經培靈
-https://live.streamingfast.net/osmflivech33.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="630" group-title="Taiwan",630 GOODTV CH38 特會系列：青年特會
-https://live.streamingfast.net/osmflivech38.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="631" group-title="Taiwan",631 GOODTV CH40 家庭8點檔轉轉發現愛
-https://live.streamingfast.net/osmflivech40.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="632" group-title="Taiwan",632 GOODTV CH47 牧者頻道
-https://live.streamingfast.net/osmflivech47.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="633" group-title="Taiwan",633 GOODTV CH49 禱告頻道
-https://live.streamingfast.net/osmflivech49.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png" tvg-id="634" group-title="Taiwan",634 GOODTV CH50 國際講員
-https://live.streamingfast.net/osmflivech50.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxu4QvkKWyjcpBojgAu5U8-mJqmQDWOwljYgNLDGUMw&s.png" tvg-id="635" group-title="Taiwan",635 Taiwan Plus TV
+#EXTINF:-1 tvg-id="602" group-title="Taiwan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxu4QvkKWyjcpBojgAu5U8-mJqmQDWOwljYgNLDGUMw&s.png",602 Taiwan Plus TV
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxu4QvkKWyjcpBojgAu5U8-mJqmQDWOwljYgNLDGUMw&s.png" tvg-id="636" group-title="Taiwan",636 Taiwan Plus TV
+#EXTINF:-1 tvg-id="603" group-title="Taiwan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxu4QvkKWyjcpBojgAu5U8-mJqmQDWOwljYgNLDGUMw&s.png",603 Taiwan Plus TV
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" tvg-id="637" group-title="Taiwan",637 TVBS Asia
+#EXTINF:-1 tvg-id="604" group-title="Taiwan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHlHVeBazKahYWFy9uH8HpWUrI9eVMpoO-5ods8vYuw&s.png",604 DaLi TV
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-id="605" group-title="Taiwan" tvg-logo="https://dl.memuplay.com/new_market/img/com.novanews.android.globalnews.icon.2023-07-24-09-16-48.png",605 Global News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 tvg-id="606" group-title="Taiwan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png",606 GOODTV CH1 ZhongHe
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-id="607" group-title="Taiwan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png",607 GOODTV CH9 Health
+https://live.streamingfast.net/osmflivech9.m3u8
+#EXTINF:-1 tvg-id="608" group-title="Taiwan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITzLuqQZ6UHyD5n3Igd5Xctn5YojxoipBPhmP_5oWeQ&s.png",608 GOODTV CH28 Music
+https://live.streamingfast.net/osmflivech28.m3u8
+#EXTINF:-1 tvg-id="609" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png",609 TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" tvg-id="638" group-title="Taiwan",638 TVBS新聞台
-http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" tvg-id="639" group-title="Taiwan",639 中天新聞台
+#EXTINF:-1 tvg-id="610" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png",610 TVBS News
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+#EXTINF:-1 tvg-id="611" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg",611 CTi News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-logo="https://wxtv.com.tw/public/assets/images/logo.jpg" tvg-id="640" group-title="Taiwan",640 唯心電視
-https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png" tvg-id="641" group-title="Taiwan",641 天才衝衝衝
+#EXTINF:-1 tvg-id="612" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",612 Genius GoGoGo
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 tvg-id="613" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",613 Test1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+#EXTINF:-1 tvg-id="614" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",614 Test2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 
 Nature (700)
 #EXTINF:-1 tvg-id="701" group-title="Nature" tvg-logo="https://loupeart.com/cdn/shop/files/Loupe_Gradient_1200x1200.png?v=1667340212.jpg",701 loupe 4K

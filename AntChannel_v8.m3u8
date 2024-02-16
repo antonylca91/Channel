@@ -465,32 +465,26 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 tvg-id="621" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png",621 SET News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 tvg-id="622" group-title="Taiwan" https://photos.live-tv-channels.org/tv-logo/tw-ebc-financial-news-8111.jpg",622 EBC Finance
+#EXTINF:-1 tvg-id="622" group-title="Taiwan" tvg-logo="https://photos.live-tv-channels.org/tv-logo/tw-ebc-financial-news-8111.jpg",622 EBC Finance
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="623" group-title="Taiwan" tvg-logo="https://www.tvchinese.net/uploads/tv/huanyuxinwen.jpg",623 HuanYu News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-id="624" group-title="Taiwan" tvg-logo="https://i0.wp.com/img.vpnclub.cc/content/zh/2018/09/SET-News-Logo.jpg",624 SETi News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-#EXTINF:-1 tvg-id="625" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",625 Test1
+#EXTINF:-1 tvg-id="625" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png",625 TVBS HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
 #EXTINF:-1 tvg-id="626" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/1200px-China_TV_logo_since_19971030.svg.png",626 CTV 3
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 #EXTINF:-1 tvg-id="627" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",627 Test1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV84.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV909.m3u8
 #EXTINF:-1 tvg-id="628" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",628 Test1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV910.m3u8
 #EXTINF:-1 tvg-id="629" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",629 Test1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV911.m3u8
 #EXTINF:-1 tvg-id="630" group-title="Taiwan" tvg-logo="https://yt3.googleusercontent.com/cTGUi-OIJYFoxbxGM7XeTJLLZSDMQHVYuudIlWJDXWta0a47laMHOuYLXKzyAOPxaYu_dPcRdw=s900-c-k-c0x00ffffff-no-rj",630 TW Drama
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u8
-#EXTINF:-1 tvg-id="631" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",631 Test1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV88.m3u8
-#EXTINF:-1 tvg-id="634" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",634 Test1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV89.m3u8
 #EXTINF:-1 tvg-id="641" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/1200px-China_TV_logo_since_19971030.svg.png",641 CTV 2
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV90.m3u8
-#EXTINF:-1 tvg-id="642" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",642 Test1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV91.m3u8
 
 Nature (700)
 #EXTINF:-1 tvg-id="701" group-title="Nature" tvg-logo="https://loupeart.com/cdn/shop/files/Loupe_Gradient_1200x1200.png?v=1667340212.jpg",701 loupe 4K

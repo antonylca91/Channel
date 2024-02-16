@@ -73,20 +73,21 @@ China (300-329)
 308 CCTV10 KeJiao
 
 Japan (330-339)
-331 日テレNEWS24
+331 NipponNEWS24
 332 QVC
 333 Shop Channel
 
 Korea (340-359)
+
 Hong Kong Macau (360-369)
 361 TDM OuMun
 362 TDM Sport
 363 TDM Info
 364 TDM Ent
 365 TDM Macau
-366 澳视卫星HD
-367 凤凰资讯
-368 TVB 翡翠台
+366 TDM MacauHD
+367 Phoenix Info
+368 TVB Jade
 
 Malaysia Singapore (400)
 401 8TV
@@ -319,11 +320,11 @@ https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 
 Japan (330-339)
-#EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://i.imgur.com/tVNZ0BU.png" tvg-id="331" group-title="Japan",331 日テレNEWS24
+#EXTINF:-1 tvg-id="331" group-title="Japan" tvg-logo="https://i.imgur.com/tVNZ0BU.png",331 NipponNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-name="QVC Ⓢ" tvg-logo="https://i.imgur.com/B74hZKd.png" tvg-id="332" group-title="Japan",332 QVC
+#EXTINF:-1 tvg-id="332" group-title="Japan" tvg-logo="https://i.imgur.com/B74hZKd.png",332 QVC
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 tvg-name="Shop Channel" tvg-logo="https://i.imgur.com/rkdKa5a.png" tvg-id="333" group-title="Japan",333 Shop Channel
+#EXTINF:-1 tvg-id="333" group-title="Japan" tvg-logo="https://i.imgur.com/rkdKa5a.png",333 Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
 Korea (340-359)
@@ -357,21 +358,21 @@ http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 Hong Kong Macau (360-369)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" tvg-id="361" group-title="HKMC",361 TDM OuMun
+#EXTINF:-1 tvg-id="361" group-title="HKMC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png",361 TDM OuMun
 https://live4.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" tvg-id="362" group-title="HKMC",362 TDM Sport
+#EXTINF:-1 tvg-id="362" group-title="HKMC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png",362 TDM Sport
 https://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" tvg-id="363" group-title="HKMC",363 TDM Info
+#EXTINF:-1 tvg-id="363" group-title="HKMC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png",363 TDM Info
 https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TDM_Entertainment.png" tvg-id="364" group-title="HKMC",364 TDM Ent
+#EXTINF:-1 tvg-id="364" group-title="HKMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TDM_Entertainment.png",364 TDM Ent
 https://live4.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/87/TDM_Ou_Mun_Macau_logo.png" tvg-id="365" group-title="HKMC",365 TDM Macau
+#EXTINF:-1 tvg-id="365" group-title="HKMC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/87/TDM_Ou_Mun_Macau_logo.png",365 TDM Macau
 https://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190315_8d1038531ge75ec67bc34ca8cefj6_240x150.jpg" tvg-id="366" group-title="HKMC",366 澳视卫星HD
+#EXTINF:-1 tvg-id="366" group-title="HKMC" tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190315_8d1038531ge75ec67bc34ca8cefj6_240x150.jpg",366 TDM MacauHD
 http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
-#EXTINF:-1 tvg-id="367" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="HKMC",367 凤凰资讯
+#EXTINF:-1 tvg-id="367" group-title="HKMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",367 Pheonix Info
 http://php.17186.eu.org/phtv/fhzx.m3u8
-#EXTINF:-1 tvg-id="368" tvg-logo="https://i.imgur.com/nhsx7sa.png" group-title="HKMC",368 TVB 翡翠台
+#EXTINF:-1 tvg-id="368" group-title="HKMC" tvg-logo="https://i.imgur.com/nhsx7sa.png",368 TVB Jade
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
 Malaysia Singapore (400)

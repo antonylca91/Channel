@@ -282,16 +282,16 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 Animation (200)
 #EXTINF:-1 tvg-id="201" group-title="Animation" tvg-logo="https://seeklogo.com/images/A/aniplus-logo-F5C593D8BC-seeklogo.com.png",201 AniPlus
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
-#EXTINF:-1 tvg-id="202" group-title="Animation" tvg-logo="https://i.imgur.com/62oo8Bx.png",202 EBS Kids
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="202" group-title="Animation" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png",202 Animax
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 tvg-id="203" group-title="Animation" tvg-logo="https://i.imgur.com/ImUHRG2.png",203 EBS Plus1
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="204" group-title="Animation" tvg-logo="https://i.imgur.com/mgFRZFq.png",204 EBS Plus2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="205" group-title="Animation" tvg-logo="https://i.imgur.com/qceaIf7.png",205 EBS English
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="206" group-title="Animation" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDVNujtapQATU0IuwKbKfO7h2rU1iNCkuRt5vDMN5pQA&s",206 Rick and Morty TV
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1 tvg-id="206" group-title="Animation" tvg-logo="https://i.imgur.com/62oo8Bx.png",206 EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="207" group-title="Animation" tvg-logo="https://i.ibb.co/1QVNzk4/unnamed.png",207 Baby Shark Tv
 https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-id="208" group-title="Animation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/ZooMoo-Kids.png",208 ZooMoo Kids 
@@ -306,8 +306,8 @@ https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
 http://fpt.vthanhtivi.pw/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="213" group-title="Animation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",213 Cartoon Network JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 tvg-id="214" group-title="Animation" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png",214 Animax
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:-1 tvg-id="214" group-title="Animation" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDVNujtapQATU0IuwKbKfO7h2rU1iNCkuRt5vDMN5pQA&s",214 Rick and Morty TV
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:-1 tvg-id="215" group-title="Animation" tvg-logo="https://play-lh.googleusercontent.com/s3EWSnFFLEyHYX5jPacsmF3Q_hwXtDAnNSh8Y0OLDydQNShrtDJv2V8INKOrgwqnTlqw=w3840-h2160-rw",215 Dave&Ava
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 #EXTINF:-1 tvg-id="216" group-title="Animation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Talking_Tom_logo.jpg",216 Tom

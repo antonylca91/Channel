@@ -76,6 +76,7 @@ Japan (330-339)
 331 NipponNEWS24
 332 QVC
 333 Shop Channel
+334 ANN News
 
 Korea (340-359)
 341 KBS 1TV
@@ -92,6 +93,7 @@ Korea (340-359)
 352 TJB SBS
 353 GuGak TV
 354 SBS
+355 The K-Pop
 
 Hong Kong Macau (360-369)
 361 TDM OuMun
@@ -314,6 +316,8 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 tvg-id="333" group-title="Japan" tvg-logo="https://i.imgur.com/rkdKa5a.png",333 Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 tvg-id="334" group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Asia_News_Network_logo.svg/800px-Asia_News_Network_logo.svg.png",334 ANN News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 
 Korea (340-359)
 #EXTINF:-1 tvg-id="341" group-title="Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",341 KBS 1TV
@@ -344,6 +348,8 @@ http://1.245.74.5:1935/live/tv/.m3u8
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="354" group-title="Korea" tvg-logo="https://i.imgur.com/BzqSUVF.png",354 SBS
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="355" group-title="Korea" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4yDIbsqqrM-Je5LPaPZMG7M8ebTCH1LfWA&usqp=CAU",355 The K-Pop
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 
 Hong Kong Macau (360-369)
 #EXTINF:-1 tvg-id="361" group-title="HKMC" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png",361 TDM OuMun
@@ -421,20 +427,16 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-id="612" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",612 Genius GoGoGo
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 #EXTINF:-1 tvg-id="613" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",613 Test1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
 #EXTINF:-1 tvg-id="614" group-title="Taiwan" tvg-logo="https://s.yimg.com/ny/api/res/1.2/DbBTYr4v4egys_lQ.tYczA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/ko/news_ttv_com_tw_433/6b9561fe3d87b7be8987e29377f86f3a",614 TTV News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 tvg-id="615" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",615 Test1
+#EXTINF:-1 tvg-id="615" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Formosa_TV_logo.svg/1200px-Formosa_TV_logo.svg.png",615 FTV News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 tvg-id="616" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",616 Test1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-#EXTINF:-1 tvg-id="617" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",617 Test1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 #EXTINF:-1 tvg-id="618" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",618 Test1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
 #EXTINF:-1 tvg-id="619" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",619 Test1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
-#EXTINF:-1 tvg-id="620" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",620 Test1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 tvg-id="620" group-title="Taiwan" tvg-logo="https://img.favpng.com/17/11/18/television-in-taiwan-chinese-television-system-news-png-favpng-XijE1rYeUZ6T6U1J3Kzw8Uk1R.jpg",620 CTS HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 
 Nature (700)

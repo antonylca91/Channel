@@ -173,12 +173,11 @@ Movies (800)
 808 Crackle
 809 Family Flix
 810 UNIFI DUNIA SINEMA
-811 HBO (MY)
+811 Showtime Selects
 812 Moviesphere
 813 Paramount Plus Picks
 814 Rakuten TV
 815 RedBox Rush
-816 Showtime Selects
 
 Music (900)
 901 CMT Equal Play
@@ -514,8 +513,8 @@ https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="810" group-title="Movies" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",810 UNIFI DUNIA SINEMA
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
-#EXTINF:-1 tvg-id="811" group-title="Movies" tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png",811 HBO (MY)
-https://aqfadtv.xyz/live/hbo/index.mpd
+#EXTINF:-1 tvg-id="811" group-title="Movies" tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/colorLogoPNG.png",811 Showtime Selects
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="812" group-title="Movies" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",812 Moviesphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="813" group-title="Movies" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo.png",813 Paramount Plus Picks
@@ -524,8 +523,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007
 https://rakuten-actionmovies-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="815" group-title="Movies" tvg-logo="https://i.imgur.com/WAs8vD1.png",815 RedBox Rush
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="816" group-title="Movies" tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/colorLogoPNG.png",816 Showtime Selects
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 Music (900)
 #EXTINF:-1 tvg-id="901" group-title="Music" tvg-logo="https://dp6mhagng1yw3.cloudfront.net/entries/5th-socialgood/9092077b-a8e0-4ed1-9dd4-54406deb8193.png",901 CMT Equal Play

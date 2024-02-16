@@ -359,7 +359,7 @@ https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="346)" group-title="Korea" tvg-logo="https://seeklogo.com/images/M/munhwa-broadcasting-company-logo-5F2839F07B-seeklogo.com.png",346 MBC TV
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-id="347" group-title="Movies" tvg-logo="https://tw.fltaradio.com/upload/2018/01/1597.jpg",347 KBC(SBS GwangJu)
+#EXTINF:-1 tvg-id="347" group-title="Korea" tvg-logo="https://tw.fltaradio.com/upload/2018/01/1597.jpg",347 KBC(SBS GwangJu)
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="348" group-title="Korea" tvg-logo="https://i.imgur.com/MvxdZhX.png",348 CJB TV
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8

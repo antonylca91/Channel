@@ -138,7 +138,17 @@ Taiwan (600)
 612 Genius GoGoGo
 613 Test1
 614 TTV News
+615 FTV News
+616 Momo TV1
+617 Momo TV2
 619 CTV News
+618 Test1
+619 CTV News
+620 CTS HD
+621 Test1
+622 EBC Finance
+623 HuanYu News
+624 SETi News
 
 Nature (700)
 701 loupe 4K
@@ -428,28 +438,28 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-id="612" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",612 Genius GoGoGo
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 #EXTINF:-1 tvg-id="613" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",613 Test1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1 tvg-id="614" group-title="Taiwan" tvg-logo="https://s.yimg.com/ny/api/res/1.2/DbBTYr4v4egys_lQ.tYczA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/ko/news_ttv_com_tw_433/6b9561fe3d87b7be8987e29377f86f3a",614 TTV News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 tvg-id="615" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Formosa_TV_logo.svg/1200px-Formosa_TV_logo.svg.png",615 FTV News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 tvg-id="616" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",616 Test1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-#EXTINF:-1 tvg-id="617" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",617 Test1
+#EXTINF:-1 tvg-id="616" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",616 Momo TV1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+#EXTINF:-1 tvg-id="617" group-title="Taiwan" tvg-logo="https://ams.funapp.com.tw//image/missions//temp/202308091455506132.png",617 Momo TV2
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 #EXTINF:-1 tvg-id="618" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",618 Test1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 #EXTINF:-1 tvg-id="619" group-title="Taiwan" tvg-logo="https://thewatchtv.com/wp-content/uploads/2020/03/Watch-CTV-News-Channel-Live-TV-from-Taiwan.jpg",619 CTV News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 #EXTINF:-1 tvg-id="620" group-title="Taiwan" tvg-logo="https://img.favpng.com/17/11/18/television-in-taiwan-chinese-television-system-news-png-favpng-XijE1rYeUZ6T6U1J3Kzw8Uk1R.jpg",620 CTS HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 tvg-id="621" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",621 Test1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-#EXTINF:-1 tvg-id="622" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",622 Test1
+#EXTINF:-1 tvg-id="621" group-title="Taiwan" tvg-logo="https://ams.funapp.com.tw//image/missions//temp/202308091455506132.png",621 Test1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+#EXTINF:-1 tvg-id="622" group-title="Taiwan" https://photos.live-tv-channels.org/tv-logo/tw-ebc-financial-news-8111.jpg",622 EBC Finance
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 tvg-id="623" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",623 Test1
+#EXTINF:-1 tvg-id="623" group-title="Taiwan" tvg-logo="https://www.tvchinese.net/uploads/tv/huanyuxinwen.jpg",623 HuanYu News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 tvg-id="624" group-title="Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",624 Test1
+#EXTINF:-1 tvg-id="624" group-title="Taiwan" tvg-logo="https://i0.wp.com/img.vpnclub.cc/content/zh/2018/09/SET-News-Logo.jpg",624 SETi News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 
 Nature (700)

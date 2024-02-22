@@ -147,23 +147,21 @@ Music (900)
 
 
 News (100)
-#EXTINF:1 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/kf818kM.png",101 RTHK TV31
+#EXTINF:1 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/kf818kM.png",1 RTHK TV31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:2 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/MXLuUoU.png",102 RTHK TV32
+#EXTINF:2 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/MXLuUoU.png",1 RTHK TV32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:3 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/BB93NQP.png",103 Al Jazeera
+#EXTINF:3 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/BB93NQP.png",1 Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="124" group-title="News" tvg-logo="https://i.imgur.com/xWglicB.png",124 Channel News Asia
+#EXTINF:4 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/xWglicB.png",1 Channel News Asia
 https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
-#EXTINF:-1 tvg-id="131" group-title="News" tvg-logo="https://i.imgur.com/SfcZyqm.png",131 Taiwan+
+#EXTINF:5 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/SfcZyqm.png",1 Taiwan+
 https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
-#EXTINF:-1 tvg-id="135" group-title="News" tvg-logo="https://i.imgur.com/37K0AZX.png",135 USA Today
-https://lnc-usa-today.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="143" group-title="News" tvg-logo="https://i.imgur.com/43oHsHL.png",143 Yahoo! Finance
+#EXTINF:6 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/43oHsHL.png",1 Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="144" group-title="News" tvg-logo="https://i.imgur.com/xGlToly.png",144 Bloomberg TV+
+#EXTINF:7 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/xGlToly.png",1 Bloomberg TV+
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-#EXTINF:-1 tvg-id="145" group-title="News" tvg-logo="https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/08/GB-News-logo-e1660555171324-1038x778.png",145 GBN News
+#EXTINF:8 tvg-id="" group-title="News" tvg-logo="https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/08/GB-News-logo-e1660555171324-1038x778.png",1 GBN News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 
 Animation (200)
@@ -187,8 +185,6 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 http://bit.ly/NickJr360p
 #EXTINF:-1 tvg-id="210" group-title="Animation" tvg-logo="https://i.imgur.com/0nDftk7.jpg",210 Pokemon Kids TV EN
 https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
-#EXTINF:-1 tvg-id="211" group-title="Animation" tvg-logo="https://i.imgur.com/SwheroL.jpg",211 Pokemon Kids TV JP
-https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
 #EXTINF:-1 tvg-id="213" group-title="Animation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",213 Cartoon Network JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 #EXTINF:-1 tvg-id="214" group-title="Animation" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDVNujtapQATU0IuwKbKfO7h2rU1iNCkuRt5vDMN5pQA&s",214 Rick and Morty TV

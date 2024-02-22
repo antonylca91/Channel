@@ -55,43 +55,43 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:14 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/62oo8Bx.png",2 EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://i.ibb.co/1QVNzk4/unnamed.png",2 Baby Shark Tv
+#EXTINF:15 tvg-id="" group-title="Global" tvg-logo="https://i.ibb.co/1QVNzk4/unnamed.png",2 Baby Shark Tv
 https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/ZooMoo-Kids.png",2 ZooMoo Kids 
+#EXTINF:16 tvg-id="" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/ZooMoo-Kids.png",2 ZooMoo Kids 
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",2 Nickelodeon Junior
+#EXTINF:17 tvg-id="" group-title="Global" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",2 Nickelodeon Junior
 http://bit.ly/NickJr360p
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/0nDftk7.jpg",2 Pokemon Kids TV EN
+#EXTINF: tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/0nDftk7.jpg",2 Pokemon Kids TV EN
 https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",2 Cartoon Network JP
+#EXTINF: tvg-id="" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",2 Cartoon Network JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDVNujtapQATU0IuwKbKfO7h2rU1iNCkuRt5vDMN5pQA&s",2 Rick and Morty TV
+#EXTINF: tvg-id="" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDVNujtapQATU0IuwKbKfO7h2rU1iNCkuRt5vDMN5pQA&s",2 Rick and Morty TV
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://play-lh.googleusercontent.com/s3EWSnFFLEyHYX5jPacsmF3Q_hwXtDAnNSh8Y0OLDydQNShrtDJv2V8INKOrgwqnTlqw=w3840-h2160-rw",2 Dave&Ava
+#EXTINF: tvg-id="" group-title="Global" tvg-logo="https://play-lh.googleusercontent.com/s3EWSnFFLEyHYX5jPacsmF3Q_hwXtDAnNSh8Y0OLDydQNShrtDJv2V8INKOrgwqnTlqw=w3840-h2160-rw",2 Dave&Ava
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Talking_Tom_logo.jpg",2 Tom
+#EXTINF: tvg-id="" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Talking_Tom_logo.jpg",2 Tom
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Peppa_Pig_logo.svg/1200px-Peppa_Pig_logo.svg.png",2 Peppa Pig
+#EXTINF: tvg-id="" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Peppa_Pig_logo.svg/1200px-Peppa_Pig_logo.svg.png",2 Peppa Pig
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://images.kktv.com.tw/covers/88/889bb23d0133e0844c7a19cb38770ff86504964b.sm.jpg",2 Yoyo
+#EXTINF: tvg-id="" group-title="Global" tvg-logo="https://images.kktv.com.tw/covers/88/889bb23d0133e0844c7a19cb38770ff86504964b.sm.jpg",2 Yoyo
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 
 China (3)
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/uHU6Vc0.png",3 CCTV1 ZhongHe
+#EXTINF: tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/uHU6Vc0.png",3 CCTV1 ZhongHe
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/6C9JEYt.png",3 CCTV2 Finance
+#EXTINF: tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/6C9JEYt.png",3 CCTV2 Finance
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/1TPiRqR.png",3 CCTV4 News
+#EXTINF: tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/1TPiRqR.png",3 CCTV4 News
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/Mut2omN.png",3 CCTV5 Sports
+#EXTINF: tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/Mut2omN.png",3 CCTV5 Sports
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/UNjmQVS.png",3 CCTV5+ Sports+
+#EXTINF: tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/UNjmQVS.png",3 CCTV5+ Sports+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/Qg1opg9.png",3 CCTV8 Drama
+#EXTINF: tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/Qg1opg9.png",3 CCTV8 Drama
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/Ruyzhu5.png",3 CCTV9 JiLu
+#EXTINF: tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/Ruyzhu5.png",3 CCTV9 JiLu
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/sSSO7UD.png",3 CCTV10 KeJiao
+#EXTINF: tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/sSSO7UD.png",3 CCTV10 KeJiao
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 
 

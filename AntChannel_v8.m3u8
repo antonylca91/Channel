@@ -108,8 +108,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
 
 Hong Kong Macau (3)
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/87/TDM_Ou_Mun_Macau_logo.png",3 TDM Macau
-https://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",3 Pheonix Info
 http://php.17186.eu.org/phtv/fhzx.m3u8
 #EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/nhsx7sa.png",3 TVB Jade

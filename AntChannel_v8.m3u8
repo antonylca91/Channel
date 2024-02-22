@@ -147,30 +147,20 @@ Music (900)
 
 
 News (100)
-#EXTINF:101 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/kf818kM.png",101 RTHK TV31
+#EXTINF:1 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/kf818kM.png",101 RTHK TV31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:102 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/MXLuUoU.png",102 RTHK TV32
+#EXTINF:2 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/MXLuUoU.png",102 RTHK TV32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:103 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/BB93NQP.png",103 Al Jazeera
+#EXTINF:3 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/BB93NQP.png",103 Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="113" group-title="News" tvg-logo="https://i.imgur.com/fMsJYzl.png",113 CGTN
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-id="114" group-title="News" tvg-logo="https://i.imgur.com/7sJLzKi.png",114 ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="115" group-title="News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nbc-news-now-uk.png",115 NBC NewsNOW
-https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
-#EXTINF:-1 tvg-id="123" group-title="News" tvg-logo="https://i.imgur.com/BTasyOy.png",123 CNBC
+#EXTINF:4 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/BTasyOy.png",104 CNBC
 https://www.youtube.com/c/CNBC/live
 #EXTINF:-1 tvg-id="124" group-title="News" tvg-logo="https://i.imgur.com/xWglicB.png",124 Channel News Asia
 https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
-#EXTINF:-1 tvg-id="125" group-title="News" tvg-logo="https://i.imgur.com/vyrc1I1.png",125 CNN
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="131" group-title="News" tvg-logo="https://i.imgur.com/SfcZyqm.png",131 Taiwan+
 https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 #EXTINF:-1 tvg-id="135" group-title="News" tvg-logo="https://i.imgur.com/37K0AZX.png",135 USA Today
 https://lnc-usa-today.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="138" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sky_News_Australia_logo_-_2019.svg/512px-Sky_News_Australia_logo_-_2019.svg.png",138 Sky News Now(AU)
-https://i.mjh.nz/sky-news-now.m3u8
 #EXTINF:-1 tvg-id="143" group-title="News" tvg-logo="https://i.imgur.com/43oHsHL.png",143 Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="144" group-title="News" tvg-logo="https://i.imgur.com/xGlToly.png",144 Bloomberg TV+
@@ -236,20 +226,8 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/inde
 
 
 Korea (340-359)
-#EXTINF:-1 tvg-id="346)" group-title="Global" tvg-logo="https://seeklogo.com/images/M/munhwa-broadcasting-company-logo-5F2839F07B-seeklogo.com.png",346 MBC TV
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-id="347" group-title="Global" tvg-logo="https://tw.fltaradio.com/upload/2018/01/1597.jpg",347 KBC(SBS GwangJu)
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="348" group-title="Global" tvg-logo="https://i.imgur.com/MvxdZhX.png",348 CJB TV
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="349" group-title="Global" tvg-logo="https://i.imgur.com/RVWpBoz.png",349 JIBS TV
-http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-id="350" group-title="Global" tvg-logo="https://i.imgur.com/RuHZ6Dx.png",350 Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="351" group-title="Global" tvg-logo="https://lh4.googleusercontent.com/proxy/JwAHtrL38groxJtnV-SwO5Vajebs_ddm9hzYa3rR67QkXwuUb4UGd0COv3YLzYIglZTLLCfF8Gv4I-1Xfvs4roLrUIHTXBBMMMTBhA",351 KCTV GwangJu
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 tvg-id="352" group-title="Global" tvg-logo="http://nettv.live/uploads/20/1-201122204432409.jpg",352 TJB SBS
-http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 tvg-id="353" group-title="Global" tvg-logo="https://pbs.twimg.com/profile_images/883196509982011392/l7yA_yVP_400x400.jpg",353 GuGak TV
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="354" group-title="Global" tvg-logo="https://i.imgur.com/BzqSUVF.png",354 SBS
@@ -300,10 +278,6 @@ https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 USA (500)
 #EXTINF:-1 tvg-id="501" group-title="Global" tvg-logo="https://i.imgur.com/KqjTIh8.png",501 RedBox Spotlight
 https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="502" group-title="Global" tvg-logo="https://i.imgur.com/rmyfoOI.png",502 NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="503" group-title="Global" tvg-logo="https://i.imgur.com/rmyfoOI.png",503 NASA TV Media
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="504" group-title="Global" tvg-logo="https://i.imgur.com/N3xiz4m.png",504 BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="505" group-title="Global" tvg-logo="https://i.imgur.com/Ii8DX1x.png",505 BBC Home

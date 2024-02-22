@@ -61,8 +61,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
 #EXTINF:-1 tvg-id="B013" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Peppa_Pig_logo.svg/1200px-Peppa_Pig_logo.svg.png",Peppa Pig
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-#EXTINF:-1 tvg-id="B014" group-title="Global" tvg-logo="https://images.kktv.com.tw/covers/88/889bb23d0133e0844c7a19cb38770ff86504964b.sm.jpg",Yoyo
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 
 China (C001)
 #EXTINF:-1 tvg-id="C001" group-title="Global" tvg-logo="https://i.imgur.com/uHU6Vc0.png",CCTV1 ZhongHe

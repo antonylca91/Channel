@@ -83,15 +83,15 @@ https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 
 Korea (3)
-#EXTINF:-1 group-title="Global" tvg-logo="https://i.imgur.com/RuHZ6Dx.png",3 Arirang
+#EXTINF: group-title="Global" tvg-logo="https://i.imgur.com/RuHZ6Dx.png",3 Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="Global" tvg-logo="https://pbs.twimg.com/profile_images/883196509982011392/l7yA_yVP_400x400.jpg",3 GuGak TV
+#EXTINF: group-title="Global" tvg-logo="https://pbs.twimg.com/profile_images/883196509982011392/l7yA_yVP_400x400.jpg",3 GuGak TV
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 group-title="Global" tvg-logo="https://i.imgur.com/BzqSUVF.png",3 SBS
+#EXTINF: group-title="Global" tvg-logo="https://i.imgur.com/BzqSUVF.png",3 SBS
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4yDIbsqqrM-Je5LPaPZMG7M8ebTCH1LfWA&usqp=CAU",3 The K-Pop
+#EXTINF: group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4yDIbsqqrM-Je5LPaPZMG7M8ebTCH1LfWA&usqp=CAU",3 The K-Pop
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-#EXTINF:-1 group-title="Global" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Running_Man_New_logo.svg/revision/latest/smart/width/250/height/250?cb=20230820005622",3 RunningMan
+#EXTINF: group-title="Global" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Running_Man_New_logo.svg/revision/latest/smart/width/250/height/250?cb=20230820005622",3 RunningMan
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
 
 Hong Kong Macau (3)
@@ -163,31 +163,31 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
 
 Movies (8)
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://st4.depositphotos.com/3096635/38204/v/1600/depositphotos_382045482-stock-illustration-ultra-resolution-icon-web-mobile.jpg",8 DouYu 4K
+#EXTINF: group-title="Global" tvg-logo="https://st4.depositphotos.com/3096635/38204/v/1600/depositphotos_382045482-stock-illustration-ultra-resolution-icon-web-mobile.jpg",8 DouYu 4K
 http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/ebc-emovie-live.jpg",8 EBC EN Movies
+#EXTINF: group-title="Global" tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/ebc-emovie-live.jpg",8 EBC EN Movies
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://www.twt.com.tw/Upload_Img/_thumbs/images/news/東森電影台-LOGO封面.png",8 EBC Movies
+#EXTINF: group-title="Global" tvg-logo="https://www.twt.com.tw/Upload_Img/_thumbs/images/news/東森電影台-LOGO封面.png",8 EBC Movies
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png",8 The Asylum
+#EXTINF: group-title="Global" tvg-logo="https://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png",8 The Asylum
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="" group-title="Global" channel-id="plex-5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkmovies_logo_dark_v2.png",8 New K Movies1
+#EXTINF: group-title="Global" channel-id="plex-5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkmovies_logo_dark_v2.png",8 New K Movies1
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=p6Ph7ybs-ExykQE-Zz78&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 tvg-id="" group-title="Global" channel-id="samsung-USAJ30000122O" tvg-chno="1295" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/USAJ30000122O_20210909T003510.png",8 New K Movies2
+#EXTINF: group-title="Global" channel-id="samsung-USAJ30000122O" tvg-chno="1295" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/USAJ30000122O_20210909T003510.png",8 New K Movies2
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlRbdKbfOZ99IHa9BAkmbT8xGiVChQTOaoLOHpEsOaPw&s",8 Crackle
+#EXTINF: group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlRbdKbfOZ99IHa9BAkmbT8xGiVChQTOaoLOHpEsOaPw&s",8 Crackle
 http://crackle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/67C50642-086D-4EC9-BF2F-0DF19FF704F0/3-1x1.png/900",8 Family Flix
+#EXTINF: group-title="Global" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/67C50642-086D-4EC9-BF2F-0DF19FF704F0/3-1x1.png/900",8 Family Flix
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",8 UNIFI DUNIA SINEMA
+#EXTINF: group-title="Global" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",8 UNIFI DUNIA SINEMA
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/colorLogoPNG.png",8 Showtime Selects
+#EXTINF: group-title="Global" tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/colorLogoPNG.png",8 Showtime Selects
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",8 Moviesphere
+#EXTINF: group-title="Global" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",8 Moviesphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="" group-title="Global" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png",8 Rakuten TV
+#EXTINF: group-title="Global" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png",8 Rakuten TV
 https://rakuten-actionmovies-1-gb.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/WAs8vD1.png",8 RedBox Rush
+#EXTINF: group-title="Global" tvg-logo="https://i.imgur.com/WAs8vD1.png",8 RedBox Rush
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 
 News (9)

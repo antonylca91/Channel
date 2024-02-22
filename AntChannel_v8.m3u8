@@ -25,33 +25,33 @@ Music (900)
 
 
 Music (1)
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://dp6mhagng1yw3.cloudfront.net/entries/5th-socialgood/9092077b-a8e0-4ed1-9dd4-54406deb8193.png",1 CMT Equal Play
+#EXTINF:001 tvg-id="" group-title="Global" tvg-logo="https://dp6mhagng1yw3.cloudfront.net/entries/5th-socialgood/9092077b-a8e0-4ed1-9dd4-54406deb8193.png",1 CMT Equal Play
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://groover-images.s3.eu-west-3.amazonaws.com/prod/influencer/0.reload-music/profile_picture/400_400",1 Music Reload TVHD
+#EXTINF:002 tvg-id="" group-title="Global" tvg-logo="https://groover-images.s3.eu-west-3.amazonaws.com/prod/influencer/0.reload-music/profile_picture/400_400",1 Music Reload TVHD
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Global" tvg-logo="https://play-lh.googleusercontent.com/O7hyr5-sSnDA4q5-styBP3ZkydPVA3FGxAX7lP6cVxAsYPfIQYojCtnVGtgbPVc-sdo",1 V2BEAT
+#EXTINF:003 tvg-id="" group-title="Global" tvg-logo="https://play-lh.googleusercontent.com/O7hyr5-sSnDA4q5-styBP3ZkydPVA3FGxAX7lP6cVxAsYPfIQYojCtnVGtgbPVc-sdo",1 V2BEAT
 http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF: tvg-id="" group-title="Global" tvg-logo="https://i.ytimg.com/vi/5qap5aO4i9A/maxresdefault.jpg",1 Lofi Music
+#EXTINF:004 tvg-id="" group-title="Global" tvg-logo="https://i.ytimg.com/vi/5qap5aO4i9A/maxresdefault.jpg",1 Lofi Music
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
 
 Animation (2)
-#EXTINF:9 tvg-id="" group-title="Global" tvg-logo="https://seeklogo.com/images/A/aniplus-logo-F5C593D8BC-seeklogo.com.png",2 AniPlus
+#EXTINF:005 tvg-id="" group-title="Global" tvg-logo="https://seeklogo.com/images/A/aniplus-logo-F5C593D8BC-seeklogo.com.png",2 AniPlus
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
-#EXTINF:10 tvg-id="" group-title="Global" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png",2 Animax
+#EXTINF:006 tvg-id="" group-title="Global" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png",2 Animax
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-#EXTINF:13 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/qceaIf7.png",2 EBS English
+#EXTINF:007 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/qceaIf7.png",2 EBS English
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:14 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/62oo8Bx.png",2 EBS Kids
+#EXTINF:008 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/62oo8Bx.png",2 EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:15 tvg-id="" group-title="Global" tvg-logo="https://i.ibb.co/1QVNzk4/unnamed.png",2 Baby Shark Tv
+#EXTINF:009 tvg-id="" group-title="Global" tvg-logo="https://i.ibb.co/1QVNzk4/unnamed.png",2 Baby Shark Tv
 https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
-#EXTINF:16 tvg-id="" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/ZooMoo-Kids.png",2 ZooMoo Kids 
+#EXTINF:010 tvg-id="" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/ZooMoo-Kids.png",2 ZooMoo Kids 
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:17 tvg-id="" group-title="Global" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",2 Nickelodeon Junior
+#EXTINF:011 tvg-id="" group-title="Global" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",2 Nickelodeon Junior
 http://bit.ly/NickJr360p
-#EXTINF: tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/0nDftk7.jpg",2 Pokemon Kids TV EN
+#EXTINF:012 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/0nDftk7.jpg",2 Pokemon Kids TV EN
 https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
-#EXTINF: tvg-id="" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",2 Cartoon Network JP
+#EXTINF:013 tvg-id="" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",2 Cartoon Network JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 #EXTINF: tvg-id="" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDVNujtapQATU0IuwKbKfO7h2rU1iNCkuRt5vDMN5pQA&s",2 Rick and Morty TV
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8

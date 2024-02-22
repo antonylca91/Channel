@@ -25,55 +25,55 @@ Music (900)
 
 
 News (1)
-#EXTINF:1 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/kf818kM.png",1 RTHK TV31
+#EXTINF:1 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/kf818kM.png",1 RTHK TV31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:2 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/MXLuUoU.png",1 RTHK TV32
+#EXTINF:2 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/MXLuUoU.png",1 RTHK TV32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:3 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/BB93NQP.png",1 Al Jazeera
+#EXTINF:3 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/BB93NQP.png",1 Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:4 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/xWglicB.png",1 Channel News Asia
+#EXTINF:4 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/xWglicB.png",1 Channel News Asia
 https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
-#EXTINF:5 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/SfcZyqm.png",1 Taiwan+
+#EXTINF:5 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/SfcZyqm.png",1 Taiwan+
 https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
-#EXTINF:6 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/43oHsHL.png",1 Yahoo! Finance
+#EXTINF:6 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/43oHsHL.png",1 Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:7 tvg-id="" group-title="News" tvg-logo="https://i.imgur.com/xGlToly.png",1 Bloomberg TV+
+#EXTINF:7 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/xGlToly.png",1 Bloomberg TV+
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-#EXTINF:8 tvg-id="" group-title="News" tvg-logo="https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/08/GB-News-logo-e1660555171324-1038x778.png",1 GBN News
+#EXTINF:8 tvg-id="" group-title="Global" tvg-logo="https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/08/GB-News-logo-e1660555171324-1038x778.png",1 GBN News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 
 Animation (2)
-#EXTINF:-1 tvg-id="201" group-title="Animation" tvg-logo="https://seeklogo.com/images/A/aniplus-logo-F5C593D8BC-seeklogo.com.png",2 AniPlus
+#EXTINF:-1 tvg-id="201" group-title="Global" tvg-logo="https://seeklogo.com/images/A/aniplus-logo-F5C593D8BC-seeklogo.com.png",2 AniPlus
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
-#EXTINF:-1 tvg-id="202" group-title="Animation" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png",2 Animax
+#EXTINF:-1 tvg-id="202" group-title="Global" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png",2 Animax
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-#EXTINF:-1 tvg-id="203" group-title="Animation" tvg-logo="https://i.imgur.com/ImUHRG2.png",2 EBS Plus1
+#EXTINF:-1 tvg-id="203" group-title="Global" tvg-logo="https://i.imgur.com/ImUHRG2.png",2 EBS Plus1
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="204" group-title="Animation" tvg-logo="https://i.imgur.com/mgFRZFq.png",2 EBS Plus2
+#EXTINF:-1 tvg-id="204" group-title="Global" tvg-logo="https://i.imgur.com/mgFRZFq.png",2 EBS Plus2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="205" group-title="Animation" tvg-logo="https://i.imgur.com/qceaIf7.png",2 EBS English
+#EXTINF:-1 tvg-id="205" group-title="Global" tvg-logo="https://i.imgur.com/qceaIf7.png",2 EBS English
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="206" group-title="Animation" tvg-logo="https://i.imgur.com/62oo8Bx.png",2 EBS Kids
+#EXTINF:-1 tvg-id="206" group-title="Global" tvg-logo="https://i.imgur.com/62oo8Bx.png",2 EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="207" group-title="Animation" tvg-logo="https://i.ibb.co/1QVNzk4/unnamed.png",2 Baby Shark Tv
+#EXTINF:-1 tvg-id="207" group-title="Global" tvg-logo="https://i.ibb.co/1QVNzk4/unnamed.png",2 Baby Shark Tv
 https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
-#EXTINF:-1 tvg-id="208" group-title="Animation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/ZooMoo-Kids.png",2 ZooMoo Kids 
+#EXTINF:-1 tvg-id="208" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/ZooMoo-Kids.png",2 ZooMoo Kids 
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="209" group-title="Animation" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",2 Nickelodeon Junior
+#EXTINF:-1 tvg-id="209" group-title="Global" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",2 Nickelodeon Junior
 http://bit.ly/NickJr360p
-#EXTINF:-1 tvg-id="210" group-title="Animation" tvg-logo="https://i.imgur.com/0nDftk7.jpg",2 Pokemon Kids TV EN
+#EXTINF:-1 tvg-id="210" group-title="Global" tvg-logo="https://i.imgur.com/0nDftk7.jpg",2 Pokemon Kids TV EN
 https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
-#EXTINF:-1 tvg-id="213" group-title="Animation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",2 Cartoon Network JP
+#EXTINF:-1 tvg-id="213" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",2 Cartoon Network JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 tvg-id="214" group-title="Animation" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDVNujtapQATU0IuwKbKfO7h2rU1iNCkuRt5vDMN5pQA&s",2 Rick and Morty TV
+#EXTINF:-1 tvg-id="214" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDVNujtapQATU0IuwKbKfO7h2rU1iNCkuRt5vDMN5pQA&s",2 Rick and Morty TV
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 tvg-id="215" group-title="Animation" tvg-logo="https://play-lh.googleusercontent.com/s3EWSnFFLEyHYX5jPacsmF3Q_hwXtDAnNSh8Y0OLDydQNShrtDJv2V8INKOrgwqnTlqw=w3840-h2160-rw",2 Dave&Ava
+#EXTINF:-1 tvg-id="215" group-title="Global" tvg-logo="https://play-lh.googleusercontent.com/s3EWSnFFLEyHYX5jPacsmF3Q_hwXtDAnNSh8Y0OLDydQNShrtDJv2V8INKOrgwqnTlqw=w3840-h2160-rw",2 Dave&Ava
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-#EXTINF:-1 tvg-id="216" group-title="Animation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Talking_Tom_logo.jpg",2 Tom
+#EXTINF:-1 tvg-id="216" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Talking_Tom_logo.jpg",2 Tom
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-#EXTINF:-1 tvg-id="217" group-title="Animation" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Peppa_Pig_logo.svg/1200px-Peppa_Pig_logo.svg.png",2 Peppa Pig
+#EXTINF:-1 tvg-id="217" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Peppa_Pig_logo.svg/1200px-Peppa_Pig_logo.svg.png",2 Peppa Pig
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-#EXTINF:-1 tvg-id="218" group-title="Animation" tvg-logo="https://images.kktv.com.tw/covers/88/889bb23d0133e0844c7a19cb38770ff86504964b.sm.jpg",2 Yoyo
+#EXTINF:-1 tvg-id="218" group-title="Global" tvg-logo="https://images.kktv.com.tw/covers/88/889bb23d0133e0844c7a19cb38770ff86504964b.sm.jpg",2 Yoyo
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 
 China (3)

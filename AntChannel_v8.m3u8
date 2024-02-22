@@ -47,10 +47,6 @@ Animation (2)
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 #EXTINF:10 tvg-id="" group-title="Global" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png",2 Animax
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-#EXTINF:11 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/ImUHRG2.png",2 EBS Plus1
-https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:12 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/mgFRZFq.png",2 EBS Plus2
-https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:13 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/qceaIf7.png",2 EBS English
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:14 tvg-id="" group-title="Global" tvg-logo="https://i.imgur.com/62oo8Bx.png",2 EBS Kids

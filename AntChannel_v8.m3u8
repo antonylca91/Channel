@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
 
 Animation (B)
 #EXTINF:-1 tvg-id="B001" group-title="Global" tvg-logo="https://seeklogo.com/images/A/aniplus-logo-F5C593D8BC-seeklogo.com.png",AniPlus
-https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
+https://epg.pm/stream/57f473f4fdd1b4a732745115ffce6030299771bfb432c3808ace895153c08c2c.m3u8
 #EXTINF:-1 tvg-id="B002" group-title="Global" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png",Animax
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 tvg-id="B003" group-title="Global" tvg-logo="https://i.imgur.com/qceaIf7.png",EBS English

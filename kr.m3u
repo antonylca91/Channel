@@ -5,3 +5,16 @@ https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 https://cdn.hklive.tv/xxxx/84/index.m3u8
 #EXTINF:-1 tvg-name="LoveNrture" group-title="·4K",Love 
 https://cdn.hklive.tv/xxxx/83/index.m3u8
+
+#EXTINF:-1 tvg-name="LoveNrture" group-title="·4K",Love HBO
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-name="LoveNrture" group-title="·4K",Love HBO1
+http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#EXTINF:-1 tvg-name="LoveNrture" group-title="·4K",Love HBO2
+http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-name="LoveNrture" group-title="·4K",Love HBOHBO Asia
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="LoveNrture" group-title="·4K",Love HBO3HBO
+http://220.134.196.147:9557/index.m3u8
+#EXTINF:-1 tvg-name="LoveNrture" group-title="·4K",Love HBO4
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8

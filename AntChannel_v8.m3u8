@@ -179,8 +179,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a
 https://rakuten-actionmovies-1-gb.samsung.wurl.tv/3000.m3u8
 
 News (I)
-#EXTINF:-1 tvg-id="I001" group-title="Global" tvg-logo="https://i.imgur.com/kf818kM.png",RTHK TV31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-id="I001" group-title="Global" tvg-logo="https://i.imgur.com/xGlToly.png",Bloomberg TV+
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-id="I002" group-title="Global" tvg-logo="https://i.imgur.com/MXLuUoU.png",RTHK TV32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 tvg-id="I003" group-title="Global" tvg-logo="https://i.imgur.com/BB93NQP.png",Al Jazeera
@@ -191,5 +191,4 @@ https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 #EXTINF:-1 tvg-id="I006" group-title="Global" tvg-logo="https://i.imgur.com/43oHsHL.png",Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="I007" group-title="Global" tvg-logo="https://i.imgur.com/xGlToly.png",Bloomberg TV+
-https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+

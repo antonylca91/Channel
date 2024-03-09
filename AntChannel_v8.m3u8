@@ -35,8 +35,8 @@ http://de1se01.v2beat.live/playlist.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
 
 Animation (B)
-#EXTINF:-1 tvg-id="B001" group-title="Global" tvg-logo="https://seeklogo.com/images/A/aniplus-logo-F5C593D8BC-seeklogo.com.png",AniPlus
-https://epg.pm/stream/57f473f4fdd1b4a732745115ffce6030299771bfb432c3808ace895153c08c2c.m3u8
+#EXTINF:-1 tvg-id="B001" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Peppa_Pig_logo.svg/1200px-Peppa_Pig_logo.svg.png",Peppa Pig
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
 #EXTINF:-1 tvg-id="B002" group-title="Global" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png",Animax
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 tvg-id="B003" group-title="Global" tvg-logo="https://i.imgur.com/qceaIf7.png",EBS English
@@ -59,8 +59,7 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 #EXTINF:-1 tvg-id="B012" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Talking_Tom_logo.jpg",Tom
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-#EXTINF:-1 tvg-id="B013" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Peppa_Pig_logo.svg/1200px-Peppa_Pig_logo.svg.png",Peppa Pig
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+
 
 China (C001)
 #EXTINF:-1 tvg-id="C001" group-title="Global" tvg-logo="https://i.imgur.com/uHU6Vc0.png",CCTV1 ZhongHe
@@ -125,8 +124,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 Taiwan (F)
-#EXTINF:-1 tvg-id="F001" group-title="Global" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/BLTV.jpg/revision/latest?cb=20210710182151.png",Beautiful Life TV
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 tvg-id="F001" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg",CTi News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-id="F002" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxu4QvkKWyjcpBojgAu5U8-mJqmQDWOwljYgNLDGUMw&s.png",Taiwan Plus TV
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-id="F003" group-title="Global" tvg-logo="https://thewatchtv.com/wp-content/uploads/2020/03/Watch-CTV-News-Channel-Live-TV-from-Taiwan.jpg",CTV News
@@ -141,8 +140,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 #EXTINF:-1 tvg-id="F008" group-title="Global" tvg-logo="https://photos.live-tv-channels.org/tv-logo/tw-ebc-financial-news-8111.jpg",EBC Finance
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 tvg-id="F009" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg",CTi News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+
 
 Nature (G)
 #EXTINF:-1 tvg-id="G001" group-title="Global" tvg-logo="https://loupeart.com/cdn/shop/files/Loupe_Gradient_1200x1200.png?v=1667340212.jpg",loupe 4K
@@ -195,11 +193,9 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="I004" group-title="Global" tvg-logo="https://i.imgur.com/xWglicB.png",Channel News Asia
 https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
-#EXTINF:-1 tvg-id="I005" group-title="Global" tvg-logo="https://i.imgur.com/SfcZyqm.png",Taiwan+
-https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
+#EXTINF:-1 tvg-id="I005" group-title="Global" tvg-logo="https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/08/GB-News-logo-e1660555171324-1038x778.png",GBN News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 #EXTINF:-1 tvg-id="I006" group-title="Global" tvg-logo="https://i.imgur.com/43oHsHL.png",Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="I007" group-title="Global" tvg-logo="https://i.imgur.com/xGlToly.png",Bloomberg TV+
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-#EXTINF:-1 tvg-id="I008" group-title="Global" tvg-logo="https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/08/GB-News-logo-e1660555171324-1038x778.png",GBN News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8

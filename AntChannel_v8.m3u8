@@ -73,14 +73,13 @@ https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 
 Korea (C040)
-#EXTINF:-1 tvg-id="C040" group-title="Global" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Running_Man_New_logo.svg/revision/latest/smart/width/250/height/250?cb=20230820005622",C_RunningMan
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
+#EXTINF:-1 tvg-id="C040" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4yDIbsqqrM-Je5LPaPZMG7M8ebTCH1LfWA&usqp=CAU",C_The K-Pop
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 #EXTINF:-1 tvg-id="C041" group-title="Global" tvg-logo="https://pbs.twimg.com/profile_images/883196509982011392/l7yA_yVP_400x400.jpg",C_GuGak TV
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="C042" group-title="Global" tvg-logo="https://i.imgur.com/BzqSUVF.png",C_SBS
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="C043" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4yDIbsqqrM-Je5LPaPZMG7M8ebTCH1LfWA&usqp=CAU",C_The K-Pop
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+
 
 Hong Kong Macau (C060)
 #EXTINF:-1 tvg-id="C060" group-title="Global" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",C_Pheonix Info
@@ -119,14 +118,12 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 #EXTINF:-1 tvg-id="F004" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/1200px-China_TV_logo_since_19971030.svg.png",F_CTV
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-#EXTINF:-1 tvg-id="F005" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png",F_TVBS Asia
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="F005" group-title="Global" tvg-logo="https://photos.live-tv-channels.org/tv-logo/tw-ebc-financial-news-8111.jpg",F_EBC Finance
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="F006" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png",F_TVBS News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1 tvg-id="F007" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",F_Genius GoGoGo
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 tvg-id="F008" group-title="Global" tvg-logo="https://photos.live-tv-channels.org/tv-logo/tw-ebc-financial-news-8111.jpg",F_EBC Finance
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 
 Nature (G)
 #EXTINF:-1 tvg-id="G001" group-title="Global" tvg-logo="https://loupeart.com/cdn/shop/files/Loupe_Gradient_1200x1200.png?v=1667340212.jpg",G_loupe 4K

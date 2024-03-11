@@ -51,10 +51,7 @@ https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
 #EXTINF:-1 tvg-id="B009" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",B_Cartoon Network JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 #EXTINF:-1 tvg-id="B010" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDVNujtapQATU0IuwKbKfO7h2rU1iNCkuRt5vDMN5pQA&s",B_Rick and Morty TV
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 tvg-id="B011" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Talking_Tom_logo.jpg",B_Tom
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u
 
 China (C001)
 #EXTINF:-1 tvg-id="C001" group-title="Global" tvg-logo="https://i.imgur.com/uHU6Vc0.png",C_CCTV1 ZhongHe
@@ -79,7 +76,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="C042" group-title="Global" tvg-logo="https://i.imgur.com/BzqSUVF.png",C_SBS
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
 
 Hong Kong Macau (C060)
 #EXTINF:-1 tvg-id="C060" group-title="Global" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",C_Pheonix Info

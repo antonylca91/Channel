@@ -33,7 +33,8 @@ http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 http://de1se01.v2beat.live/playlist.m3u8
 
 Animation (B)
-
+#EXTINF:-1 tvg-id="B001" group-title="Global" tvg-logo="https://i.imgur.com/XsvbAWR.png",B_PlutoTV OnePiece
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?
 #EXTINF:-1 tvg-id="B002" group-title="Global" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png",B_Animax
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 tvg-id="B003" group-title="Global" tvg-logo="https://i.imgur.com/qceaIf7.png",B_EBS English
@@ -52,6 +53,8 @@ https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 #EXTINF:-1 tvg-id="B010" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDVNujtapQATU0IuwKbKfO7h2rU1iNCkuRt5vDMN5pQA&s",B_Rick and Morty TV
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u
+#EXTINF:-1 tvg-id="B012" group-title="Global"  tvg-logo="https://i.imgur.com/UOZ4VTH.png",B_Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
 
 China (C001)
 #EXTINF:-1 tvg-id="C001" group-title="Global" tvg-logo="https://i.imgur.com/uHU6Vc0.png",C_CCTV1 ZhongHe
@@ -130,6 +133,8 @@ https://wildearth-roku.amagi.tv/masterR1080p.m3u8
 https://go2thls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="G005" group-title="Global" tvg-logo="https://i.imgur.com/8KQirah.png",G_Travel XP
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="G006" group-title="Global" tvg-logo="https://i.imgur.com/2nzRS60.png",g_AKCTV Puppies
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
 
 Movies (H)
 #EXTINF:-1 tvg-id="H001" group-title="Global" tvg-logo="https://st4.depositphotos.com/3096635/38204/v/1600/depositphotos_382045482-stock-illustration-ultra-resolution-icon-web-mobile.jpg",H_DouYu 4K
@@ -150,11 +155,11 @@ https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1 tvg-id="H010" group-title="Global" tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/colorLogoPNG.png",H_Showtime Selects
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="H011" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",H_Rakuten Action
+#EXTINF:-1 tvg-id="H011" group-title="Global" tvg-logo="https://i.imgur.com/NJYEYE3.png",H_Rakuten Action
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="H012" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",H_Rakuten Comedy
+#EXTINF:-1 tvg-id="H012" group-title="Global" tvg-logo="https://i.imgur.com/NJYEYE3.png",H_Rakuten Comedy
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="H013" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Family;Movies",H_Rakuten Family
+#EXTINF:-1 tvg-id="H013" group-title="Global" tvg-logo="https://i.imgur.com/NJYEYE3.png",H_Rakuten Family
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 News (I)
@@ -170,17 +175,17 @@ https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 
 Sports (J)
-#EXTINF:-1 tvg-id="J001" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Sports",J_Dubai Sports
+#EXTINF:-1 tvg-id="J001" group-title="Global" tvg-logo="https://i.imgur.com/Poxw8lG.png",J_Dubai Sports
 https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="J002" tvg-logo="https://i.imgur.com/bgQ6kz7.png" group-title="Sports",J_EDGEsport
+#EXTINF:-1 tvg-id="J002" group-title="Global" tvg-logo="https://i.imgur.com/bgQ6kz7.png",J_EDGEsport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="J003" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",J_FOX Sports 1
+#EXTINF:-1 tvg-id="J003" group-title="Global" tvg-logo="https://i.imgur.com/O9BapV9.png",J_FOX Sports 1
 http://livex.pop-app.live/s4n/poplive/ch339/playlist.m3u8
-#EXTINF:-1 tvg-id="J004" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",J_FOX Sports 2
+#EXTINF:-1 tvg-id="J004" group-title="Global" tvg-logo="https://i.imgur.com/LHtxKI8.png",J_FOX Sports 2
 http://livex.pop-app.live/s4n/poplive/ch326/playlist.m3u8
-#EXTINF:-1 tvg-id="J005" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Sports",J_Fight Network
+#EXTINF:-1 tvg-id="J005" group-title="Global" tvg-logo="https://i.imgur.com/vlKPZHR.png",J_Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="J006" tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="Sports",J_SportyStuff TV
+#EXTINF:-1 tvg-id="J006" group-title="Global" tvg-logo="https://i.imgur.com/6s1YGSV.png",J_SportyStuff TV
 https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
 
 

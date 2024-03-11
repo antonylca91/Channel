@@ -70,11 +70,9 @@ https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 
 Korea (C040)
-#EXTINF:-1 tvg-id="C040" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4yDIbsqqrM-Je5LPaPZMG7M8ebTCH1LfWA&usqp=CAU",C_The K-Pop
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-#EXTINF:-1 tvg-id="C041" group-title="Global" tvg-logo="https://pbs.twimg.com/profile_images/883196509982011392/l7yA_yVP_400x400.jpg",C_GuGak TV
+#EXTINF:-1 tvg-id="C040" group-title="Global" tvg-logo="https://pbs.twimg.com/profile_images/883196509982011392/l7yA_yVP_400x400.jpg",C_GuGak TV
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="C042" group-title="Global" tvg-logo="https://i.imgur.com/BzqSUVF.png",C_SBS
+#EXTINF:-1 tvg-id="C041" group-title="Global" tvg-logo="https://i.imgur.com/BzqSUVF.png",C_SBS
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 Hong Kong Macau (C060)

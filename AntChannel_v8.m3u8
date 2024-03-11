@@ -33,8 +33,8 @@ http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 http://de1se01.v2beat.live/playlist.m3u8
 
 Animation (B)
-#EXTINF:-1 tvg-id="B001" group-title="Global" tvg-logo="https://i.imgur.com/XsvbAWR.png",B_PlutoTV OnePiece
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?
+#EXTINF:-1 tvg-id="B001" group-title="Global"  tvg-logo="https://i.imgur.com/UOZ4VTH.png",B_Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
 #EXTINF:-1 tvg-id="B002" group-title="Global" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png",B_Animax
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 tvg-id="B003" group-title="Global" tvg-logo="https://i.imgur.com/qceaIf7.png",B_EBS English
@@ -53,8 +53,7 @@ https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 #EXTINF:-1 tvg-id="B010" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDVNujtapQATU0IuwKbKfO7h2rU1iNCkuRt5vDMN5pQA&s",B_Rick and Morty TV
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u
-#EXTINF:-1 tvg-id="B012" group-title="Global"  tvg-logo="https://i.imgur.com/UOZ4VTH.png",B_Samurai Jack
-https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
+
 
 China (C001)
 #EXTINF:-1 tvg-id="C001" group-title="Global" tvg-logo="https://i.imgur.com/uHU6Vc0.png",C_CCTV1 ZhongHe

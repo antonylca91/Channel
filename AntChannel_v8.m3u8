@@ -22,7 +22,7 @@ Movies (H)
 
 Music (I)
 
-
+Sports (J)
 
 Music (A)
 #EXTINF:-1 tvg-id="A001" group-title="Global" tvg-logo="https://dp6mhagng1yw3.cloudfront.net/entries/5th-socialgood/9092077b-a8e0-4ed1-9dd4-54406deb8193.png",A_CMT Equal Play
@@ -150,6 +150,12 @@ https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1 tvg-id="H010" group-title="Global" tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/colorLogoPNG.png",H_Showtime Selects
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="H011" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",H_Rakuten Action
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="H012" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",H_Rakuten Comedy
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="H013" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Family;Movies",H_Rakuten Family
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 News (I)
 #EXTINF:-1 tvg-id="I001" group-title="Global" tvg-logo="https://i.imgur.com/xGlToly.png",I_Bloomberg TV+
@@ -162,5 +168,21 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 #EXTINF:-1 tvg-id="I005" group-title="Global" tvg-logo="https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/08/GB-News-logo-e1660555171324-1038x778.png",I_GBN News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+
+Sports (J)
+#EXTINF:-1 tvg-id="J001" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Sports",J_Dubai Sports
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="J002" tvg-logo="https://i.imgur.com/bgQ6kz7.png" group-title="Sports",J_EDGEsport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="J003" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",J_FOX Sports 1
+http://livex.pop-app.live/s4n/poplive/ch339/playlist.m3u8
+#EXTINF:-1 tvg-id="J004" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",J_FOX Sports 2
+http://livex.pop-app.live/s4n/poplive/ch326/playlist.m3u8
+#EXTINF:-1 tvg-id="J005" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Sports",J_Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="J006" tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="Sports",J_SportyStuff TV
+https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
+
+
 
 

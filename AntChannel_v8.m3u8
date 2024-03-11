@@ -175,8 +175,8 @@ https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 
 Sports (J)
-#EXTINF:-1 tvg-id="J001" group-title="Global" tvg-logo="https://i.imgur.com/Poxw8lG.png",J_Dubai Sports
-https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="J001" group-title="Global" tvg-logo="https://i.imgur.com/6s1YGSV.png",J_SportyStuff TV
+https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
 #EXTINF:-1 tvg-id="J002" group-title="Global" tvg-logo="https://i.imgur.com/bgQ6kz7.png",J_EDGEsport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="J003" group-title="Global" tvg-logo="https://i.imgur.com/O9BapV9.png",J_FOX Sports 1
@@ -185,8 +185,7 @@ http://livex.pop-app.live/s4n/poplive/ch339/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch326/playlist.m3u8
 #EXTINF:-1 tvg-id="J005" group-title="Global" tvg-logo="https://i.imgur.com/vlKPZHR.png",J_Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="J006" group-title="Global" tvg-logo="https://i.imgur.com/6s1YGSV.png",J_SportyStuff TV
-https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
+
 
 
 

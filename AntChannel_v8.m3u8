@@ -161,7 +161,7 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="H013" group-title="Global" tvg-logo="https://i.imgur.com/NJYEYE3.png",H_Rakuten Family
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="H014" group-title="Global" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f6652061e12b0246ef228236f06fa5f1.webp",Mytime
+#EXTINF:-1 tvg-id="H014" group-title="Global" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f6652061e12b0246ef228236f06fa5f1.webp",H_Mytime
 https://mytime-tcl.amagi.tv/playlist1080-p.m3u8
 
 News (I)

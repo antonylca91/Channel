@@ -25,11 +25,9 @@ Music (I)
 Sports (J)
 
 Music (A)
-#EXTINF:-1 tvg-id="A001" group-title="Global" tvg-logo="https://dp6mhagng1yw3.cloudfront.net/entries/5th-socialgood/9092077b-a8e0-4ed1-9dd4-54406deb8193.png",A_CMT Equal Play
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="A002" group-title="Global" tvg-logo="https://groover-images.s3.eu-west-3.amazonaws.com/prod/influencer/0.reload-music/profile_picture/400_400",A_Music Reload TVHD
+#EXTINF:-1 tvg-id="A001" group-title="Global" tvg-logo="https://groover-images.s3.eu-west-3.amazonaws.com/prod/influencer/0.reload-music/profile_picture/400_400",A_Music Reload TVHD
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
-#EXTINF:-1 tvg-id="A003" group-title="Global" tvg-logo="https://play-lh.googleusercontent.com/O7hyr5-sSnDA4q5-styBP3ZkydPVA3FGxAX7lP6cVxAsYPfIQYojCtnVGtgbPVc-sdo",A_V2BEAT
+#EXTINF:-1 tvg-id="A002" group-title="Global" tvg-logo="https://play-lh.googleusercontent.com/O7hyr5-sSnDA4q5-styBP3ZkydPVA3FGxAX7lP6cVxAsYPfIQYojCtnVGtgbPVc-sdo",A_V2BEAT
 http://de1se01.v2beat.live/playlist.m3u8
 
 Animation (B)
@@ -151,7 +149,7 @@ http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="H008" group-title="Global" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/67C50642-086D-4EC9-BF2F-0DF19FF704F0/3-1x1.png/900",H_Family Flix
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="H009" group-title="Global" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",H_UNIFI DUNIA SINEMA
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live20-1080FHD.m3u8
 #EXTINF:-1 tvg-id="H010" group-title="Global" tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/colorLogoPNG.png",H_Showtime Selects
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="H011" group-title="Global" tvg-logo="https://i.imgur.com/NJYEYE3.png",H_Rakuten Action
@@ -176,15 +174,7 @@ https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 
 Sports (J)
-#EXTINF:-1 tvg-id="J001" group-title="Global" tvg-logo="https://i.imgur.com/6s1YGSV.png",J_SportyStuff TV
-https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
-#EXTINF:-1 tvg-id="J002" group-title="Global" tvg-logo="https://i.imgur.com/bgQ6kz7.png",J_EDGEsport
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="J003" group-title="Global" tvg-logo="https://i.imgur.com/O9BapV9.png",J_FOX Sports 1
-http://livex.pop-app.live/s4n/poplive/ch339/playlist.m3u8
-#EXTINF:-1 tvg-id="J004" group-title="Global" tvg-logo="https://i.imgur.com/LHtxKI8.png",J_FOX Sports 2
-http://livex.pop-app.live/s4n/poplive/ch326/playlist.m3u8
-#EXTINF:-1 tvg-id="J005" group-title="Global" tvg-logo="https://i.imgur.com/vlKPZHR.png",J_Fight Network
+#EXTINF:-1 tvg-id="J001" group-title="Global" tvg-logo="https://i.imgur.com/vlKPZHR.png",J_Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
 

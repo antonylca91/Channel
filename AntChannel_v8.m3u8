@@ -52,19 +52,19 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 
 China (C001)
 #EXTINF:-1 tvg-id="C001" group-title="Global" tvg-logo="https://i.imgur.com/uHU6Vc0.png",C_CCTV1 ZhongHe
-https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-id="C002" group-title="Global" tvg-logo="https://i.imgur.com/6C9JEYt.png",C_CCTV2 Finance
-https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-id="C003" group-title="Global" tvg-logo="https://i.imgur.com/1TPiRqR.png",C_CCTV4 News
-https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 #EXTINF:-1 tvg-id="C004" group-title="Global" tvg-logo="https://i.imgur.com/Mut2omN.png",C_CCTV5 Sports
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 #EXTINF:-1 tvg-id="C005" group-title="Global" tvg-logo="https://i.imgur.com/UNjmQVS.png",C_CCTV5+ Sports+
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 #EXTINF:-1 tvg-id="C006" group-title="Global" tvg-logo="https://i.imgur.com/Qg1opg9.png",C_CCTV8 Drama
-https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 #EXTINF:-1 tvg-id="C007" group-title="Global" tvg-logo="https://i.imgur.com/Ruyzhu5.png",C_CCTV9 JiLu
-https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 
 Korea (C040)
 #EXTINF:-1 tvg-id="C040" group-title="Global" tvg-logo="https://pbs.twimg.com/profile_images/883196509982011392/l7yA_yVP_400x400.jpg",C_GuGak TV

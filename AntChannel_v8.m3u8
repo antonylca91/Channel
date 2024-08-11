@@ -43,31 +43,28 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-id="B006" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/ZooMoo-Kids.png",B_ZooMoo Kids 
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="B007" group-title="Global" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",B_Nickelodeon Junior
-http://bit.ly/NickJr360p
+#EXTINF:-1 tvg-id="B007" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDVNujtapQATU0IuwKbKfO7h2rU1iNCkuRt5vDMN5pQA&s",B_Rick and Morty TV
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u
 #EXTINF:-1 tvg-id="B008" group-title="Global" tvg-logo="https://i.imgur.com/0nDftk7.jpg",B_Pokemon Kids EN
 https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
 #EXTINF:-1 tvg-id="B009" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",B_Cartoon Network JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 tvg-id="B010" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDVNujtapQATU0IuwKbKfO7h2rU1iNCkuRt5vDMN5pQA&s",B_Rick and Morty TV
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u
-
 
 China (C001)
 #EXTINF:-1 tvg-id="C001" group-title="Global" tvg-logo="https://i.imgur.com/uHU6Vc0.png",C_CCTV1 ZhongHe
-https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+http://101.75.215.253:8008/hls/1/index.m3u8
 #EXTINF:-1 tvg-id="C002" group-title="Global" tvg-logo="https://i.imgur.com/6C9JEYt.png",C_CCTV2 Finance
-https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+http://101.75.215.253:8008/hls/2/index.m3u8
 #EXTINF:-1 tvg-id="C003" group-title="Global" tvg-logo="https://i.imgur.com/1TPiRqR.png",C_CCTV4 News
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-id="C004" group-title="Global" tvg-logo="https://i.imgur.com/Mut2omN.png",C_CCTV5 Sports
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+http://101.75.215.253:8008/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="C005" group-title="Global" tvg-logo="https://i.imgur.com/UNjmQVS.png",C_CCTV5+ Sports+
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+http://219.145.19.123:55443/tsfile/live/0136_1.m3u8
 #EXTINF:-1 tvg-id="C006" group-title="Global" tvg-logo="https://i.imgur.com/Qg1opg9.png",C_CCTV8 Drama
-https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+http://101.75.215.253:8008/hls/8/index.m3u8
 #EXTINF:-1 tvg-id="C007" group-title="Global" tvg-logo="https://i.imgur.com/Ruyzhu5.png",C_CCTV9 JiLu
-https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+http://101.75.215.253:8008/hls/9/index.m3u8
 
 Korea (C040)
 #EXTINF:-1 tvg-id="C040" group-title="Global" tvg-logo="https://pbs.twimg.com/profile_images/883196509982011392/l7yA_yVP_400x400.jpg",C_GuGak TV

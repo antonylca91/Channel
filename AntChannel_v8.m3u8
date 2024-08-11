@@ -49,6 +49,10 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u
 https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
 #EXTINF:-1 tvg-id="B009" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",B_Cartoon Network JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1 tvg-id="B010" group-title="Global" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA400003FQ_20240709T002000SQUARE.png",B_Animation+
+https://jmp2.uk/SamsungTVPlus/CA400003FQ.m3u8
+#EXTINF:-1 tvg-id="B011" group-title="Global" tvg-logo="https://i.imgur.com/0nDftk7.jpg",B_test
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
 
 China (C001)
 #EXTINF:-1 tvg-id="C001" group-title="Global" tvg-logo="https://i.imgur.com/uHU6Vc0.png",C_CCTV1 ZhongHe
@@ -112,8 +116,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="F006" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png",F_TVBS News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-#EXTINF:-1 tvg-id="F007" group-title="Global" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c4/天才衝衝衝.png",F_Genius GoGoGo
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 
 Nature (G)
 #EXTINF:-1 tvg-id="G001" group-title="Global" tvg-logo="https://loupeart.com/cdn/shop/files/Loupe_Gradient_1200x1200.png?v=1667340212.jpg",G_loupe 4K

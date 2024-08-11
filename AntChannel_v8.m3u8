@@ -84,7 +84,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-id="D002" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhygPOdMQ9lk26GLHZEvSowY5X2mMiXZg1HqhQMGK4Ew&s.png",D_Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #EXTINF:-1 tvg-id="D003" group-title="Global" tvg-logo="https://seeklogo.com/images/R/rtm-tv1-logo-8E4DB73C45-seeklogo.com.png",D_TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv1/index.m3u8
 #EXTINF:-1 tvg-id="D004" group-title="Global" tvg-logo="https://seeklogo.com/images/R/rtm-tv2-logo-98E8A6E738-seeklogo.com.png",D_TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 tvg-id="D005" group-title="Global" tvg-logo="https://seeklogo.com/images/T/TV3-logo-5C29A8EACC-seeklogo.com.png",D_TV3
@@ -155,8 +155,6 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="I004" group-title="Global" tvg-logo="https://i.imgur.com/xWglicB.png",I_Channel News Asia
 https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
-#EXTINF:-1 tvg-id="I005" group-title="Global" tvg-logo="https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/08/GB-News-logo-e1660555171324-1038x778.png",I_GBN News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 
 Sports (J)
 #EXTINF:-1 tvg-id="J001" group-title="Global" tvg-logo="https://i.imgur.com/vlKPZHR.png",J_Fight Network

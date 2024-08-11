@@ -52,7 +52,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 
 China (C001)
 #EXTINF:-1 tvg-id="C001" group-title="Global" tvg-logo="https://i.imgur.com/uHU6Vc0.png",C_CCTV1 ZhongHe
-http://101.75.215.253:8008/hls/1/index.m3u8
+http://171.108.239.38:8181/tsfile/live/1059_1.m3u8
 #EXTINF:-1 tvg-id="C002" group-title="Global" tvg-logo="https://i.imgur.com/6C9JEYt.png",C_CCTV2 Finance
 http://101.75.215.253:8008/hls/2/index.m3u8
 #EXTINF:-1 tvg-id="C003" group-title="Global" tvg-logo="https://i.imgur.com/1TPiRqR.png",C_CCTV4 News

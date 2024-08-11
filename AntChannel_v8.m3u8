@@ -52,19 +52,19 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 
 China (C001)
 #EXTINF:-1 tvg-id="C001" group-title="Global" tvg-logo="https://i.imgur.com/uHU6Vc0.png",C_CCTV1 ZhongHe
-http://171.108.239.38:8181/tsfile/live/1059_1.m3u8
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-id="C002" group-title="Global" tvg-logo="https://i.imgur.com/6C9JEYt.png",C_CCTV2 Finance
-http://101.75.215.253:8008/hls/2/index.m3u8
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 tvg-id="C003" group-title="Global" tvg-logo="https://i.imgur.com/1TPiRqR.png",C_CCTV4 News
-http://159.75.85.63:5679/cctv4k.php
+https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
 #EXTINF:-1 tvg-id="C004" group-title="Global" tvg-logo="https://i.imgur.com/Mut2omN.png",C_CCTV5 Sports
-http://101.75.215.253:8008/hls/5/index.m3u8
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-id="C005" group-title="Global" tvg-logo="https://i.imgur.com/UNjmQVS.png",C_CCTV5+ Sports+
-http://219.145.19.123:55443/tsfile/live/0136_1.m3u8
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-id="C006" group-title="Global" tvg-logo="https://i.imgur.com/Qg1opg9.png",C_CCTV8 Drama
-http://101.75.215.253:8008/hls/8/index.m3u8
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 tvg-id="C007" group-title="Global" tvg-logo="https://i.imgur.com/Ruyzhu5.png",C_CCTV9 JiLu
-http://101.75.215.253:8008/hls/9/index.m3u8
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 
 Korea (C040)
 #EXTINF:-1 tvg-id="C040" group-title="Global" tvg-logo="https://pbs.twimg.com/profile_images/883196509982011392/l7yA_yVP_400x400.jpg",C_GuGak TV
@@ -73,12 +73,7 @@ http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 Hong Kong Macau (C060)
-#EXTINF:-1 tvg-id="C060" group-title="Global" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",C_Pheonix Info
-http://php.17186.eu.org/phtv/fhzx.m3u8
-#EXTINF:-1 tvg-id="C061" group-title="Global" tvg-logo="https://i.imgur.com/nhsx7sa.png",C_TVB Jade
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="C062" group-title="Global" tvg-logo="https://camo.githubusercontent.com/91f8feb1cb6e867e47262cbb99e71b32fec19c8bcbba212d9a5c9763b62905d4/68747470733a2f2f692e696d6775722e636f6d2f4777696a30466a2e706e67",C_TVB News
-https://tvp22.sky4k.top/index1.php
+
 
 Malaysia Singapore (D)
 #EXTINF:-1 tvg-id="D001" group-title="Global" tvg-logo="https://seeklogo.com/images/R/RTM-logo-8A0D207208-seeklogo.com.png",D_TVIKIM

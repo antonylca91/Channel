@@ -27,8 +27,6 @@ Sports (J)
 Music (A)
 #EXTINF:-1 tvg-id="A001" group-title="Global" tvg-logo="https://groover-images.s3.eu-west-3.amazonaws.com/prod/influencer/0.reload-music/profile_picture/400_400",A_Music Reload TVHD
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
-#EXTINF:-1 tvg-id="A002" group-title="Global" tvg-logo="https://play-lh.googleusercontent.com/O7hyr5-sSnDA4q5-styBP3ZkydPVA3FGxAX7lP6cVxAsYPfIQYojCtnVGtgbPVc-sdo",A_V2BEAT
-http://de1se01.v2beat.live/playlist.m3u8
 
 Animation (B)
 #EXTINF:-1 tvg-id="B001" group-title="Global"  tvg-logo="https://i.imgur.com/UOZ4VTH.png",B_Samurai Jack

@@ -112,10 +112,6 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
 
 Movies (H)
-#EXTINF:-1 tvg-id="H004" group-title="Global" tvg-logo="https://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png",H_The Asylum
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="H005" group-title="Global" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png",H_Rakuten TV
-https://rakuten-actionmovies-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="H007" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlRbdKbfOZ99IHa9BAkmbT8xGiVChQTOaoLOHpEsOaPw&s",H_Crackle
 http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="H010" group-title="Global" tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/colorLogoPNG.png",H_Showtime Selects

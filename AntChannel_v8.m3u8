@@ -76,20 +76,14 @@ Hong Kong Macau (C060)
 
 
 Malaysia Singapore (D)
-#EXTINF:-1 tvg-id="D001" group-title="Global" tvg-logo="https://seeklogo.com/images/R/RTM-logo-8A0D207208-seeklogo.com.png",D_TVIKIM
-https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-id="D002" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhygPOdMQ9lk26GLHZEvSowY5X2mMiXZg1HqhQMGK4Ew&s.png",D_Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #EXTINF:-1 tvg-id="D003" group-title="Global" tvg-logo="https://seeklogo.com/images/R/rtm-tv1-logo-8E4DB73C45-seeklogo.com.png",D_TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:-1 tvg-id="D004" group-title="Global" tvg-logo="https://seeklogo.com/images/R/rtm-tv2-logo-98E8A6E738-seeklogo.com.png",D_TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:-1 tvg-id="D005" group-title="Global" tvg-logo="https://seeklogo.com/images/T/TV3-logo-5C29A8EACC-seeklogo.com.png",D_TV3
-https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
 #EXTINF:-1 tvg-id="D006" group-title="Global" tvg-logo="https://seeklogo.com/images/R/RTM-logo-8A0D207208-seeklogo.com.png",D_Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 tvg-id="D007" group-title="Global" tvg-logo="https://i.imgur.com/skJjF4m.png",D_Bernama
-https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
 USA (E)
 #EXTINF:-1 tvg-id="E001" group-title="Global" tvg-logo="https://i.imgur.com/KqjTIh8.png",E_RedBox Spotlight

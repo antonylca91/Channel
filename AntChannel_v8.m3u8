@@ -50,19 +50,23 @@ https://jmp2.uk/SamsungTVPlus/CA400003FQ.m3u8
 
 China (C001)
 #EXTINF:-1 tvg-id="C001" group-title="Global" tvg-logo="https://i.imgur.com/uHU6Vc0.png",C_CCTV1 ZhongHe
-http://219.147.200.9:18080/newlive/live/hls/1/live.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-id="C002" group-title="Global" tvg-logo="https://i.imgur.com/6C9JEYt.png",C_CCTV2 Finance
-http://61.162.52.6:8088/newlive/live/hls/2/live.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+#EXTINF:-1 tvg-id="C002" group-title="Global" tvg-logo="https://i.imgur.com/6C9JEYt.png",C_CCTV3 Comedy
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 tvg-id="C003" group-title="Global" tvg-logo="https://i.imgur.com/1TPiRqR.png",C_CCTV4 News
-http://221.5.12.130:2223/hls/74/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 tvg-id="C004" group-title="Global" tvg-logo="https://i.imgur.com/Mut2omN.png",C_CCTV5 Sports
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="C005" group-title="Global" tvg-logo="https://i.imgur.com/UNjmQVS.png",C_CCTV5+ Sports+
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+ttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 tvg-id="C005" group-title="Global" tvg-logo="https://i.imgur.com/UNjmQVS.png",C_CCTV6 Movie
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 tvg-id="C006" group-title="Global" tvg-logo="https://i.imgur.com/Qg1opg9.png",C_CCTV8 Drama
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 #EXTINF:-1 tvg-id="C007" group-title="Global" tvg-logo="https://i.imgur.com/Ruyzhu5.png",C_CCTV9 JiLu
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 
 Korea (C040)
 #EXTINF:-1 tvg-id="C040" group-title="Global" tvg-logo="https://pbs.twimg.com/profile_images/883196509982011392/l7yA_yVP_400x400.jpg",C_GuGak TV

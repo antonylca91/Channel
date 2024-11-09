@@ -7,7 +7,7 @@
 #Music & Movies (5XX)
 #News & Sports (6XX)
 
-Malaysia Singapore (1XX)
+#Malaysia Singapore (1XX)
 #EXTINF:-1 tvg-id="101" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhygPOdMQ9lk26GLHZEvSowY5X2mMiXZg1HqhQMGK4Ew&s.png",101 Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #EXTINF:-1 tvg-id="102" group-title="Global" tvg-logo="https://seeklogo.com/images/R/rtm-tv1-logo-8E4DB73C45-seeklogo.com.png",102 TV1
@@ -17,7 +17,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 tvg-id="104" group-title="Global" tvg-logo="https://seeklogo.com/images/R/RTM-logo-8A0D207208-seeklogo.com.png",104 Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-Animation (2XX)
+#Animation (2XX)
 #EXTINF:-1 tvg-id="201" group-title="Global"  tvg-logo="https://i.imgur.com/UOZ4VTH.png",201 Samurai Jack
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
 #EXTINF:-1 tvg-id="202" group-title="Global" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png",202 Animax
@@ -37,7 +37,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 #EXTINF:-1 tvg-id="210" group-title="Global" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA400003FQ_20240709T002000SQUARE.png",209 Animation+
 https://jmp2.uk/SamsungTVPlus/CA400003FQ.m3u8
 
-Others (3XX)
+#Others (3XX)
 #EXTINF:-1 tvg-id="C001" group-title="Global" tvg-logo="https://i.imgur.com/uHU6Vc0.png",301 CCTV1 ZhongHe
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-id="C002" group-title="Global" tvg-logo="https://i.imgur.com/6C9JEYt.png",302 CCTV2 Finance
@@ -71,7 +71,7 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 #EXTINF:-1 tvg-id="F003" group-title="Global" tvg-logo="https://thewatchtv.com/wp-content/uploads/2020/03/Watch-CTV-News-Channel-Live-TV-from-Taiwan.jpg",316 CTV News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 
-Nature (4XX)
+#Nature (4XX)
 #EXTINF:-1 tvg-id="401" group-title="Global" tvg-logo="https://loupeart.com/cdn/shop/files/Loupe_Gradient_1200x1200.png?v=1667340212.jpg",401 loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="402" group-title="Global" tvg-logo="https://raz-media.se/wp-content/uploads/2022/05/love-nature.png",402 Nature4K
@@ -83,7 +83,7 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="406" group-title="Global" tvg-logo="https://i.imgur.com/2nzRS60.png",405 AKCTV Puppies
 https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
 
-Music & Movies (5XX)
+#Music & Movies (5XX)
 #EXTINF:-1 tvg-id="501" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlRbdKbfOZ99IHa9BAkmbT8xGiVChQTOaoLOHpEsOaPw&s",501 Crackle
 http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="502" group-title="Global" tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/colorLogoPNG.png",502 Showtime Selects
@@ -99,7 +99,7 @@ https://mytime-tcl.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-id="507" group-title="Global" tvg-logo="https://groover-images.s3.eu-west-3.amazonaws.com/prod/influencer/0.reload-music/profile_picture/400_400",507 Music Reload TVHD
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 
-News & Sports (6XX)
+#News & Sports (6XX)
 #EXTINF:-1 tvg-id="601" group-title="Global" tvg-logo="https://i.imgur.com/xGlToly.png",601 Bloomberg TV+
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-id="602" group-title="Global" tvg-logo="https://i.imgur.com/43oHsHL.png",602 Yahoo Finance

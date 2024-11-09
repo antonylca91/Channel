@@ -13,13 +13,13 @@ Music & Movies (5XX)
 News & Sports (6XX)
 
 Malaysia Singapore (1XX)
-#EXTINF:-1 tvg-id="101" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhygPOdMQ9lk26GLHZEvSowY5X2mMiXZg1HqhQMGK4Ew&s.png",D_Astro Awani
+#EXTINF:-1 tvg-id="101" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhygPOdMQ9lk26GLHZEvSowY5X2mMiXZg1HqhQMGK4Ew&s.png",101 Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 tvg-id="102" group-title="Global" tvg-logo="https://seeklogo.com/images/R/rtm-tv1-logo-8E4DB73C45-seeklogo.com.png",D_TV1
+#EXTINF:-1 tvg-id="102" group-title="Global" tvg-logo="https://seeklogo.com/images/R/rtm-tv1-logo-8E4DB73C45-seeklogo.com.png",102 TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:-1 tvg-id="103" group-title="Global" tvg-logo="https://seeklogo.com/images/R/rtm-tv2-logo-98E8A6E738-seeklogo.com.png",D_TV2
+#EXTINF:-1 tvg-id="103" group-title="Global" tvg-logo="https://seeklogo.com/images/R/rtm-tv2-logo-98E8A6E738-seeklogo.com.png",103 TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:-1 tvg-id="104" group-title="Global" tvg-logo="https://seeklogo.com/images/R/RTM-logo-8A0D207208-seeklogo.com.png",D_Sukan RTM
+#EXTINF:-1 tvg-id="104" group-title="Global" tvg-logo="https://seeklogo.com/images/R/RTM-logo-8A0D207208-seeklogo.com.png",104 Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 Animation (2XX)

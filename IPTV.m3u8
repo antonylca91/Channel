@@ -24,23 +24,23 @@ https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
 
 #Others (3XX)
 #EXTINF:-1 tvg-id="301" group-title="Global" tvg-logo="https://i.imgur.com/uHU6Vc0.png",301 CCTV1 ZhongHe
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
 #EXTINF:-1 tvg-id="302" group-title="Global" tvg-logo="https://i.imgur.com/6C9JEYt.png",302 CCTV2 Finance
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002135/index.m3u8
 #EXTINF:-1 tvg-id="303" group-title="Global" tvg-logo="https://i.imgur.com/6C9JEYt.png",303 CCTV3 Comedy
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8
 #EXTINF:-1 tvg-id="304" group-title="Global" tvg-logo="https://i.imgur.com/1TPiRqR.png",304 CCTV4 News
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226539/index.m3u8
 #EXTINF:-1 tvg-id="305" group-title="Global" tvg-logo="https://i.imgur.com/Mut2omN.png",305 CCTV5 Sports
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226146/index.m3u8
 #EXTINF:-1 tvg-id="306" group-title="Global" tvg-logo="https://i.imgur.com/UNjmQVS.png",306 CCTV5+ Sports+
-ttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002139/index.m3u8
 #EXTINF:-1 tvg-id="307" group-title="Global" tvg-logo="https://i.imgur.com/UNjmQVS.png",307 CCTV6 Movie
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226148/index.m3u8
 #EXTINF:-1 tvg-id="308" group-title="Global" tvg-logo="https://i.imgur.com/Qg1opg9.png",308 CCTV8 Drama
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000008/index.m3u8
 #EXTINF:-1 tvg-id="309" group-title="Global" tvg-logo="https://i.imgur.com/Ruyzhu5.png",309 CCTV9 JiLu
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226434/index.m3u8
 #EXTINF:-1 tvg-id="310" group-title="Global" tvg-logo="https://pbs.twimg.com/profile_images/883196509982011392/l7yA_yVP_400x400.jpg",310 GuGak TV
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="311" group-title="Global" tvg-logo="https://i.imgur.com/BzqSUVF.png",311 SBS

@@ -1,13 +1,6 @@
 #EXTM3U
 
 #Malaysia Singapore (1XX)
-#Animation (2XX)
-#Others (31X-32X)
-#Nature (4XX)
-#Music & Movies (5XX)
-#News & Sports (6XX)
-
-#Malaysia Singapore (1XX)
 #EXTINF:-1 tvg-id="101" group-title="Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhygPOdMQ9lk26GLHZEvSowY5X2mMiXZg1HqhQMGK4Ew&s.png",101 Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #EXTINF:-1 tvg-id="102" group-title="Global" tvg-logo="https://seeklogo.com/images/R/rtm-tv1-logo-8E4DB73C45-seeklogo.com.png",102 TV1

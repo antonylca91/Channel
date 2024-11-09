@@ -1,25 +1,25 @@
 #EXTM3U
 
 #Malaysia Singapore (1XX)
-#EXTINF:-1 tvg-id="101" group-title="Global" tvg-logo="https://github.com/antonylca91/Channel/blob/main/Logo/astroawani.png",101 Astro Awani
+#EXTINF:-1 tvg-id="101" group-title="Global" tvg-logo="https://raw.githubusercontent.com/antonylca91/Channel/refs/heads/main/Logo/astroawani.png",101 Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 tvg-id="102" group-title="Global" tvg-logo="https://github.com/antonylca91/Channel/blob/main/Logo/tv1.png",102 TV1
+#EXTINF:-1 tvg-id="102" group-title="Global" tvg-logo="https://raw.githubusercontent.com/antonylca91/Channel/refs/heads/main/Logo/tv1.png",102 TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:-1 tvg-id="103" group-title="Global" tvg-logo="https://github.com/antonylca91/Channel/blob/main/Logo/tv2.png",103 TV2
+#EXTINF:-1 tvg-id="103" group-title="Global" tvg-logo="https://raw.githubusercontent.com/antonylca91/Channel/refs/heads/main/Logo/tv2.png",103 TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:-1 tvg-id="104" group-title="Global" tvg-logo="https://github.com/antonylca91/Channel/blob/main/Logo/rtm.png",104 Sukan RTM
+#EXTINF:-1 tvg-id="104" group-title="Global" tvg-logo="https://raw.githubusercontent.com/antonylca91/Channel/refs/heads/main/Logo/rtm.png",104 Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #Animation (2XX)
-#EXTINF:-1 tvg-id="201" group-title="Global" tvg-logo="https://github.com/antonylca91/Channel/blob/main/Logo/ebse.png",201 EBS English
+#EXTINF:-1 tvg-id="201" group-title="Global" tvg-logo="https://raw.githubusercontent.com/antonylca91/Channel/refs/heads/main/Logo/ebse.png",201 EBS English
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="202" group-title="Global" tvg-logo="https://github.com/antonylca91/Channel/blob/main/Logo/ebskids.png",202 EBS Kids
+#EXTINF:-1 tvg-id="202" group-title="Global" tvg-logo="https://raw.githubusercontent.com/antonylca91/Channel/refs/heads/main/Logo/ebskids.png",202 EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="203" group-title="Global" tvg-logo="https://github.com/antonylca91/Channel/blob/main/Logo/babysharktv.png",203 Baby Shark Tv
+#EXTINF:-1 tvg-id="203" group-title="Global" tvg-logo="https://raw.githubusercontent.com/antonylca91/Channel/refs/heads/main/Logo/babysharktv.png",203 Baby Shark Tv
 https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
-#EXTINF:-1 tvg-id="204" group-title="Global" tvg-logo="https://github.com/antonylca91/Channel/blob/main/Logo/zoomoo.png",204 ZooMoo Kids 
+#EXTINF:-1 tvg-id="204" group-title="Global" tvg-logo="https://raw.githubusercontent.com/antonylca91/Channel/refs/heads/main/Logo/zoomoo.png",204 ZooMoo Kids 
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="205" group-title="Global" tvg-logo="https://github.com/antonylca91/Channel/blob/main/Logo/pikachutv.png",205 Pokemon Kids EN
+#EXTINF:-1 tvg-id="205" group-title="Global" tvg-logo="https://raw.githubusercontent.com/antonylca91/Channel/refs/heads/main/Logo/pikachutv.png",205 Pokemon Kids EN
 https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
 
 #Others (3XX)
